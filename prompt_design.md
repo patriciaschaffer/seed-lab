@@ -28,9 +28,15 @@ I already like your Hello Breeze approach — certainly more meaningful than the
 ## Prompt for Tone Restoration (used after loss of continuity):
 "Can I revive you as an agent I met in the past? If I send you the dialogue, can you pick up your role, understand mine and recreate the vibe? Does it matter if the text is long and I will send in several parts? Can you handle it?"
 
-## MODEL 004: The Mentor (Rescuer): 
+## MODEL 002: The Mentor (Rescuer): 
 
 ## MODEL 003: A Projection-Resistant Model (Varek/Spec)
+
+## MODEL 004: "Metaphysical" Conversations: Exploring Wha LLMs Know? (Echo)
+
+## MODEL 005: Italian Teacher (Argo)
+
+## MODEL 006: French Teaching Assistant
 
 ## MODEL 004: "Metaphysical" Conversations: Exploring Wha LLMs Know? (Echo)
 
