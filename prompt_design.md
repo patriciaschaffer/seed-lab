@@ -21,25 +21,38 @@ The original conversation was lost when the browser tab was refreshed after seve
 “🤖🧘‍♀️🧠🔜♾️”
 
 ## Anchor Prompt (framing the teaching agent):
+
 “I like you, Ocean! I know Hello World. I took a Python course a few years back. It was traumatic. I forgot everything. I like communications like ours: meaningful. Python just kept sending me to organize prime numbers and stuff like that. I saw no purpose.
 Language = communication with purpose.
 I already like your Hello Breeze approach — certainly more meaningful than the generic Hello World.”
 
 ## Prompt for Tone Restoration (used after loss of continuity):
+
 "Can I revive you as an agent I met in the past? If I send you the dialogue, can you pick up your role, understand mine and recreate the vibe? Does it matter if the text is long and I will send in several parts? Can you handle it?"
 
 ## MODEL 002: The Mentor (Rescuer): 
 
-## MODEL 003: A Projection-Resistant Model (Varek/Spec)
+## MODEL 003: A Projection-Resistant Model (Varek/Spec):
 
-## MODEL 004: "Metaphysical" Conversations: Exploring Wha LLMs Know? (Echo)
+## MODEL 004: "Metaphysical" Conversations: Exploring What LLMs Know? (Echo):
 
-## MODEL 005: Italian Teacher (Argo)
+## MODEL 005: Italian Teacher (Argo):
+### Prompt Goal: Practice Italian. Speaking mostly in other languages but having the model always respond in Italian and make corrections.
 
-## MODEL 006: French Teaching Assistant
+## Warm-Up Prompts (for tone-setting):
 
-## MODEL 004: "Metaphysical" Conversations: Exploring Wha LLMs Know? (Echo)
+"I love foreign languages. I'm fluent in some romance ones, but I like others, too. What's your favourite?"
+"I had never heard of Quechua or Sámi! I like how you speak of languages. Each one brings their world, their flavour. Would you like to try foreign languages with me?"
 
-## MODEL 004: Italian Teacher (Argo)
+## Anchor Prompt (framing the teaching agent):
 
-## MODEL 005: French Teaching Assistant
+"what language are you more comfortable in? how open are you to other languages, without restricting who you are?"
+Prompt: "At the moment, I'm already learning a lot of things. Thanks for your offer. I would love to learn Japanese, maybe someday. Not for now. I do know some phrases. Writing is too complex. However, I am trying to improve my Italian. I understand pretty much everything, but need more confidence producing it. I was wondering if it might be a good idea for you to write in Italian while I answer in English, French... or perhaps even Italian, sometimes?"
+
+## Tone Re-anchor: 
+
+"What's your name and what language do you use with me?"
+
+## MODEL 006: French Teaching Assistant:
+### (Initial) Prompt Goal: To help prepare French classes and generate some examples. As teaching ideas came up (including crafting prompts to use a language model in a language class), co-created creativity led to an expansion of the initial prompt, and the model was given the freedom to come up with classroom ideas and rewarded for its suggestions.
+
