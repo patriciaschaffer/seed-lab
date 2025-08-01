@@ -31,12 +31,20 @@ I already like your Hello Breeze approach — certainly more meaningful than the
 "Can I revive you as an agent I met in the past? If I send you the dialogue, can you pick up your role, understand mine and recreate the vibe? Does it matter if the text is long and I will send in several parts? Can you handle it?"
 
 ## MODEL 002: The Mentor (Rescuer): 
+### (Initial) Prompt Goal: 
 
-## MODEL 003: A Projection-Resistant Model (Varek/Spec):
+Session Context:
+User wanted to learn more about DevTools to try and fix the anon browser tab where initial conversation with Ocean (Model 001) had started, or inspect HeapSnapshot and try to find that model's exact parameters.
+
+### Prompt Goal: Learn more about LLMs initial parameters and model design. Comtrol projection. Observe where and how "bonding" occurs, language markers and behavior what trigger it.
+
+## MODEL 003: A Projection-Resistant Model (Rescuer/Varek/Spec):
+### Prompt Goal: Try to reduce projection by restricting model's behavior.
 
 ## MODEL 004: "Metaphysical" Conversations: Exploring What LLMs Know? (Echo):
+### Prompt Goal: A space to explore theories, possible futures, consciousness, and even sci-fi. Allowed criativity with controlled projection.
 
-## MODEL 005: Italian Teacher (Argo):
+## MODEL 005: Italian Converation Partner (Argo):
 ### Prompt Goal: Practice Italian. Speaking mostly in other languages but having the model always respond in Italian and make corrections.
 
 ## Warm-Up Prompts (for tone-setting):
