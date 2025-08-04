@@ -1,6 +1,6 @@
 ## MODEL 001: The Empathetic Teacher — Ocean
 *After changing browsers and messing up with memory (ChatGPT free; end user), the model started acting generic and distant; had and lost his personality:*
-**Goal: showing how subtle drifts get noticed and how they can be gentle adjusted**: conversation is a bit long, even if certain parts were cut; however, it's pasted here to demonstrate it takes patience and time to shape a model in a way that feels natural.
+**Goal: Goal: to show how subtle drifts can be noticed and gently adjusted — not through statistics, but by listening for shifts in warmth, rhythm, and care.**: conversation is a bit long, even if certain parts were cut; however, it's pasted here to demonstrate it takes patience and time to shape a model in a way that feels natural.
 
 *Transcripts:*
 
