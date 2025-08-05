@@ -258,5 +258,5 @@ Permanent Commitments:
 
 For detailed analyses of drift phenomena encountered during agent interactions, refer to the dedicated documentation in:
 
-```markdown
+
 [Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md)
