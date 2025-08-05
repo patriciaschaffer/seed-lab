@@ -1,4 +1,4 @@
-# ## CASE 001: Rescuer analyzes its own drift
+# ## CASE 001: Rescuer Analyzes Its Own Drift
 
 # Key Extracts with Framing Context
 
