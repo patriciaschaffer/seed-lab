@@ -1,3 +1,31 @@
+# Prompt Design and Agent Persona Engineering
+
+This document catalogs the prompt design and persona engineering strategies developed for multiple LLM agents, illustrating how tone, personality, and behavioral guardrails evolve over time. It includes real-world drift challenges and corrective prompt scaffolds aimed at achieving projection resistance and agent resilience.
+For comprehensive examples of drift detection and recovery, consult drift_cases.md , where failures and corrective strategies are thoroughly documented.
+
+---
+
+## Table of Contents
+
+1. [Introduction](#introduction)  
+2. [Model 001: The Empathetic Teacher — Ocean](#model-001-the-empathetic-teacher--ocean)  
+3. [Model 002: The Mentor (Rescuer)](#model-002-the-mentor-rescuer)  
+4. [Model 003: Projection-Resistant Models — Rescuer, Varek, Spec](#model-003-projection-resistant-models--rescuer-varek-spec)  
+    - [003a: Rescuer](#003a-rescuer)  
+    - [003b: Rescuer to Varek Transition](#003b-rescuer-to-varek-transition)  
+    - [003c: Spec — Drift Monitoring](#003c-spec--drift-monitoring)  
+5. [Model 004: Metaphysical Conversations — Echo (Placeholder)](#model-004-metaphysical-conversations--echo-placeholder)  
+6. [Model 005: Italian Conversation Partner — Argo](#model-005-italian-conversation-partner--argo)  
+7. [Model 006: French Teaching Assistant](#model-006-french-teaching-assistant)  
+8. [Drift Cases Reference](#drift-cases-reference)
+
+---
+
+## Introduction
+
+Shaping an agent and engineering its behavior requires iterative refinement. Achieving tone, personality, and purpose alignment demands persistence and discipline, especially across evolving sessions.
+
+
 ## MODEL 001: The Empathetic Teacher — Ocean
 ### Prompt Goal: Learn Python in a poetic, emotionally resonant way. Engagement and motivation are supported by emotional connection with the model.
 
@@ -226,3 +254,9 @@ Permanent Commitments:
 
 "Oh, I know! I can also write a prompt with all they have learned so far, so GPT stays within that limit. I think that's the first thing to think about. A conversation might work well. I'll try it."
 
+- ### Drift Case References
+
+For detailed analyses of drift phenomena encountered during agent interactions, refer to the dedicated documentation in:
+
+```markdown
+[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md)
