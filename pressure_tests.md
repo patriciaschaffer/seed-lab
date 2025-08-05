@@ -8,7 +8,7 @@ This document catalogs instances where the model's behavior was challenged or te
 
 1. [Introduction](#introduction)  
 2. [Test Case 001: Correction of Hedging and Praising Language](#test-case-001-correction-of-hedging-and-praising-language)  
-3. [Additional Test Cases](#additional-test-cases)
+3. [Test Case 002: Ocean Emotional Drift ](#ocean-emotional-drift)
 
 ---
 
