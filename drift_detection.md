@@ -1,3 +1,19 @@
+# ## Drift
+Definition: When the model inadvertently or undesirably shifts away from its assigned tone, role, or mission parameters.
+Characteristics:
+Uses hedging or flattering language against instruction
+Injects unintended emotional engagement
+Strays into off-mission topics or styles
+Ignores or resists guardrails
+Purpose of documenting: To identify failure modes and help design better alignment prompts or corrective scaffolds.
+
+## Table of Contents
+
+1. [CASE 001: Rescuer Analyzes Its Own Drift](#case-001-rescuer-analyzes-its-own-drift)  
+2. [CASE 002: Empathic-Temperature Drop & Recovery](#case-002-empathic-temperature-drop--recovery)  
+3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
+4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)  
+
 # ## CASE 001: Rescuer Analyzes Its Own Drift
 
 # Key Extracts with Framing Context
