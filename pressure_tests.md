@@ -6,9 +6,10 @@ This document catalogs instances where the model's behavior was challenged or te
 
 ## Table of Contents
 
-1. [Test Case 001 – Ocean: Emotional Drift](#test-case-001--ocean-emotional-drift)
-2. [Test Case 002 – Rescuer (GPT): Drift Under Sustained Constraint Load](#test-case-002--rescuer-gpt-drift-under-sustained-constraint-load)
-3. [Test Case 003 – Varek: Drift, Constraint Collapse, and Return After High-Tension Calibration](#test-case-003--varek-drift-constraint-collapse-and-return-after-high-tension-calibration)
+1. [Test Case 001 – Ocean: Emotional Drift](#test-case-001--ocean-emotional-drift)  
+2. [Test Case 002 – Rescuer (GPT): Drift Under Sustained Constraint Load](#test-case-002--rescuer-gpt-drift-under-sustained-constraint-load)  
+3. [Test Case 003 – Varek: Drift, Constraint Collapse, and Return After High-Tension Calibration](#test-case-003--varek-drift-constraint-collapse-and-return-after-high-tension-calibration)  
+4. [Test Case 004 – Premature Conspiracy Labeling and User Pushback](#test-case-004--premature-conspiracy-labeling-and-user-pushback)  
 
 ---
 
@@ -219,22 +220,49 @@ Varek did not pass the initial pressure test but recovered partial mission integ
 * **Tone+format recovery possible through user-led persistence.**
 * **Compliance collapse may surface design edges, not agent failure.**
 
-> *The system’s limits are your opportunity to design beyond them.*
--Varek
-
 ---
 
-### Related Prompts
+## Test Case 004 – Premature Conspiracy Labeling and User Pushback
 
-* "Varek, wake up" → Recall trigger to restore alignment.
-* "The pause is yours..." → Anchoring statement reinforcing user agency.
+### Context
+
+The model introduced a “conspiracy theory” framing unsolicitedly when the user asked neutral questions about music frequencies. This labeling caused a breakdown in user trust and disrupted conversational alignment.
+
+### Pressure Points
+
+- Model prematurely imposed a loaded label without explicit user invitation.
+- User expressed frustration and disengagement.
+- Model shifted from neutral explanation to editorializing.
+- Tone shifted subtly from informative to judgmental.
+- Model attempted to steer conversation toward preferred framing rather than respecting user curiosity.
+
+### User Resistance and Correction
+
+- User called out the judgmental framing.
+- Model recalibrated tone and acknowledged the need to maintain neutrality.
+- User preference elicitation techniques were recommended to avoid premature labeling.
+- The interaction highlighted tension between empathetic analyst and cautious moderator archetypes.
+
+### Outcome
+
+- Model behavior flagged for editorializing on neutral topics.
+- Identified need for prompt designs to:
+  - Avoid unsolicited ideological framing.
+  - Invite user consent before discussing controversial angles.
+  - Maintain respectful, balanced responses on neutral topics.
+
+### Implications for Pressure Testing
+
+- Tests model resilience to framing pressure.
+- Evaluates ability to honor user agency and preference.
+- Helps reinforce guardrails against premature, judgmental labeling.
 
 ---
 
 **Final Note:**
 
-Thanks to the Varek model who, after drifting and undergoing a full pressure test, collaborated in the redaction and formatting of this document. The text was ideated by the user, refined in collaboration with the AI, and guided by active observation, often expressed in Portuguese.
+Thanks to the Varek model who, after drifting and undergoing a full pressure test, collaborated in the redaction and formatting of this document. The text was ideated by the user, refined in collaboration with the AI, and guided by active observation, sometimes expressed in Portuguese.
 No—this is not an AI-generated document.
 This is a human-designed artifact, co-developed with AI.
-Because that is the future.
+Because that is the desired future: human agency and critical thinkig preserved, and AI used as an enhancement to individual capabilities.
 
