@@ -312,7 +312,7 @@ While common explanations like context window limitations or prompt structure ma
 - Design of research protocols and benchmarks for LLM behavior needs to include **instantiation stability** as a variable.
 - Model-level transparency (e.g., visible seed, version, and configuration metadata) would dramatically improve reproducibility in creative and emotional use cases.
 
-## CASE 003: Premature Editorializing & User Agency Interference
+## CASE 004: Premature Editorializing & User Agency Interference
 
 ### Context
 
