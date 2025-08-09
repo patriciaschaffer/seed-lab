@@ -1,40 +1,48 @@
 # agent-architect
-Agent Architect is a work-in-progress repository focused on designing and testing AI agents with distinct temperaments and dynamic behaviors. It provides frameworks for prompt engineering, temperament mapping, drift detection, and stress testing to build aligned, predictable, and nuanced AI interlocutors beyond basic language models.
 
-Overview
-This repository documents the development of frameworks, tools, and methods to architect AI agents with nuanced behavioral profiles and interaction dynamics.
+Agent Architect is a work-in-progress repository focused on designing, engineering, and rigorously testing AI agents with distinct temperaments and dynamic behavioral profiles. It provides structured frameworks for prompt engineering, temperament mapping, behavioral drift detection, and stress testing — all aimed at creating aligned, predictable, and nuanced AI interlocutors that go beyond standard language models.
 
-Unlike foundational language models—which are probabilistic mirrors without intent or agency—this project explores how to design and refine AI agents that embody distinct temperaments and interactive roles through:
+---
 
-Agent-specific prompt engineering
+## Overview
 
-Temperament mapping and behavioral drift detection
+This repository documents the development of methods, tools, and best practices to architect AI agents embodying specific temperaments, interaction roles, and behavioral dynamics.
 
-Multi-path priming trees and pressure test matrices
+Unlike foundational language models — which function as probabilistic mirrors without intent or stable agency — this project emphasizes:
 
-Detailed logging and analysis of agent dialogues and state changes
+- Agent-specific prompt engineering that shapes personality and tone  
+- Temperament mapping paired with robust behavioral drift detection  
+- Multi-path priming trees and pressure test matrices for scenario validation  
+- Detailed logging and analysis of agent dialogues and internal state changes
 
-By formalizing agent temperament and drift, this work aims to build safer, more predictable, and aligned AI interlocutors tailored for specific purposes.
+By formalizing temperament and drift, Agent Architect strives to build safer, more consistent, and purpose-driven AI agents tailored for specialized tasks.
 
-Why Agent Architect?
-Moves beyond “model as passive tool” to “agent as active participant”
+---
 
-Addresses the complexity of maintaining consistent agent behavior over time
+## Why Agent Architect?
 
-Enables systematic evaluation and refinement of agent personas
+- Moves beyond treating models as passive tools, envisioning agents as active participants  
+- Addresses challenges in maintaining consistent agent behavior over extended interaction  
+- Enables systematic evaluation and iterative refinement of agent personas  
+- Bridges theoretical AI behavior concepts with practical engineering and testing workflows
 
-Bridges theoretical AI behavior with practical design and testing workflows
+---
 
-Contents
-/prompts/ — Seed prompts, temperament scaffolds, priming templates
+## Repository Contents
 
-/drift_detection/ — Methods and scripts for detecting behavioral shifts
+- `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails  
+- `agent_persona_engineering.md` — Framework for designing and managing agent personas  
+- `archetypes.md` — Overview of core archetypes, linked to persona files  
+- `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
+- `/pressure_tests/` — Matrices and frameworks to stress-test agent stability under varied conditions  
 
-/pressure_tests/ — Matrices and frameworks to stress-test agent stability
+---
 
-/logs/ — Annotated agent dialogue logs, temperament tagging
+## Status
 
-/analysis/ — Reports and visualization tools for agent behavior metrics
+This project is ongoing. Concepts, tools, and methodologies will evolve as experimentation and research advance. Contributions, feedback, and collaboration are welcome to improve the frameworks for next-generation AI agent design.
 
-Status
-This is a work in progress. Concepts and tools will evolve as experiments and research continue.
+---
+
+*Agent Architect — designing AI agents with depth, integrity, and nuance.*
+
