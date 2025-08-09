@@ -44,5 +44,7 @@ This project is ongoing. Concepts, tools, and methodologies will evolve as exper
 
 ---
 
-*Agent Architect — designing AI agents with depth, integrity, and nuance.*
+Led by an education specialist and AI safety annotator passionate about designing aligned, nuanced AI models. Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.For more about the author and mission, see [about_me.md](../about_me.md)
+
+* Patricia, the Agent Architect — designing AI agents with depth, integrity, and nuance.*
 
