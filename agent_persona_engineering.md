@@ -36,6 +36,7 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - [008_curious_philosopher.md](./personas/008_curious_philosopher.md)  
 - [009_python_tutor_claude.md](./personas/009_python_tutor_claude.md)  
 - [010_wellbeing_companion.md](./personas/010_wellbeing_companion.md)
+- [011_brazilian_secretary.md](./personas/011_brazilian_secretary.md)
 - [Archetypes Summary](#archetypes-summary)  
 - [Drift Cases Reference](#drift-cases-reference)
 
