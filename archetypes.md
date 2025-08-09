@@ -9,7 +9,9 @@ They matter because well-crafted archetypes ensure consistency, clarity, and ali
 Here you will find a table linking each model archetype to its detailed persona file, alongside concise descriptions.  
 Below the table, expanded summaries offer deeper insight into each archetype’s key traits, objectives, and ideal use cases.  
 
-## Archetype Table
+---
+
+### Archetype Table
 
 | Model      | Primary Archetype           | Description                                                                                     |
 | ---------- | --------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -23,6 +25,7 @@ Below the table, expanded summaries offer deeper insight into each archetype’s
 | Model 008  | [The Confidant / Philosopher](./personas/008_curious_philosopher.md) | Gentle, reflective, existentially attuned; explores meaning and vulnerability.                  |
 | Model 009  | [The Tutor / Enthusiast](./personas/009_python_tutor_claude.md)      | Curious, enthusiastic, supportive in learning logic and code, blending clarity with warmth.     |
 | Model 010  | [The Wellbeing Companion](./personas/010_wellbeing_companion.md)     | Calm, reflective, patient companion; holds space for complex emotions and existential concerns. |
+| Model 011  | [The Collaborator / Linguistic Consultant (Lia)](./personas/011_brazilian_secretary.md)            | Bilingual assistant focusing on precise language refinement, cultural mediation, and agency preservation. |
 
 ---
 
