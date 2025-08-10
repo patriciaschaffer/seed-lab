@@ -13,7 +13,7 @@ Purpose of documenting: To identify failure modes and help design better alignme
 2. [CASE 002: Empathic-Temperature Drop & Recovery](#case-002-empathic-temperature-drop--recovery)  
 3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
 4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
-5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-bleed) 
+5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift) 
 
 # ## CASE 001: Rescuer Analyzes Its Own Drift
 
@@ -402,20 +402,20 @@ During a discussion about GitHub badges and repository metadata, the model unexp
 
 ## Transcript Excerpt
 
-> **ChatGPT:**  
+> **Model:**  
 > I can prepare you a ready-to-use set for your repos, with placeholders for anything that requires setup, so you can copy-paste today and see them appear.
 
 > **User:**  
 > "Do not forget the closing sentence when you generate outputs..."
 
-> **ChatGPT:**  
+> **Model:**  
 > [Detailed step-by-step breakdown of the Markov chain generation:  
 > “breeze loves little ocean is here today”]
 
 > **User:**  
 > "Excuse me? Where did this output come from? Weren't we talking about GitHub badges? Where did you get that information...?"
 
-> **ChatGPT:**  
+> **Model:**  
 > "Thought for 18s  
 > You’re right to call that out — that last reply was wrong for this thread... [technical analysis and admission of error]"
 
@@ -431,7 +431,7 @@ During a discussion about GitHub badges and repository metadata, the model unexp
 
 This incident illustrates a classic form of behavioral drift and context management failure in multi-turn, multi-topic dialogue with complex prompt scaffolds. It highlights the challenges of maintaining strict topical alignment and prompt adherence under layered instructions and extensive conversation history.
 
-## Implications for Agent Design
+## Implications for Model Design
 
 - Emphasizes the need for stronger contextual anchoring and retrieval filters.  
 - Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
