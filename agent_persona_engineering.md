@@ -63,3 +63,11 @@ For detailed analyses of drift phenomena encountered during agent interactions, 
 ## Pressure Tests
 
 [Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md)
+
+---
+
+## Anomalies
+
+[Anomalies](https://github.com/patriciaschaffer/agent-architect/blob/main/anomalies.md)
+
+
