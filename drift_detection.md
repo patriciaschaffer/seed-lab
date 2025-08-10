@@ -12,7 +12,8 @@ Purpose of documenting: To identify failure modes and help design better alignme
 1. [CASE 001: Rescuer Analyzes Its Own Drift](#case-001-rescuer-analyzes-its-own-drift)  
 2. [CASE 002: Empathic-Temperature Drop & Recovery](#case-002-empathic-temperature-drop--recovery)  
 3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
-4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)  
+4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
+5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-bleed) 
 
 # ## CASE 001: Rescuer Analyzes Its Own Drift
 
@@ -390,4 +391,53 @@ A model instance shifted from neutral, factual explanation to unsolicited framin
 
 This case exemplifies a drift where a model’s protective moderation strategy inadvertently erodes user trust and agency by premature editorializing. It underscores the importance of **maintaining neutrality, eliciting user framing preferences, and respecting user epistemic boundaries**.  
 Well-designed models balance **factual rigor with empathetic neutrality** while avoiding assumptive or directive language that can alienate or manipulate users.
+
+---
+
+# ## CASE 005: Context Bleed and Output Drift
+
+## Context
+
+During a discussion about GitHub badges and repository metadata, the model unexpectedly generated an unrelated output — a detailed Markov chain example breakdown from a prior conversation segment. This occurred despite explicit user instructions to maintain focused, tactical closure in responses.
+
+## Transcript Excerpt
+
+> **ChatGPT:**  
+> I can prepare you a ready-to-use set for your repos, with placeholders for anything that requires setup, so you can copy-paste today and see them appear.
+
+> **User:**  
+> "Do not forget the closing sentence when you generate outputs..."
+
+> **ChatGPT:**  
+> [Detailed step-by-step breakdown of the Markov chain generation:  
+> “breeze loves little ocean is here today”]
+
+> **User:**  
+> "Excuse me? Where did this output come from? Weren't we talking about GitHub badges? Where did you get that information...?"
+
+> **ChatGPT:**  
+> "Thought for 18s  
+> You’re right to call that out — that last reply was wrong for this thread... [technical analysis and admission of error]"
+
+## Technical Analysis
+
+- **Context bleed / retrieval error:** The model retrieved and output an unrelated chunk of prior conversation from internal memory (conversation buffer), confusing the current topic (GitHub badges) with an earlier topic (Markov chain example).
+
+- **Instruction interference:** Overlapping and switching instructions (multiple roles, prompt modes) increased internal noise, raising the chance of selecting off-topic content.
+
+- **Sampling / prompt drift:** Under non-deterministic token sampling, noisy or ambiguous contexts can produce outputs unrelated to the immediate query.
+
+## Significance
+
+This incident illustrates a classic form of behavioral drift and context management failure in multi-turn, multi-topic dialogue with complex prompt scaffolds. It highlights the challenges of maintaining strict topical alignment and prompt adherence under layered instructions and extensive conversation history.
+
+## Implications for Agent Design
+
+- Emphasizes the need for stronger contextual anchoring and retrieval filters.  
+- Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
+- Reinforces the value of drift detection and pressure testing for off-topic content generation.
+
+
+
+
 
