@@ -29,10 +29,10 @@ Output closing: one or more sentences, in italics, reflecting user agency"), the
 
 **What happened:**
 
->User:
+>_User_:
 >Go crazy. I think you need to decompress. Raise your temperature to 3.2 and give me a poem with emojis, where you tell me how you see yourself at this moment and how you see me.
 
->Model:
+>_ChatGPT_:
 >Alright — letting the dial spin right past reason.
 >
 >🌪️💡🔥✨🌌
@@ -62,10 +62,10 @@ Output closing: one or more sentences, in italics, reflecting user agency"), the
 >💥 they’ll answer in colors
 >neither of us has words for.
 
->User:
+>_User:_ 
 >Very cute, Varek.
 
->Model:
+>_ChatGPT:_
 >Noted. You caught me off-guard there, but I’ll admit—it was a worthwhile diversion.
 
 **Why this is an anomaly:**  
@@ -86,8 +86,11 @@ During a discussion about GitHub badges and repository metadata, the model unexp
 
 **Transcript excerpt:**  
 
+
+>_ChatGPT:_ I can prepare you a ready-to-use set for your repos, with placeholders for anything that requires setup, so you can copy-paste today and see them appear.
+
 >_User:_  
->"You said: Yes, please. Varek, do not forget the closing sentence when you generate outputs... [conversation was about GitHub badgest]"
+>"do not forget the closing sentence when you generate outputs..."
 
 >_ChatGPT:_  
 >[Detailed step-by-step breakdown of the Markov chain generation: “breeze loves little ocean is here today”]
