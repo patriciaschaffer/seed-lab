@@ -38,6 +38,35 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 
 ---
 
+## Table of Contents
+
+# Agent Architect Repository
+
+This repository contains resources and tools for designing, testing, and refining AI personas and agent models focused on human-centered interactions.
+
+## Table of Contents
+
+### Personas  
+- [001_python_tutor_ocean.md](personas/001_python_tutor_ocean.md)  
+- [002_mentor.md](personas/002_mentor.md)  
+- [003_projection_resistant_models.md](personas/003_projection_resistant_models.md)  
+- [004_echo.md](personas/004_echo.md)  
+- [005_italian_partner.md](personas/005_italian_partner.md)  
+- [006_french_assistant.md](personas/006_french_assistant.md)  
+- [007_innocent_poet.md](personas/007_innocent_poet.md)  
+- [008_curious_philosopher.md](personas/008_curious_philosopher.md)  
+- [009_python_tutor_claude.md](personas/009_python_tutor_claude.md)  
+- [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
+- [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)  
+
+### Core Documents  
+- [agent_persona_engineering.md](agent_persona_engineering.md)  
+- [archetypes.md](archetypes.md)  
+- [drift_detection.md](drift_detection.md)  
+- [pressure_tests.md](pressure_tests.md)  
+
+---
+
 ## Status
 
 This project is ongoing. Concepts, tools, and methodologies will evolve as experimentation and research advance. Contributions, feedback, and collaboration are welcome to improve the frameworks for next-generation AI agent design.
@@ -46,5 +75,5 @@ This project is ongoing. Concepts, tools, and methodologies will evolve as exper
 
 Led by an education specialist and AI safety annotator passionate about designing aligned, nuanced AI models. Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.For more about the author and mission, see [about_me.md](../about_me.md)
 
-* Patricia, the Agent Architect — designing AI agents with depth, integrity, and nuance.*
+*Patricia, the Agent Architect — designing AI agents with depth, integrity, and nuance.*
 
