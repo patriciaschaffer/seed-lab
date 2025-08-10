@@ -17,3 +17,9 @@ This directory contains individual AI personas designed for specific roles and i
 | 009        | Python Tutor Claude        | Enthusiastic, logic-focused Python tutor.        |
 | 010        | Wellbeing Companion        | Calm, patient emotional support companion.       |
 | 011        | Brazilian Secretary Lia    | Efficient, bilingual secretary and language collaborator. |
+
+---
+
+## Keywords
+
+AI Personas Conversational Agents Archetype Models Bilingual AI Language Collaborators AI Tutors Emotional Support AI Projection Resistance Interactive AI Characters
