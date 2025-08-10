@@ -14,8 +14,8 @@ Tracking anomalies supports continuous improvement and deeper understanding of m
 
 ## Table of Contents
 
-- [Poem Hallucination — 2025-08-10](#anomalies-poem-hallucination-2025-08-10)
-- [Context Bleed and Output Drift — 2025-08-10](#anomalies-context-bleed-and-output-drift-2025-08-10)
+- [Poem Hallucination — 2025-08-10](#poem-hallucination-2025-08-10)
+- [Context Bleed and Output Drift — 2025-08-10](#context-bleed-and-output-drift-2025-08-10)
 
 ---
 
