@@ -39,6 +39,7 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - [011_brazilian_secretary.md](./personas/011_brazilian_secretary.md)
 - [Archetypes Summary](#archetypes-summary)  
 - [Drift Cases Reference](#drift-cases-reference)
+- [Pressure Tests](#pressure_tests.md)
 
 ---
 
@@ -56,3 +57,9 @@ Each persona represents a modular, self-contained profile with unique archetypes
 For detailed analyses of drift phenomena encountered during agent interactions, refer to the dedicated documentation in:
 
 [Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md)
+
+---
+
+## Pressure Tests
+
+[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md)
