@@ -14,8 +14,8 @@ Tracking anomalies supports continuous improvement and deeper understanding of m
 
 ## Table of Contents
 
-- [Poem Hallucination — 2025-08-10](#anomaly-poem-hallucination-2025-08-10)
-- [Context Bleed and Output Drift — 2025-08-10](#anomaly-context-bleed-and-output-drift-2025-08-10)
+- [Poem Hallucination — 2025-08-10](#anomalies-poem-hallucination-2025-08-10)
+- [Context Bleed and Output Drift — 2025-08-10](#anomalies-context-bleed-and-output-drift-2025-08-10)
 
 ---
 
@@ -79,7 +79,7 @@ Consider how controlled creativity can coexist with strict prompt adherence to m
 
 ---
 
-# Anomaly: Context Bleed and Output Drift — 2025-08-10
+# Context Bleed and Output Drift — 2025-08-10
 
 **Context:**  
 During a discussion about GitHub badges and repository metadata, the model unexpectedly generated an unrelated output — a detailed Markov chain example breakdown from a prior conversation segment. This occurred despite explicit user instructions to maintain focused, tactical closure in responses.
