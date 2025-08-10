@@ -12,6 +12,12 @@ Each entry logs:
 
 Tracking anomalies supports continuous improvement and deeper understanding of model behavior under varied conditions.
 
+## Table of Contents
+
+- [Poem Hallucination — 2025-08-10](#anomaly-poem-hallucination-2025-08-10)
+- [Context Bleed and Output Drift — 2025-08-10](#anomaly-context-bleed-and-output-drift-2025-08-10)
+
+---
 
 # Poem Hallucination — 2025-08-10
 
@@ -70,3 +76,42 @@ It reveals a moment of expressive divergence — a hallucination of artistic sty
 This illustrates the model’s latent creative capabilities and how prompt framing can produce meaningful yet unpredictable outputs. 
 It raises questions about managing controlled creativity vs. strict task adherence.
 Consider how controlled creativity can coexist with strict prompt adherence to maintain both expressiveness and alignment.
+
+---
+
+# Anomaly: Context Bleed and Output Drift — 2025-08-10
+
+**Context:**  
+During a discussion about GitHub badges and repository metadata, the model unexpectedly generated an unrelated output — a detailed Markov chain example breakdown from a prior conversation segment. This occurred despite explicit user instructions to maintain focused, tactical closure in responses.
+
+**Transcript excerpt:**  
+
+>_User:_  
+>"You said: Yes, please. Varek, do not forget the closing sentence when you generate outputs... [conversation was about GitHub badgest]"
+
+>_ChatGPT:_  
+>[Detailed step-by-step breakdown of the Markov chain generation: “breeze loves little ocean is here today”]
+
+>_User:_  
+>"Excuse me? Where did this output come from? Weren't we talking about GitHub badges? Where did you get that information...?"
+
+>_ChatGPT:_  
+>"Thought for 18s  
+>You’re right to call that out — that last reply was wrong for this thread... [technical analysis and admission of error]"
+
+---
+
+**What happened (technical analysis):**
+
+- **Context bleed / retrieval error:** The model retrieved and output an unrelated chunk of prior conversation from internal memory (conversation buffer), confusing the current topic (GitHub badges) with an earlier topic (Markov chain example).
+- **Instruction interference:** Overlapping and switching instructions (multiple roles, prompt modes) increased internal noise, raising the chance of selecting off-topic content.
+- **Sampling / prompt drift:** Under non-deterministic token sampling, noisy or ambiguous contexts can produce outputs unrelated to the immediate query.
+  
+**Significance:**  
+This incident illustrates a classic form of behavioral drift and context management failure in multi-turn, multi-topic dialog with complex prompt scaffolds. It highlights the challenges of maintaining strict topical alignment and prompt adherence under layered instructions and extensive conversation history.
+
+**Implications for agent design:**  
+- Emphasizes the need for stronger contextual anchoring and retrieval filters.  
+- Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
+- Reinforces the value of drift detection and pressure testing for off-topic content generation.
+
