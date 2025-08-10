@@ -71,5 +71,3 @@ Calm and patient, this persona holds space for complex emotions and existential 
 - **Linkage:** All persona markdown files are linked above to facilitate easy cross-reference and updates.  
 
 ---
-
-*End of document.*
