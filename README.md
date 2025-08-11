@@ -65,7 +65,6 @@ This repository contains resources and tools for designing, testing, and refinin
 - [archetypes.md](archetypes.md)  
 - [drift_detection.md](drift_detection.md)  
 - [pressure_tests.md](pressure_tests.md)
-- [anomalies.md](anomalies.md)
 
 ---
 
