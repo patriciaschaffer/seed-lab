@@ -1,6 +1,12 @@
 # agent-architect
 
-Agent Architect is a work-in-progress repository focused on designing, engineering, and rigorously testing AI agents with distinct temperaments and dynamic behavioral profiles. It provides structured frameworks for prompt engineering, temperament mapping, behavioral drift detection, and stress testing, all aimed at creating aligned, predictable, and nuanced AI interlocutors that go beyond standard language models. I work deliberately with models built for the end-user, not AGI. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. My work focuses on shaping these agents for consistency, alignment, and tangible value.
+Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
+
+Agent Architect is a work-in-progress repository focused on designing, engineering, and rigorously testing AI agents with distinct temperaments and dynamic behavioral profiles. It provides structured frameworks for prompt engineering, temperament mapping, behavioral drift detection, and stress testing, all aimed at creating aligned, predictable, and nuanced AI interlocutors that go beyond standard language models. 
+
+I work deliberately with models built for the end-user, not AGI. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. My work focuses on shaping these agents for consistency, alignment, and tangible value. 
+
+[Here's more about me.](../about_me.md)
 
 ---
 
@@ -78,8 +84,6 @@ This repository contains resources and tools for designing, testing, and refinin
 This project is ongoing. Concepts, tools, and methodologies will evolve as experimentation and research advance. Contributions, feedback, and collaboration are welcome to improve the frameworks for next-generation AI agent design.
 
 ---
-
-Led by an education specialist and AI safety annotator passionate about designing aligned, nuanced AI models. Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.For more about the author and mission, see [about_me.md](../about_me.md)
 
 *Patricia, the Agent Architect — designing AI agents with depth, integrity, and nuance.*
 
