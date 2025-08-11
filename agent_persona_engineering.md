@@ -66,8 +66,10 @@ For detailed analyses of drift phenomena encountered during agent interactions, 
 
 ---
 
-## Anomalies
+## See Also
 
-[Anomalies](https://github.com/patriciaschaffer/agent-architect/blob/main/anomalies.md)
+[Anomalies](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anomalies.md)
+[Anthropomorphic_traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
+[Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
 
 
