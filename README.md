@@ -35,7 +35,6 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - `archetypes.md` — Overview of core archetypes, linked to persona files  
 - `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
 - `/pressure_tests/` — Matrices and frameworks to stress-test agent stability under varied conditions
-- `/anomalies/` - Unusual, unexpected, or off-norm behaviors exhibited by AI models during interactions
 
 ---
 
@@ -65,6 +64,12 @@ This repository contains resources and tools for designing, testing, and refinin
 - [archetypes.md](archetypes.md)  
 - [drift_detection.md](drift_detection.md)  
 - [pressure_tests.md](pressure_tests.md)
+
+### See Also
+
+- [Anomalies](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anomalies.md)
+- [Anthropomorphic_traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
+- [Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
 
 ---
 
