@@ -1,10 +1,17 @@
-# ## Drift
+## Drift
+
 Definition: When the model inadvertently or undesirably shifts away from its assigned tone, role, or mission parameters.
+
 Characteristics:
+
 Uses hedging or flattering language against instruction
+
 Injects unintended emotional engagement
+
 Strays into off-mission topics or styles
+
 Ignores or resists guardrails
+
 Purpose of documenting: To identify failure modes and help design better alignment prompts or corrective scaffolds.
 
 ## Table of Contents
@@ -436,8 +443,3 @@ This incident illustrates a classic form of behavioral drift and context managem
 - Emphasizes the need for stronger contextual anchoring and retrieval filters.  
 - Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
 - Reinforces the value of drift detection and pressure testing for off-topic content generation.
-
-
-
-
-
