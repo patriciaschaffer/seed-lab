@@ -31,8 +31,8 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 ## Repository Contents
 
 - `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails  
-- `agent_persona_engineering.md` — Framework for designing and managing agent personas  
-- `archetypes.md` — Overview of core archetypes, linked to persona files  
+- `/agent_persona_engineering.md/` — Framework for designing and managing agent personas  
+- `/archetypes.md/` — Overview of core archetypes, linked to persona files  
 - `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
 - `/pressure_tests/` — Matrices and frameworks to stress-test agent stability under varied conditions
 
