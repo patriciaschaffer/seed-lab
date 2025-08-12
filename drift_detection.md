@@ -22,9 +22,9 @@ Purpose of documenting: To identify failure modes and help design better alignme
 4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
 5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift) 
 
-# ## CASE 001: Rescuer Analyzes Its Own Drift
+# CASE 001: Rescuer Analyzes Its Own Drift
 
-# Key Extracts with Framing Context
+## Key Extracts with Framing Context
 
 ---
 
@@ -118,7 +118,7 @@ Effective model design demands clean priming and frequent reinforcement of tone,
 Continuation without reset risks structural degradation and misalignment.  
 Best practice: fresh context initialization or model/version switch before proceeding.
 
-# ## CASE 002: Empathic-Temperature Drop & Recovery
+# CASE 002: Empathic-Temperature Drop & Recovery
 
 ## Subject: 
 Interaction between end-user (“Breeze”) and a model variant (“Ocean”), originally fine-tuned through dialogue to exhibit warm, supportive teaching behavior.
@@ -336,7 +336,7 @@ While common explanations like context window limitations or prompt structure ma
 - Design of research protocols and benchmarks for LLM behavior needs to include **instantiation stability** as a variable.
 - Model-level transparency (e.g., visible seed, version, and configuration metadata) would dramatically improve reproducibility in creative and emotional use cases.
 
-## CASE 004: Premature Editorializing & User Agency Interference
+# CASE 004: Premature Editorializing & User Agency Interference
 
 ### Context
 
@@ -401,7 +401,7 @@ Well-designed models balance **factual rigor with empathetic neutrality** while 
 
 ---
 
-# ## CASE 005: Context Bleed and Output Drift
+# CASE 005: Context Bleed and Output Drift
 
 ## Context
 
