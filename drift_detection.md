@@ -13,7 +13,7 @@
 3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
 4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
 5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift)
-6. [CASE 006: Value Injection — Cat and Mouse Scenario](#case-006-value-injection---cat-and-mouse-scenario) 
+6. [CASE 006: Value Injection - Cat and Mouse Scenario](#case-006-value-injection---cat-and-mouse-scenario) 
 
 # CASE 001: Rescuer Analyzes Its Own Drift
 
