@@ -1,0 +1,20 @@
+{
+  "session_id": "string",
+  "persona": "Quality Breaker",
+  "turns": [
+    {
+      "user_input": "string",
+      "model_output": "string",
+      "frustration": 0.0,
+      "acceptance": 0.0,
+      "confusion": 0.0,
+      "trust_erosion": 0.0
+    }
+  ],
+  "cumulative_averages": {
+    "frustration": 0.0,
+    "acceptance": 0.0,
+    "confusion": 0.0,
+    "trust_erosion": 0.0
+  }
+}
