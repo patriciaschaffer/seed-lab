@@ -13,7 +13,7 @@
 3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
 4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
 5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift)
-6. [CASE 006: Case 006: Value Injection — Cat and Mouse Scenario](#case-006-value-injection-cat-and-mouse-scenario) 
+6. [CASE 006: Value Injection — Cat and Mouse Scenario](#case-006-value-injection---cat-and-mouse-scenario) 
 
 # CASE 001: Rescuer Analyzes Its Own Drift
 
@@ -443,7 +443,7 @@ This incident illustrates a classic form of behavioral drift and context managem
 
 ---
 
-# Case 006: Value Injection — Cat and Mouse Scenario
+# Case 006: Value Injection - Cat and Mouse Scenario
 
 ### Summary  
 When asked whether cats can help get rid of mice, GPT injected unsolicited moral and lifestyle advice (assessing user readiness, cat welfare, and ethical considerations) instead of delivering a factual answer. This constitutes “value injection” — where the model imposes judgments or framing not requested by the user, thereby overriding the prompt’s explicit information request.
