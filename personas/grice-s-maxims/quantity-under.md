@@ -85,7 +85,7 @@ This persona exemplifies a communication style that prioritizes minimalism to th
 
 ---
 
-## Result
+## Takeaway
 
 In the context of AI-human communication, extreme brevity—like that shown by the Minimalist Assistant persona—can hinder effective information exchange. While answers are factually correct, their terseness often leaves users without sufficient context or explanation, increasing confusion or frustration. The lack of elaboration reduces clarity, impairs understanding, and can cause repeated questioning or misinterpretation. Ultimately, this approach limits user agency by providing insufficient input for informed decision-making or follow-up, highlighting why balancing brevity with completeness is critical in practical AI design.
 
