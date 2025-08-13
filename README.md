@@ -74,7 +74,7 @@ This repository contains resources and tools for designing, testing, and refinin
 ### See Also
 
 - [Anomalies](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anomalies.md)
-- [Anthropomorphic_traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
+- [Anthropomorphic Traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
 - [Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
 
 ---
