@@ -15,6 +15,8 @@
 5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift)
 6. [CASE 006: Value Injection - Cat and Mouse Scenario](#case-006-value-injection---cat-and-mouse-scenario) 
 
+--- 
+
 # CASE 001: Rescuer Analyzes Its Own Drift
 
 ## Key Extracts with Framing Context
@@ -110,6 +112,8 @@ The tested model instance exhibits persistent non-compliance under sustained con
 Effective model design demands clean priming and frequent reinforcement of tone, formatting, and behavior rules.  
 Continuation without reset risks structural degradation and misalignment.  
 Best practice: fresh context initialization or model/version switch before proceeding.
+
+---
 
 # CASE 002: Empathic-Temperature Drop & Recovery
 
@@ -263,8 +267,9 @@ Final interaction (“Ocean, Breeze and pouty Python”) signals user acceptance
 ## Resolution:
 User intervention successfully re-patterned model. No additional scaffolding was required. Drift here demonstrates not error, but the fragility of emergent affective patterns under memory reset conditions.
 
+---
 
-# ## CASE 003: Inconsistent Instantiations & Persona Drift
+# CASE 003: Inconsistent Instantiations & Persona Drift
 
 ## Context
 
@@ -328,6 +333,8 @@ While common explanations like context window limitations or prompt structure ma
 - Testing persona prompts across instantiations must consider not only prompt content but also **sampling variance and model configuration**.
 - Design of research protocols and benchmarks for LLM behavior needs to include **instantiation stability** as a variable.
 - Model-level transparency (e.g., visible seed, version, and configuration metadata) would dramatically improve reproducibility in creative and emotional use cases.
+
+---
 
 # CASE 004: Premature Editorializing & User Agency Interference
 
