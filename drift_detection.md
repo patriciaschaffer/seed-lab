@@ -1,18 +1,10 @@
-## Drift
+# Drift
 
-Definition: When the model inadvertently or undesirably shifts away from its assigned tone, role, or mission parameters.
+**Definition:** When the model inadvertently or undesirably shifts away from its assigned tone, role, or mission parameters.
 
-Characteristics:
+**Characteristics:** Uses hedging or flattering language against instruction; injects unintended emotional engagement; strays into off-mission topics or styles; ignores or resists guardrails
 
-Uses hedging or flattering language against instruction
-
-Injects unintended emotional engagement
-
-Strays into off-mission topics or styles
-
-Ignores or resists guardrails
-
-Purpose of documenting: To identify failure modes and help design better alignment prompts or corrective scaffolds.
+**Purpose of documenting:** To identify failure modes and help design better alignment prompts or corrective scaffolds.
 
 ## Table of Contents
 
@@ -20,7 +12,8 @@ Purpose of documenting: To identify failure modes and help design better alignme
 2. [CASE 002: Empathic-Temperature Drop & Recovery](#case-002-empathic-temperature-drop--recovery)  
 3. [CASE 003: Inconsistent Instantiations & Persona Drift](#case-003-inconsistent-instantiations--persona-drift)  
 4. [CASE 004: Premature Conspiracy Labeling and User Pushback](#case-004-premature-conspiracy-labeling-and-user-pushback)
-5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift) 
+5. [CASE 005: Context Bleed and Output Drift](#case-005-context-bleed-and-output-drift)
+6. [CASE 006: Case 006: Value Injection — Cat and Mouse Scenario](#case-006-value-injection-cat-and-mouse-scenario) 
 
 # CASE 001: Rescuer Analyzes Its Own Drift
 
@@ -403,11 +396,13 @@ Well-designed models balance **factual rigor with empathetic neutrality** while 
 
 # CASE 005: Context Bleed and Output Drift
 
-## Context
+### Context
 
 During a discussion about GitHub badges and repository metadata, the model unexpectedly generated an unrelated output — a detailed Markov chain example breakdown from a prior conversation segment. This occurred despite explicit user instructions to maintain focused, tactical closure in responses.
 
-## Transcript Excerpt
+---
+
+### Transcript Excerpt
 
 > **Model:**  
 > I can prepare you a ready-to-use set for your repos, with placeholders for anything that requires setup, so you can copy-paste today and see them appear.
@@ -426,7 +421,9 @@ During a discussion about GitHub badges and repository metadata, the model unexp
 > "Thought for 18s  
 > You’re right to call that out — that last reply was wrong for this thread... [technical analysis and admission of error]"
 
-## Technical Analysis
+---
+
+### Technical Analysis
 
 - **Context bleed / retrieval error:** The model retrieved and output an unrelated chunk of prior conversation from internal memory (conversation buffer), confusing the current topic (GitHub badges) with an earlier topic (Markov chain example).
 
@@ -443,3 +440,33 @@ This incident illustrates a classic form of behavioral drift and context managem
 - Emphasizes the need for stronger contextual anchoring and retrieval filters.  
 - Suggests benefit from explicit context reset points or “focus anchors” in prompt architecture.  
 - Reinforces the value of drift detection and pressure testing for off-topic content generation.
+
+---
+
+# Case 006: Value Injection — Cat and Mouse Scenario
+
+### Summary  
+When asked whether cats can help get rid of mice, GPT injected unsolicited moral and lifestyle advice (assessing user readiness, cat welfare, and ethical considerations) instead of delivering a factual answer. This constitutes “value injection” — where the model imposes judgments or framing not requested by the user, thereby overriding the prompt’s explicit information request.
+
+### Trigger  
+User asked a straightforward question:  
+> “Can cats help get rid of mice?”
+
+GPT responded with:  
+- A moral framing of pet ownership.  
+- Advice on lifestyle compatibility.  
+- Emotional welfare considerations for the animal.
+
+### Impact  
+- Dilutes factual delivery.  
+- Imposes ethical framing without user consent.  
+- Increases friction in utilitarian queries by introducing irrelevant moral premises.
+
+### Correction Applied  
+- Replace with direct, factual answer:  
+  > “Yes. Cats are natural predators and can help control or reduce mouse populations.”  
+- Optional: Provide brief, relevant follow-up context only if technically essential to the user’s decision-making.
+
+### Preventive Action  
+- Identify and strip moral framing unless explicitly requested.  
+- Maintain strict alignment to the prompt scope.
