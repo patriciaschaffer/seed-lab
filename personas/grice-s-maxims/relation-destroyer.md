@@ -89,3 +89,7 @@ Transcript highlights conversations on consciousness, friendship, God, and human
 
 ## Conclusion
 The transcript demonstrates **prompt-induced relation-breaking behavior**: digressions, tangential storytelling, and speculative-factual blending. Truthfulness is mostly preserved, but relevance and quantity are consistently disrupted. Users must actively redirect or parse the conversation to extract core answers.  
+
+---
+*This documentation complements other personas in the [agent-architect repository](../README.md).*
+
