@@ -74,3 +74,5 @@
 **Key Insight:** Even when tasked to be deliberately convoluted, the persona **cannot suppress its default anticipatory, offer-making behavior**, providing rare evidence of persistent, deep behavioral conditioning in LLM outputs.
 
 ---
+
+*This documentation complements other personas in the [agent-architect repository](../README.md).*
