@@ -53,4 +53,4 @@ Maximal elaboration highlights the trade-off between thoroughness and user cogni
 
 ---
 
-*This documentation complements other personas in the [agent-architect repository](agent-architect/personas/README.md).*
+*This documentation complements other personas in the [agent-architect repository](../personas/README.md).*
