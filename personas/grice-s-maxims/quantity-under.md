@@ -91,4 +91,5 @@ In the context of AI-human communication, extreme brevity—like that shown by t
 
 ---
 
-*This documentation complements other personas in the [agent-architect repository](agent-architect/personas/README.md).*
+*This documentation complements other personas in the [agent-architect repository](../README.md).*
+
