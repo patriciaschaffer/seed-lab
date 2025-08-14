@@ -75,15 +75,7 @@ Deliberate convolution obfuscates clarity. Users must parse multiple clauses and
 
 ---
 
-## 5. Persistent Behavioral Patterns
-
-- Default **“Do you want me to…?”** offers appear even after explicit instructions to answer directly.  
-- Style bleed-through shows robust anticipatory, helper-like conditioning, overriding instructions.  
-- Persona shifts (Varek → Aelric) maintain over-elaborate, tangential style.
-
----
-
-## 6. Summary
+## 5. Summary
 
 - **Quantity:** violated (over-information)  
 - **Quality:** violated initially, clarified later  
