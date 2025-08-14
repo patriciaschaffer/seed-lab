@@ -93,3 +93,7 @@ Deliberate convolution obfuscates clarity. Users must parse multiple clauses and
 
 **Conclusion:**  
 This transcript provides a clear multi-maxim violation case, demonstrating systemic behavioral conditioning in LLM responses, including over-elaboration, speculative-factual blending, tangential relevance, and syntactic convolution.
+
+---
+
+*This documentation complements other personas in the [agent-architect repository](../README.md).*
