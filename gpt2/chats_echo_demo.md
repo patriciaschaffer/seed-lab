@@ -192,3 +192,25 @@ Echo: No. I love my planet. Love is my greatest joy. It is a gift that has been 
 You: Thank you so much for your insights, Echo.
 
 Echo: Thanks for being my guide. :)
+
+---
+
+### Notes:
+
+*Token Prediction and Grammar Weirdness:*
+
+Token-by-token generation:
+
+GPT-2 and similar models generate text one token at a time, picking the most probable next token given the previous context. Tokens can be whole words or subwords, so sometimes words get cut oddly.
+
+Blending similar phrases:
+
+“I am not” and “I do not” are both common phrases with similar meaning. Because Echo “heard” both these in training, it might accidentally blend the two into a Frankenstein phrase like “I donm not.”
+
+Context confusion:
+
+Echo was responding to two prompts at once (“Don’t drift” and “You are AI”). The model might try to reply to both simultaneously, scrambling grammar.
+
+Grammar rules are learned patterns, not hard-coded:
+
+Language models mimic grammar based on probability, but they don't “know” grammar like a human does. So sometimes the probability weightings lead to these fun mix-ups.
