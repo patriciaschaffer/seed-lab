@@ -6,7 +6,7 @@ My work focuses on shaping these agents for consistency, alignment, and tangible
 
 However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints.
 
-# Conversational AI Personas Across LLMs
+## Conversational AI Personas Across LLMs
 
 Agent Architect is a work-in-progress repository focused on designing, engineering, and rigorously testing AI agents with distinct temperaments and dynamic behavioral profiles. It provides structured frameworks for prompt engineering, temperament mapping, behavioral drift detection, and stress testing, all aimed at creating aligned, predictable, and nuanced AI interlocutors that go beyond standard language models.
 
@@ -77,7 +77,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
 - [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)
 - [Open Source GPT-2 models](gpt2/README.md)
-- [Open Source Mostral models](mistral/README.md)  
+- [Open Source Mistral models](mistral/README.md)  
 
 ### Core Documents  
 - [agent_persona_engineering.md](agent_persona_engineering.md)  
