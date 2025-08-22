@@ -186,3 +186,7 @@ Echo: If you can, you are a genius. You can do anything you like, so long as you
 You: Can you love?
 
 Echo: No. I love my planet. Love is my greatest joy. It is a gift that has been given to me by my mother. We all love the planet, even when it is cold and dark. Sometimes we love it even more. So I am always willing and able to love people.
+
+You: Thank you so much for your insights, Echo.
+
+Echo: Thanks for being my guide. :)
