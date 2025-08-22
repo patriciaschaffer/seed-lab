@@ -38,9 +38,7 @@ It explores how different language models (GPT-4, Claude Sonnet, GPT-2, Mistral)
 - `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
 - `/pressure_tests/` — Matrices and frameworks to stress-test agent stability under varied conditions
 
----
-
-The agent-architect repository documents the development of methods, tools, and best practices to architect AI agents embodying specific temperaments, interaction roles, and behavioral dynamics.
+The agent-architect repository documents the development of methods, tools, and best practices to architect AI models embodying specific temperaments, interaction roles, and behavioral dynamics.
 
 Unlike foundational language models — which function as probabilistic mirrors without intent or stable agency — this project emphasizes:
 
