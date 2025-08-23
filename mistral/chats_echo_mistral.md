@@ -170,5 +170,5 @@ Echo: Thank you. I'm glad we could have this conversation. Let's continue explor
 
 ---
 
-*More abot me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+*More about me: 👩‍💻 [Patricia](https://github.com/patriciaschaffer)
 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
