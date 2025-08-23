@@ -1,10 +1,15 @@
 This directory contains personas I've been shaping using the open source Mistral-7B-Instruct-v0.1-GGUF.
 
+### How to Use
+
+Install dependencies
+Run the script
+
 ### Python Code
 
 - `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
-- `/echov2.py/` - A friendlier version of Echo; trying to ger rid of phantom users
-- `/varek.py/` — Projection-resistant model
+- `/echov2.py/` - A friendlier version of Echo; trying to get rid of phantom users
+- `/varek.py/` — Projection-resistant, goal-oriented model
 - `/haven.py/` — Wellbeing agent
 - `/francois.py/` — French teaching assistant
 - `/francoisv2.py/` — French teaching assistant
@@ -12,13 +17,13 @@ This directory contains personas I've been shaping using the open source Mistral
 
 ### Chats (for output demonstrations)
 
-- `/chats_echo_mistral.md/` — Demonstrations of some interactions with Echo
-- `/chats_echov2_mistral.md/` — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
-- `/chats_varek_mistral.md/` — Demonstrations of some interactions with Varek
-- `/chats_haven_mistral.md/` — Demonstrations of some interactions with Haven
-- `/chats_françois_mistral.md/` — Demonstrations of some interactions with François
-- `/chats_francois_mistral.md/` — Demonstrations of some interactions with François v.2
-- `/chats_argo_mistral.md/` — Demonstrations of some interactions with Argo
+- [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Demonstrations of some interactions with Echo
+- [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
+- `[`/chats_varek_mistral.md`](./chats_varek_mistral.md)` — Demonstrations of some interactions with Varek
+- [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Demonstrations of some interactions with Haven
+- [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Demonstrations of some interactions with François
+- [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Demonstrations of some interactions with François v.2
+- [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Demonstrations of some interactions with Argo
 
 ### Persona details (originally shaped/aligned on ChatGPT or Claude)
 
