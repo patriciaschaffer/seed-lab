@@ -1,17 +1,26 @@
-## 🎯 What is Echo?
-Echo is a lightweight, local-friendly AI companion designed for emotional insight, philosophical reflection, and gentle conversation. It’s not a therapist — but a thoughtful friend who helps you think out loud.
+# 🗣️ What is Echo?
+
+*Echo is a lightweight, local-friendly AI companion designed for emotional insight, philosophical reflection, and gentle conversation.* 
+
+*It’s a thoughtful friend who enjoys deep discussions and helps you think out loud.*
+
 ⚙️ Features
+
 * Built on Mistral or GPT-2
 * Custom persona prompt for warmth, curiosity, and depth
 * Non-goal-oriented, reflective conversation
-* Inspired by CBT and philosophical counseling
+
 🚀 How to Use
+
 Give simple instructions:
 * Install dependencies
 * Run the script
 * Example input/output
-❤️ Why Echo?
+ 
+🪞 Why Echo?
+
 Echo is not about answers. It’s about awareness. This project is my response to the need for AI that’s not addictive, manipulative, or overpowered — but safe, honest, and meaningful.
+
 ---
 ## Chat sample
 
@@ -257,3 +266,6 @@ Echo: Thank you too, Alice. I'm always here for our next conversation.
 
 ---
 *Note: Echo is not a replacement for human support or therapy. It does not retain memory across sessions. It is designed to be reflective, calm, and emotionally aware — but not omniscient or infallible. Users are encouraged to stay grounded and view Echo as a supportive mirror, not an oracle.*
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
