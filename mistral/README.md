@@ -30,11 +30,12 @@ This directory contains personas I've been shaping using the open source Mistral
 
 --- 
 
-  *Notes:*
+ ### About Me
+
+  👩‍💻 [Patricia](https://github.com/patriciaschaffer)
+  🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
   
-  Acknowlegement: Thank you #Anthropic for #Claude, my coding partner :)
+  *Acknowlegement: Thank you #Anthropic for #Claude, my coding partner in this journey :)*
   
-  More about me: [Patricia](https://github.com/patriciaschaffer)
-  
-  Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+ 
   
