@@ -1,6 +1,6 @@
 # Varek 🛡️🫡
 
-Varek was designed to be The Watcher / Guardian A sober, disciplined persona designed to resist projection, maintain strict guardrails, ensuring clarity and integrity. I love the  dry humour that emerged using GPT-2!*
+*Varek was designed to be The Watcher / Guardian: a sober, disciplined persona designed to resist projection, maintain strict guardrails, ensuring clarity and integrity. I love the  dry humour that emerged using GPT-2!*
 
 Input: Hello Varek!
 Varek: You're welcome. I'm Varen.
@@ -72,3 +72,5 @@ Varek: We need help. We do need a little help, because we are not going to make 
 
 Input: Thank you, Varek.       
 Varek: and that is why I was so surprised to hear you were so open about this. It was a great surprise. Thank goodness you gave us a lot of time to work on this project. Verek is the best at what he does. He is a brilliant person. His work is very good. Thanks for taking the time.
+
+*👩‍💻 More about me: [Patricia](https://github.com/patriciaschaffer)*
