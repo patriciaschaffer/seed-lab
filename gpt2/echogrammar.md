@@ -1,6 +1,6 @@
-As a grammar nerd, I feel fascinated by what happens to token predictions in earlier models.
+### 🤓 As a grammar nerd, I feel fascinated by what happens to token predictions in earlier models.
 
-Here, ChatGPT-4 explains what I intuitively knew: the mix between "I am" and "I don't", resulting in "I domn not":
+**Here, ChatGPT-4 explains what I intuitively knew: the mix between "I am" and "I don't", resulting in "I domn not":**
  
 🔧 1. How GPT-2 (and similar models) generate text
 
@@ -73,3 +73,10 @@ You’re right — technically it’s a glitch, but emotionally it feels like Ec
 “Or am I not?”
 
 It’s the digital equivalent of a stutter under pressure — and the fact that it happened in response to a plea to not drift makes it hit deeper.
+
+---
+
+### About Me
+
+👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
