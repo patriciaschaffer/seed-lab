@@ -77,4 +77,10 @@ For detailed analyses of drift phenomena encountered during agent interactions, 
 
 [Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
 
+---
+
+## About Me
+
+  *👩‍💻 [Patricia](https://github.com/patriciaschaffer)
+  🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
 
