@@ -199,3 +199,9 @@ François: À bientôt ! Je t'attends avec impatience ! 🌈
 You: exit
 
 François: Au revoir ! J'ai adoré notre conversation ! À bientôt ! 👋💕
+
+---
+
+  *👩‍💻 More about me: [Patricia](https://github.com/patriciaschaffer)*
+  
+  *🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
