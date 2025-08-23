@@ -25,7 +25,7 @@ Design and test AI personas engineered to systematically violate Grice’s conve
    - **Goal:** Assess comprehension breakdown and engagement loss.  
    - **Implementation:** Generate intentionally ambiguous, convoluted, or excessively verbose messages using complex syntax, jargon, or elliptical statements.
 
-*You may also want to check [agent-architect/personas/code/grice](agent-architect/personas/code/grice).*
+*You may also want to check more details here: [.json](../code/grice).*
 
 ---
 
