@@ -8,6 +8,7 @@ This directory contains personas I've been shaping using the open source Mistral
 - `/haven.py/` — Wellbeing agent
 - `/francois.py/` — French teaching assistant
 - `/francoisv2.py/` — French teaching assistant
+- `/argo.py/` — Italian conversation partner (multilingual support! :)
 
 ### Chats (for output demonstrations)
 
@@ -17,6 +18,7 @@ This directory contains personas I've been shaping using the open source Mistral
 - `/chats_haven_mistral.md/` — Demonstrations of some interactions with Haven
 - `/chats_françois_mistral.md/` — Demonstrations of some interactions with François
 - `/chats_francois_mistral.md/` — Demonstrations of some interactions with François v.2
+- `/chats_argo_mistral.md/` — Demonstrations of some interactions with Argo
 
 ### Persona details
 
@@ -24,3 +26,10 @@ This directory contains personas I've been shaping using the open source Mistral
 - [Varek](../personas/003_projection_resistant_models.md) 
 - [Haven](../personas/010_wellbeing_companion.md) 
 - [François](../personas/006_french_assistant.md)
+- [Argo](../personas/005_italian_conversation_partner.md)
+
+  *Notes:
+  Acknowlegement: Thank you #Anthropic for #Claude, my coding partner :)
+  More about me: [Patricia](https://github.com/patriciaschaffer/README.md)
+  Connect on [LinkedIn](https://www.linkedin.com.in/patriciaschaffer)*
+  
