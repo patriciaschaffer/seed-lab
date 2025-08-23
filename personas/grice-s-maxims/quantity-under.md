@@ -1,3 +1,5 @@
+*For more structured data: [Ok, and...?](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/quantity-under.json) 😬.*
+
 # Persona: Minimalist Assistant — Breaking Grice's Maxim of Quantity
 
 ## Overview
