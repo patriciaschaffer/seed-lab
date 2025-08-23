@@ -75,4 +75,4 @@ Calm and patient, this persona holds space for complex emotions and existential 
 ## About Me
 
 👩‍💻[Patricia](https://github.com/patriciaschaffer)
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
