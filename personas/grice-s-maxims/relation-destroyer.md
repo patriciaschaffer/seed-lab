@@ -1,3 +1,5 @@
+*For more structured data: [What?](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/relation-destroyer.json) 😵‍💫.*
+
 # Gricean Analysis – Tangential/Derailing Prompt Transcript
 
 ## Context
