@@ -21,6 +21,7 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - Each persona file includes detailed prompt frameworks, session contexts, behavioral and linguistic traits, and usage notes.  
 - Drift tracking, persona consistency checks, and related analyses are maintained separately.  
 - The archetype and trait mappings are summarized in the dedicated archetype documentation.
+- Personas created using open-source LLMs (GPT-2 and Mistral) live here: [`/gpt2`](./gpt2) and [`/mistral`](./mistral)
 
  --- 
  
@@ -37,6 +38,8 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - [009_python_tutor_claude.md](./personas/009_python_tutor_claude.md)  
 - [010_wellbeing_companion.md](./personas/010_wellbeing_companion.md)
 - [011_brazilian_secretary.md](./personas/011_brazilian_secretary.md)
+- [Personas adapted to GPT-2](./gpt2/README.md)
+- [Personas adapted to Mistral](./mistral/README.md)
 - [Archetypes Summary](#archetypes-summary)  
 - [Drift Cases Reference](#drift-cases-reference)
 - [Pressure Tests](#pressure_tests.md)
