@@ -1,10 +1,12 @@
-# agent-architect
+# 👩‍🎨 agent-architect 👷‍♀️ 
 
 Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
  
 My work focuses on shaping these agents for consistency, alignment, and tangible value. At first, I worked deliberately with models built for the end-user. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. 
 
 However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally ran, using open source alternatives (GPT-2 and MistralAI).
+
+For experimentation, I also created personas to purposefully Grice's conversational maxims.
 
 ## Conversational AI Personas Across LLMs
 
@@ -35,8 +37,10 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 - `/mistral/` — Personas created with Mistral, running locally
 - `/agent_persona_engineering.md/` — Framework for designing and managing agent personas  
 - `/archetypes.md/` — Overview of core archetypes, linked to persona files  
-- `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
-- `/pressure_tests/` — Matrices and frameworks to stress-test agent stability under varied conditions
+- `/drift_detection.md/` — Methods and scripts for detecting and analyzing behavioral shifts  
+- `/pressure_tests.md/` — Matrices and frameworks to stress-test agent stability under varied conditions
+- `/personas/grice-s-maxims/` — Personas that purposefully violate Grice's conversational maxims (for study and research)
+
 
 The agent-architect repository documents the development of methods, tools, and best practices to architect AI models embodying specific temperaments, interaction roles, and behavioral dynamics.
 
@@ -76,8 +80,9 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [009_python_tutor_claude.md](personas/009_python_tutor_claude.md)  
 - [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
 - [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)
+- [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
 - [Open Source GPT-2 models](gpt2/README.md)
-- [Open Source Mistral models](mistral/README.md)  
+- [Open Source Mistral models](mistral/README.md)
 
 ### Core Documents  
 - [agent_persona_engineering.md](agent_persona_engineering.md)  
