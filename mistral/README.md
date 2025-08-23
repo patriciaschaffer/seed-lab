@@ -12,9 +12,9 @@ This directory contains personas I've been shaping using the open source Mistral
 ### Chats (for output demonstrations)
 
 - `/chats_echo_mistral.md/` — Demonstrations of some interactions with Echo
-- `/chats_varek_mistral.md/` — Demonstrations of some interactions with Varek
 - `/chats_echov2_mistral.md/` — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
+- `/chats_varek_mistral.md/` — Demonstrations of some interactions with Varek
 - `/chats_haven_mistral.md/` — Demonstrations of some interactions with Haven
 - `/chats_françois_mistral.md/` — Demonstrations of some interactions with François
-- `/chats_fracois_mistral.md/` — Demonstrations of some interactions with François v.2
+- `/chats_francois_mistral.md/` — Demonstrations of some interactions with François v.2
 
