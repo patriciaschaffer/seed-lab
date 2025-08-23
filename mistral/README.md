@@ -2,8 +2,7 @@ This directory contains personas I've been shaping using the open source Mistral
 
 ### How to Use
 
-Install dependencies
-Run the script
+Install dependencies. Run the script.
 
 ### Python Code
 
