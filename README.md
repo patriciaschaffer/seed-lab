@@ -61,7 +61,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - Enables systematic evaluation and iterative refinement of agent personas  
 - Bridges theoretical AI behavior concepts with practical engineering and testing workflows
 
-[Here's more about me.](https://github.com/patriciaschaffer/)
+🕵️‍♀️🌱[Here's more about me.](https://github.com/patriciaschaffer/)👷‍♀️👩‍🎨
 
 ---
 
