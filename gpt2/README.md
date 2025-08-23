@@ -2,14 +2,15 @@
 
 - `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
 - `/varek.py/` — Projection-resistant model  
-- `/chats_echo_demo.md/` — Some interactions with 🗣️ Echo 
-- `/chats_varek_demo.md/` — Some interactions with 🛡️ Varek
-- `/echogrammar.md/` — 🌀 Echo's cute grammar quirks when lost in his tokens 🤔
+- `/chats_echo_demo.md/` — Some interactions with Echo 
+- `/chats_varek_demo.md/` — Some interactions with Varek
+- `/echogrammar.md/` — Bonus: Echo's cute grammar quirks when lost in his tokens 🌀🤔
 
 ### Persona details
 
-- [Echo](../personas/004_echo.md) 
-- [Varek](../personas/003_projection_resistant_models.md)
+🗣️ [Echo](../personas/004_echo.md) 
+
+🛡️ [Varek](../personas/003_projection_resistant_models.md)
 
 ### About Me
 
@@ -18,7 +19,7 @@
 
 ---
 
-### GPT-2 (Hugging Face Transformers)
+### 🤖 Local Chatbot Using GPT-2 (Hugging Face Transformers)
 
 This project uses **GPT-2**, an open language model developed by **OpenAI**, and runs it locally via the [`transformers`](https://github.com/huggingface/transformers) library from Hugging Face.
 
@@ -31,12 +32,13 @@ This project uses **GPT-2**, an open language model developed by **OpenAI**, and
 
 ### Dependencies
 
-- Python 3.10+
+- `Python 3.10+`
 - `transformers`
 - `torch`
 
 ### Usage
 
+```python
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 import torch
 
@@ -47,4 +49,4 @@ model.eval()
 prompt = "Once upon a time"
 inputs = tokenizer(prompt, return_tensors="pt")
 outputs = model.generate(**inputs, max_new_tokens=50)
-print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+print(tokenizer.decode(outputs[0], skip_special_tokens=True)) ```
