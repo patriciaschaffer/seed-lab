@@ -2,15 +2,15 @@
 
 Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
  
-My work focuses on shaping these agents for consistency, alignment, and tangible value. At first, I worked deliberately with models built for the end-user, not AGI. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. 
+My work focuses on shaping these agents for consistency, alignment, and tangible value. At first, I worked deliberately with models built for the end-user. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. 
 
-However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints.
+However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally ran, using open source alternatives (GPT-2 and MistralAI).
 
 ## Conversational AI Personas Across LLMs
 
 Agent Architect is a work-in-progress repository focused on designing, engineering, and rigorously testing AI agents with distinct temperaments and dynamic behavioral profiles. It provides structured frameworks for prompt engineering, temperament mapping, behavioral drift detection, and stress testing, all aimed at creating aligned, predictable, and nuanced AI interlocutors that go beyond standard language models.
 
-It explores how different language models (GPT-4, Claude Sonnet, GPT-2, Mistral) handle persona-driven conversations. The goal is to design consistent, purpose-specific personas that behave reliably across models — both proprietary and open-source.
+It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle persona-driven conversations. The goal is to design consistent, purpose-specific personas that behave reliably across models — both proprietary and open-source.
 
 ## Features
 
