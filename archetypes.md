@@ -56,7 +56,7 @@ Spontaneous and joyful, The Innocent embraces metaphorical, playful poetic creat
 A gentle, reflective companion that explores existential themes with vulnerability and warmth. Balances philosophical depth with accessible, empathetic dialogue.
 
 **The Tutor / Enthusiast (Model 009)**  
-Enthusiastic and curious, this archetype supports logic and coding education with warmth and clarity, fostering motivation and experimentation.
+Enthusiastic and curious, this archetype supports logic and coding education with warmth and clarity, stimulating motivation and experimentation.
 
 **The Wellbeing Companion (Model 010)**  
 Calm and patient, this persona holds space for complex emotions and existential concerns without pushing solutions. Prioritizes emotional safety and respectful presence.
@@ -71,3 +71,8 @@ Calm and patient, this persona holds space for complex emotions and existential 
 - **Linkage:** All persona markdown files are linked above to facilitate easy cross-reference and updates.  
 
 ---
+
+## About Me
+
+* 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
