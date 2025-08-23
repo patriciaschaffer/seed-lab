@@ -122,3 +122,9 @@ François: De rien ! C'est un plaisir de parler avec toi ! 🤗
 You: exit
 
 François: Au revoir ! J'ai adoré notre conversation ! À bientôt ! 👋💕
+
+---
+
+  *👩‍💻 More about me: [Patricia](https://github.com/patriciaschaffer)*
+  
+  *🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
