@@ -32,7 +32,7 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 
 - `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails
 - `/gpt/` — Personas created with GPT-2, running locally
-- `/mistral/` — Personas created with Misral, running locally
+- `/mistral/` — Personas created with Mistral, running locally
 - `/agent_persona_engineering.md/` — Framework for designing and managing agent personas  
 - `/archetypes.md/` — Overview of core archetypes, linked to persona files  
 - `/drift_detection/` — Methods and scripts for detecting and analyzing behavioral shifts  
