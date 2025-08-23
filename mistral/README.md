@@ -1,9 +1,8 @@
-# 🦙 Local Chatbot Using Mistral-7B Instruct (GGUF)
+# 🦙 Local Chatbots Using Mistral-7B Instruct (GGUF)
 
 This project uses the **Mistral-7B Instruct v0.1** model, quantized and run entirely offline using the [`llama.cpp`](https://github.com/ggerganov/llama.cpp) backend via the `llama_cpp` Python bindings.
 
-
-## Scripts
+## 📝 Scripts
 
 - `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
 - `/echov2.py/` - A friendlier version of Echo; trying to get rid of phantom users
@@ -13,7 +12,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/francoisv2.py/` — French teaching assistant
 - `/argo.py/` — Italian conversation partner (multilingual support! :)
 
-## Chats (for output demonstrations)
+## 💬 Chats (for output demonstrations)
 
 - [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Demonstrations of some interactions with Echo
 - [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
@@ -23,7 +22,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Demonstrations of some interactions with François v.2
 - [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Demonstrations of some interactions with Argo
 
-## Persona details (originally shaped/aligned on ChatGPT or Claude)
+## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
 - [Varek](../personas/003_projection_resistant_models.md) 
@@ -63,10 +62,11 @@ print(response["choices"][0]["text"])
 ```
 ---
 
- ## About Me
+ ## 👩‍💻 About Me
 
-  👩‍💻 [Patricia](https://github.com/patriciaschaffer)
-  🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
+   [Patricia](https://github.com/patriciaschaffer) 
+   
+   🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
   
   *Acknowlegement: Thank you #Anthropic for #Claude, my coding partner in this journey :)*
   
