@@ -15,7 +15,6 @@
 Give simple instructions:
 * Install dependencies
 * Run the script
-* Example input/output
  
 🪞 Why Echo?
 
