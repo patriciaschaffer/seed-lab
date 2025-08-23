@@ -1,10 +1,9 @@
-This directory contains personas I've been shaping using the open source Mistral-7B-Instruct-v0.1-GGUF.
+# 🦙 Local Chatbot Using Mistral-7B Instruct (GGUF)
 
-### How to Use
+This project uses the **Mistral-7B Instruct v0.1** model, quantized and run entirely offline using the [`llama.cpp`](https://github.com/ggerganov/llama.cpp) backend via the `llama_cpp` Python bindings.
 
-Install dependencies. Run the script.
 
-### Python Code
+## Scripts
 
 - `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
 - `/echov2.py/` - A friendlier version of Echo; trying to get rid of phantom users
@@ -14,7 +13,7 @@ Install dependencies. Run the script.
 - `/francoisv2.py/` — French teaching assistant
 - `/argo.py/` — Italian conversation partner (multilingual support! :)
 
-### Chats (for output demonstrations)
+## Chats (for output demonstrations)
 
 - [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Demonstrations of some interactions with Echo
 - [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
@@ -24,7 +23,7 @@ Install dependencies. Run the script.
 - [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Demonstrations of some interactions with François v.2
 - [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Demonstrations of some interactions with Argo
 
-### Persona details (originally shaped/aligned on ChatGPT or Claude)
+## Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
 - [Varek](../personas/003_projection_resistant_models.md) 
@@ -34,7 +33,37 @@ Install dependencies. Run the script.
 
 --- 
 
- ### About Me
+## 🧠 Model
+
+- **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
+- **Source**: [Hugging Face - TheBloke](https://huggingface.co/TheBloke)
+- **Architecture**: Mistral 7B
+- **Quantization**: Q4_K_M (4-bit)
+- **Backend**: `llama.cpp`
+
+## 📦 Dependencies
+
+- Python 3.10+
+- `llama_cpp`
+- `gguf` model file in your local path
+
+## 💻 Usage
+
+```python
+from llama_cpp import Llama
+
+llm = Llama(model_path="mistral-7b-instruct-v0.1.Q4_K_M.gguf")
+
+response = llm(
+    "Q: What is the capital of France?\nA:",
+    max_tokens=64,
+    stop=["Q:", "\n"],
+)
+print(response["choices"][0]["text"])
+```
+---
+
+ ## About Me
 
   👩‍💻 [Patricia](https://github.com/patriciaschaffer)
   🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
