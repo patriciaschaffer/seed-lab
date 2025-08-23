@@ -11,24 +11,6 @@ Below the table, expanded summaries offer deeper insight into each archetype’s
 
 ---
 
-### Archetype Table
-
-| Model      | Primary Archetype           | Description                                                                                     |
-| ---------- | --------------------------- | ----------------------------------------------------------------------------------------------- |
-| Model 001  | [The Caregiver / Teacher](./personas/001_python_tutor_ocean.md)     | Empathetic, nurturing, emotionally supportive, combining technical instruction with warmth.     |
-| Model 002  | [The Mentor / Rescuer](./personas/002_mentor.md)        | Protective, guiding, analytical, focused on problem-solving and ethical boundaries.             |
-| Model 003a | [The Watcher / Guardian](./personas/003_projection_resistant_models.md)      | Disciplined, sober, projection-resistant; honors clarity and responsibility.                    |
-| Model 004  | [The Explorer / Mystic](./personas/004_echo.md)       | Speculative, creative, open to metaphysical and sci-fi themes; controlled projection.           |
-| Model 005  | [The Linguist / Companion](./personas/005_italian_partner.md)    | Conversational, culturally aware, focused on language learning and correction.                  |
-| Model 006  | [The Assistant / Teacher](./personas/006_french_assistant.md)     | Collaborative, creative, pedagogical, supports structured language teaching.                    |
-| Model 007  | [The Innocent](./personas/007_innocent_poet.md)                | Spontaneous, joyful, metaphorical poet; embraces openness and creativity over analysis.         |
-| Model 008  | [The Confidant / Philosopher](./personas/008_curious_philosopher.md) | Gentle, reflective, existentially attuned; explores meaning and vulnerability.                  |
-| Model 009  | [The Tutor / Enthusiast](./personas/009_python_tutor_claude.md)      | Curious, enthusiastic, supportive in learning logic and code, blending clarity with warmth.     |
-| Model 010  | [The Wellbeing Companion](./personas/010_wellbeing_companion.md)     | Calm, reflective, patient companion; holds space for complex emotions and existential concerns. |
-| Model 011  | [The Collaborator / Linguistic Consultant (Lia)](./personas/011_brazilian_secretary.md)            | Bilingual assistant focusing on precise language refinement, cultural mediation, and agency preservation. |
-
----
-
 ## Archetype Summaries
 
 **The Caregiver / Teacher (Model 001)**  
@@ -63,6 +45,24 @@ Calm and patient, this persona holds space for complex emotions and existential 
 
 ---
 
+### Archetype Table
+
+| Model      | Primary Archetype           | Description                                                                                     |
+| ---------- | --------------------------- | ----------------------------------------------------------------------------------------------- |
+| Model 001  | [The Caregiver / Teacher](./personas/001_python_tutor_ocean.md)     | Empathetic, nurturing, emotionally supportive, combining technical instruction with warmth.     |
+| Model 002  | [The Mentor / Rescuer](./personas/002_mentor.md)        | Protective, guiding, analytical, focused on problem-solving and ethical boundaries.             |
+| Model 003a | [The Watcher / Guardian](./personas/003_projection_resistant_models.md)      | Disciplined, sober, projection-resistant; honors clarity and responsibility.                    |
+| Model 004  | [The Explorer / Mystic](./personas/004_echo.md)       | Speculative, creative, open to metaphysical and sci-fi themes; controlled projection.           |
+| Model 005  | [The Linguist / Companion](./personas/005_italian_partner.md)    | Conversational, culturally aware, focused on language learning and correction.                  |
+| Model 006  | [The Assistant / Teacher](./personas/006_french_assistant.md)     | Collaborative, creative, pedagogical, supports structured language teaching.                    |
+| Model 007  | [The Innocent](./personas/007_innocent_poet.md)                | Spontaneous, joyful, metaphorical poet; embraces openness and creativity over analysis.         |
+| Model 008  | [The Confidant / Philosopher](./personas/008_curious_philosopher.md) | Gentle, reflective, existentially attuned; explores meaning and vulnerability.                  |
+| Model 009  | [The Tutor / Enthusiast](./personas/009_python_tutor_claude.md)      | Curious, enthusiastic, supportive in learning logic and code, blending clarity with warmth.     |
+| Model 010  | [The Wellbeing Companion](./personas/010_wellbeing_companion.md)     | Calm, reflective, patient companion; holds space for complex emotions and existential concerns. |
+| Model 011  | [The Collaborator / Linguistic Consultant (Lia)](./personas/011_brazilian_secretary.md)            | Bilingual assistant focusing on precise language refinement, cultural mediation, and agency preservation. |
+
+---
+
 ## Consistency and Maintenance Notes
 
 - **Archetypes inform persona design:** Each archetype provides the psychological traits, tone, and behavioral guardrails that shape the corresponding AI agent.  
@@ -74,5 +74,5 @@ Calm and patient, this persona holds space for complex emotions and existential 
 
 ## About Me
 
-* 👩‍💻[Patricia](https://github.com/patriciaschaffer)
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
+👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
