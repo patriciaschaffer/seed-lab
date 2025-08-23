@@ -43,6 +43,7 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - [Archetypes Summary](#archetypes-summary)  
 - [Drift Cases Reference](#drift-cases-reference)
 - [Pressure Tests](#pressure_tests.md)
+- [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
 
 ---
 
