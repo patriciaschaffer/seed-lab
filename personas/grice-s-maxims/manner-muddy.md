@@ -1,3 +1,5 @@
+*For structured data: [manner_muddy.json](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/manner-muddy.json).*
+
 ### **1. Maxim of Manner (Clarity / Avoid Ambiguity)**
 
 * **Persona Behavior:**
