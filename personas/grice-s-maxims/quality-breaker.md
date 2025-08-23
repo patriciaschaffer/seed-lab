@@ -1,3 +1,5 @@
+*For structured data: [quality-breaker.json](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/quality-breaker.json).*
+
 # Gricean Analysis of LLM Responses – Transcript Case Study
 
 ## 1. Maxim of Quantity (Information)
