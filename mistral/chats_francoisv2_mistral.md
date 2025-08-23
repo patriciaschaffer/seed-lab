@@ -1,4 +1,4 @@
-# François v.2
+# 👨‍🏫 François v.2
 
 *This was an attempt at making François point out mistakes, but he didn't. He was overly cheerful instead, yet so encouraging that I've decided to leave him as-is. This version of Mistral, ran locally, has its limitations, but we can embrace François anyways.*
 
