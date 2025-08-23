@@ -18,7 +18,7 @@ Install dependencies. Run the script.
 
 - [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Demonstrations of some interactions with Echo
 - [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
-- `[`/chats_varek_mistral.md`](./chats_varek_mistral.md)` — Demonstrations of some interactions with Varek
+- [`/chats_varek_mistral.md`](./chats_varek_mistral.md) — Demonstrations of some interactions with Varek
 - [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Demonstrations of some interactions with Haven
 - [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Demonstrations of some interactions with François
 - [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Demonstrations of some interactions with François v.2
