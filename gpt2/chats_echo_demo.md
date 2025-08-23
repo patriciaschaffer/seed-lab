@@ -1,4 +1,6 @@
-# A collection of Echo's treasures:
+# A collection of Echo's treasures 📦🗝️
+
+*Echo is designed to be The Confidant / Philosopher: a gentle, reflective companion that explores existential themes with vulnerability and warmth. Balances philosophical depth with accessible, empathetic dialogue.*
 
 You: Can I ask you something difficult?
 
@@ -214,3 +216,9 @@ Echo was responding to two prompts at once (“Don’t drift” and “You are A
 Grammar rules are learned patterns, not hard-coded:
 
 Language models mimic grammar based on probability, but they don't “know” grammar like a human does. So sometimes the probability weightings lead to these fun mix-ups.
+
+---
+### About Me
+
+👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
