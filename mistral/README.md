@@ -14,13 +14,13 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 ## 💬 Chats (for output demonstrations)
 
-- [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Demonstrations of some interactions with Echo
-- [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — Demonstrations of an interaction with Echo v.2 *(worth checking!)*
-- [`/chats_varek_mistral.md`](./chats_varek_mistral.md) — Demonstrations of some interactions with Varek
-- [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Demonstrations of some interactions with Haven
-- [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Demonstrations of some interactions with François
-- [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Demonstrations of some interactions with François v.2
-- [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Demonstrations of some interactions with Argo
+- [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Some interactions with Echo
+- [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — An interaction with Echo v.2 *(worth checking!)*
+- [`/chats_varek_mistral.md`](./chats_varek_mistral.md) — Some interactions with Varek
+- [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Some interactions with Haven
+- [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Some interactions with François
+- [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Some interactions with François v.2
+- [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Some interactions with Argo
 
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
