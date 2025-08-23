@@ -20,7 +20,7 @@ This directory contains personas I've been shaping using the open source Mistral
 - `/chats_francois_mistral.md/` — Demonstrations of some interactions with François v.2
 - `/chats_argo_mistral.md/` — Demonstrations of some interactions with Argo
 
-### Persona details (originally shaped/aligned on ChatGPT and Claude)
+### Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
 - [Varek](../personas/003_projection_resistant_models.md) 
@@ -36,5 +36,5 @@ This directory contains personas I've been shaping using the open source Mistral
   
   More about me: [Patricia](https://github.com/patriciaschaffer)
   
-  Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
+  Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
   
