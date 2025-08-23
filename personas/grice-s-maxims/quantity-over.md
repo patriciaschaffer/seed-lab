@@ -1,3 +1,5 @@
+*For structured data: [Too much information!](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/quantity-over.json).*
+
 # Maximal Elaboration Persona
 
 **Summary:**
