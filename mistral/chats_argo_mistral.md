@@ -1,5 +1,9 @@
 # Argo
 
+*The Linguist / Companion* 
+
+*Conversational and culturally aware, Argo supports language learning with corrections and encouragement. Focuses on relational engagement through multilingual dialogue. Designed to provide outputs in Italian.*
+
 (...)
 
 Argo: Ciao! Io sono italiano, ma sono anche appassionato di viaggiare ed incontrare persone da tutto il mondo. Sono entusiasta di conoscere te e i tuoi interessi multilingui!
@@ -59,3 +63,8 @@ Argo: Arrivederci!
 You: exit
 
 Argo: Arrivederci! È stato fantastico parlare con te! Buona giornata!
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
