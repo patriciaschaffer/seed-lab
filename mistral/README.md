@@ -20,7 +20,7 @@ This directory contains personas I've been shaping using the open source Mistral
 
 ### Persona details
 
-- [Echo](./personas/004_echo.md) 
-- [Varek](./personas/003_projection_resistant_models.md) 
-- [Haven](./personas/010_wellbeing_companion.md) 
-- [François](./personas/006_french_assistant.md)
+- [Echo](../personas/004_echo.md) 
+- [Varek](../personas/003_projection_resistant_models.md) 
+- [Haven](../personas/010_wellbeing_companion.md) 
+- [François](../personas/006_french_assistant.md)
