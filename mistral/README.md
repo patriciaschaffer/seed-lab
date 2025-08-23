@@ -18,3 +18,9 @@ This directory contains personas I've been shaping using the open source Mistral
 - `/chats_françois_mistral.md/` — Demonstrations of some interactions with François
 - `/chats_francois_mistral.md/` — Demonstrations of some interactions with François v.2
 
+### Persona details
+
+- `/personas/004_echo.md/` - Echo
+- `/personas/003_projection_resistant_models.md/` - Varek
+- `/personas/010_wellbeing_companion.md/` - Haven
+- `/personas/006_french_teaching_assistant.md/` - François
