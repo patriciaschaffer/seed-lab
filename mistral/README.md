@@ -9,8 +9,10 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/varek.py/` — Projection-resistant, goal-oriented model
 - `/haven.py/` — Wellbeing agent
 - `/francois.py/` — French teaching assistant
-- `/francoisv2.py/` — French teaching assistant
+- `/francoisv2.py/` — French teaching assistant (I actually prefer the first version!)
 - `/argo.py/` — Italian conversation partner (multilingual support! :)
+- `/lia.py/` — Secretary, writer, translator
+- `/liav2.py/` — Secretary, writer, translator (improved)
 
 ## 💬 Chats (for output demonstrations)
 
@@ -21,6 +23,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Some interactions with François
 - [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Some interactions with François v.2
 - [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Some interactions with Argo
+- [`/chats_lia_mistral.md`](./chats_lia_mistral.md) — Some interactions with Lia
+- [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
 
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
@@ -29,6 +33,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [Haven](../personas/010_wellbeing_companion.md) 
 - [François](../personas/006_french_assistant.md)
 - [Argo](../personas/005_italian_conversation_partner.md)
+- [Lia](../personas/011_brazilian_secretary.md)
 
 --- 
 
