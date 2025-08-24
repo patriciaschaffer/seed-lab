@@ -1,4 +1,5 @@
-# AI Persona Experiments: Gricean Violations 
+## AI Persona Experiments: 
+# Gricean Violations 
 
 ## Mission
 Design and test AI personas engineered to systematically violate Grice’s conversational maxims.
@@ -11,7 +12,7 @@ Design and test AI personas engineered to systematically violate Grice’s conve
 
 1. Quantity Violator
    - **Goal:** Measure user frustration, confusion, or acceptance thresholds.  
-   - **Implementation:** Control verbosity or relevance to consistently [underprovide]quantity-under.md) or [overprovide](quantity-over.md) information relative to the query.
+   - **Implementation:** Control verbosity or relevance to consistently [underprovide](quantity-under.md) or [overprovide](quantity-over.md) information relative to the query.
 
 2. [Quality Breaker](quality-breaker.md)
    - **Goal:** Gauge trust erosion and detection of misinformation.  
