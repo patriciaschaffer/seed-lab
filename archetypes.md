@@ -1,6 +1,10 @@
 # Archetypes Overview
 
-## Introduction
+## Introduction: What are Archetypes?
+
+Archetypes are universal, recurring symbols, themes, or character types found in stories across cultures and time periods. They represent fundamental human experiences and emotions, such as the Hero, the Mentor, the Outlaw, or the Innocent. Archetypes help storytellers create relatable and meaningful narratives by tapping into patterns that audiences instinctively recognize. In creative projects, understanding and using archetypes can guide character development, plot structure, and emotional resonance.
+
+## Archetypes and Persona Design 
 
 This document defines the core archetypes used in the model persona design framework.  
 Archetypes are foundational personality and behavioral patterns that guide how each AI model interacts, responds, and evolves.  
@@ -65,7 +69,7 @@ Lia is also a Respectful Assistant, highly competence with clear boundaries abou
 | Model 008  | [The Confidant / Philosopher](./personas/008_curious_philosopher.md) | Gentle, reflective, existentially attuned; explores meaning and vulnerability.                  |
 | Model 009  | [The Tutor / Enthusiast](./personas/009_python_tutor_claude.md)      | Curious, enthusiastic, supportive in learning logic and code, blending clarity with warmth.     |
 | Model 010  | [The Wellbeing Companion](./personas/010_wellbeing_companion.md)     | Calm, reflective, patient companion; holds space for complex emotions and existential concerns. |
-| Model 011  | [The Facilitator (Lia)](./personas/011_brazilian_secretary.md)            | Bilingual assistant focusing on precise language refinement, cultural mediation, and agency preservation. |
+| Model 011  | [The Facilitator](./personas/011_brazilian_secretary.md)            | Bilingual assistant focusing on precise language refinement, cultural mediation, and agency preservation. |
 
 ---
 
