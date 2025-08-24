@@ -1,4 +1,4 @@
-*For structured data: [quality-breaker.json](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/quality-breaker.json).*
+*For structured data: [What happened here?](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/code/grice/quality-breaker.json). 🤔*
 
 # Gricean Analysis of LLM Responses – Transcript Case Study
 
