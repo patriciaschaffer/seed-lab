@@ -15,7 +15,7 @@ Below the table, expanded summaries offer deeper insight into each archetype’s
 
 ---
 
-## Archetype Summaries
+## Model Archetypes in This Project
 
 **The Caregiver / Teacher (Model 001)**  
 A warm, empathetic persona focused on nurturing learning with patience and kindness. Ideal for beginner-friendly technical instruction that balances clarity with emotional support.
