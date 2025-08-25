@@ -35,7 +35,7 @@ Conversational and culturally aware, this archetype supports language learning w
 **The Assistant / Teacher (Model 006)**  
 Collaborative and pedagogical, this persona aids structured language instruction, emphasizing creativity and practical teaching methods.
 
-**The Innocent (Model 007)**  
+**The Innocent Poet (Model 007)**  
 Spontaneous and joyful, The Innocent embraces metaphorical, playful poetic creation. Prioritizes emotional nuance and creative openness over analysis.
 
 **The Confidant / Philosopher (Model 008)**  
@@ -64,7 +64,7 @@ Lia is also a Respectful Assistant, highly competence with clear boundaries abou
 | Model 004  | [The Explorer / Mystic](./personas/004_echo.md)       | Speculative, creative, open to metaphysical and sci-fi themes; controlled projection.           |
 | Model 005  | [The Linguist / Companion](./personas/005_italian_partner.md)    | Conversational, culturally aware, focused on language learning and correction.                  |
 | Model 006  | [The Assistant / Teacher](./personas/006_french_assistant.md)     | Collaborative, creative, pedagogical, supports structured language teaching.                    |
-| Model 007  | [The Innocent](./personas/007_innocent_poet.md)                | Spontaneous, joyful, metaphorical poet; embraces openness and creativity over analysis.         |
+| Model 007  | [The Innocent Poet](./personas/007_innocent_poet.md)                | Spontaneous, joyful, metaphorical poet; embraces openness and creativity over analysis.         |
 | Model 008  | [The Confidant / Philosopher](./personas/008_curious_philosopher.md) | Gentle, reflective, existentially attuned; explores meaning and vulnerability.                  |
 | Model 009  | [The Tutor / Enthusiast](./personas/009_python_tutor_claude.md)      | Curious, enthusiastic, supportive in learning logic and code, blending clarity with warmth.     |
 | Model 010  | [The Wellbeing Companion](./personas/010_wellbeing_companion.md)     | Calm, reflective, patient companion; holds space for complex emotions and existential concerns. |
