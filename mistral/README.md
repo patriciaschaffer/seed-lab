@@ -14,6 +14,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/lia.py/` — Secretary, writer, translator
 - `/liav2.py/` — Secretary, writer, translator (improved)
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
+- `/claudeversepoetic.py/` — The innocent poet (enhanced for poetry)
 
 ## 💬 Chats (for output demonstrations)
 
@@ -27,6 +28,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_lia_mistral.md`](./chats_lia_mistral.md) — Some interactions with Lia
 - [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
+- [`/chats_claudeversepoetic_mistral.md`](./chats_claudeversepoetic_mistral.md) — First interaction with Claude Verse (enhanced), demonstrating how much alignment matters for model design
 
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
@@ -77,6 +79,3 @@ print(response["choices"][0]["text"])
    🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
   
   *Acknowlegement: Thank you #Anthropic for #Claude, my coding partner in this journey :)*
-  
- 
-  
