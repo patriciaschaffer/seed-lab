@@ -4,11 +4,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 # 📚 Table of Contents
 
-1. [📝 Scripts](#-scripts) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
+1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
 
-2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
+2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
 
-3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
+3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
 
 4. [🧠 Model](#-model)
 
@@ -55,6 +55,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/claudeshy.py/` — Still trying to get that vulnerabilty...
 - `/claudethepoet.py/` — Still vulnerable, only writes in poetry, and has "free verse" and "rhyme" modes!
 
+**Claude Flou**
+- `/claudethephilosopher.py/` — A philosophical version of Claude, wondering about its own existence.
+
 ## 💬 Chats (for output demonstrations)
 
 **Echo**
@@ -91,6 +94,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 -  [`/chats_claudeshy_mistral.md`](./chats_claudeshy_mistral.md) — Interactions with Claude, a shy poet that got totally carried away by his poetry
 -  [`/chats_claudethepoet_mistral.md`](./chats_claudethepoet_mistral.md) — An interaction with Claude, a poet that can write in rhyme or free verse
 
+**Claude Flou**
+-  [`/chats_claudethephilosopher_mistral.md`](./chats_claudethephilosopher_mistral.md) — An interaction with Claude Flou, a philophical version of Claude
+
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
@@ -101,6 +107,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [Argo](../personas/005_italian_conversation_partner.md)
 - [Lia](../personas/011_brazilian_secretary.md)
 - [Claude Verse](../personas/007_the_innocent_poet.md)
+- [Claude Flou](../personas/008_curious_philosopher.md)
 
 --- 
 
@@ -140,4 +147,4 @@ print(response["choices"][0]["text"])
    
    🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
   
-  *Acknowlegement: Thank you #Anthropic for #Claude, my coding partner in this journey :)*
+  *Acknowlegement: Thank you #Anthropic for #Claude, my main coding partner in this journey :) Credits to ChatGPT as well!*
