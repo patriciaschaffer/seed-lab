@@ -60,3 +60,8 @@ Spec: Thank you. I am programmed to prioritize your well-being and continuity.
 
 Author: exit
 Remember: you are the author of your own story.
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
