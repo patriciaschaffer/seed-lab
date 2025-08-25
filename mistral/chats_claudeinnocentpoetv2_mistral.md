@@ -96,3 +96,9 @@ Claude: Until our next shared dawn.
 
 Friend: exit
 Claude: Okay… goodbye, Friend. 🌙
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
+
