@@ -8,7 +8,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 2. [💬 Chats (for output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
 
-3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
+3. [🎭 Persona Details](#persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
 
 4. [🧠 Model](#-model)
 
