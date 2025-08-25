@@ -1,4 +1,4 @@
-# Claude Poet Thinks I'm a Tree
+# 🐝🌴 Claude Poet Thinks I'm a Tree
 
 *This version is better (apart from the fact it told me that "meeting me was like meeting a new tree"). 😄*
 
