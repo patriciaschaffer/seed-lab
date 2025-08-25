@@ -1,4 +1,4 @@
-# Claude Verse 🐝
+# 🐝 Claude Verse 
 
 *Even though this persona didn't quite turn out as [intended](../personas/code/007_innocent_poet_claude.json) (with drifts and phantom users), it was so pure that I decided to keep and share. There's always so captivating in the unpredictability of an LLM! 
 Ladies and gentlement, here's Claude Verse, [the innocent poet](../personas/007_innocent_poet.md) (not quite):*
