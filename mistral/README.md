@@ -2,17 +2,48 @@
 
 This project uses the **Mistral-7B Instruct v0.1** model, quantized and run entirely offline using the [`llama.cpp`](https://github.com/ggerganov/llama.cpp) backend via the `llama_cpp` Python bindings.
 
+# 📚 Table of Contents
+
+1. [📝 Scripts](#-scripts) for [Echo](#echo), [Varek](#varek), [Haven](#haven), [François](#françois), [Argo](#argo), [Lia](#lia), [Claude Verse](#claude-verse)
+
+2. [💬 Chats (for output demonstrations)](#-chats-for-output-demonstrations) for  
+for [Echo](#echo), [Varek](#varek), [Haven](#haven), [François](#françois), [Argo](#argo), [Lia](#lia), [Claude Verse](#claude-verse)
+
+3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
+
+4. [🧠 Model](#-model)
+
+5. [📦 Dependencies](#-dependencies)
+
+6. [💻 Usage](#-usage)
+
+7. [👩‍💻 About Me](#-about-me)
+
+
 ## 📝 Scripts
 
+**Echo**
 - `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
 - `/echov2.py/` — A friendlier version of Echo; trying to get rid of phantom users
+
+**Varek**
 - `/varek.py/` — Projection-resistant, goal-oriented model
+
+**Haven**
 - `/haven.py/` — Wellbeing agent
+  
+**François**
 - `/francois.py/` — French teaching assistant
 - `/francoisv2.py/` — French teaching assistant (I actually prefer the first version!)
+
+**Argo**
 - `/argo.py/` — Italian conversation partner (multilingual support! :)
+
+**Lia**
 - `/lia.py/` — Secretary, writer, translator
 - `/liav2.py/` — Secretary, writer, translator (improved)
+
+**Claude Verse**
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
 - `/claudeversepoetic.py/` — The innocent poet (enhanced for poetry)
 - `/claudeinnocentpoet.py/` — Still trying to get the innocent poet right
@@ -23,15 +54,28 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 ## 💬 Chats (for output demonstrations)
 
+**Echo**
 - [`/chats_echo_mistral.md`](./chats_echo_mistral.md) — Some interactions with Echo
 - [`/chats_echov2_mistral.md`](./chats_echov2_mistral.md) — An interaction with Echo v.2 *(worth checking!)*
+
+**Varek**
 - [`/chats_varek_mistral.md`](./chats_varek_mistral.md) — Some interactions with Varek
+
+**Haven**
 - [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Some interactions with Haven
+
+**François**
 - [`/chats_francois_mistral.md`](./chats_francois_mistral.md) — Some interactions with François
 - [`/chats_francoisv2_mistral.md`](./chats_francoisv2_mistral.md) — Some interactions with François v.2
+
+**Argo**
 - [`/chats_argo_mistral.md`](./chats_argo_mistral.md) — Some interactions with Argo
+
+**Lia**
 - [`/chats_lia_mistral.md`](./chats_lia_mistral.md) — Some interactions with Lia
 - [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
+
+**Claude Verse**
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
 - [`/chats_claudeversepoetic_mistral.md`](./chats_claudeversepoetic_mistral.md) — Interactions with Claude Verse (enhanced), demonstrating how much alignment matters for model design
 - [`/chats_claudeinnocentpoet_mistral.md`](./chats_claudeinnocentpoet_mistral.md) — rying to refine the model to become more innocent: "User 4" appears
