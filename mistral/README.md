@@ -92,8 +92,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
-- [Varek](../personas/003_projection_resistant_models.md)
-- [Spec](../personas/003_projection_resistant_models.md)
+- [Varek](../personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)
+- [Spec](../personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)
 - [Haven](../personas/010_wellbeing_companion.md) 
 - [François](../personas/006_french_assistant.md)
 - [Argo](../personas/005_italian_conversation_partner.md)
