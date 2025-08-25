@@ -1,10 +1,10 @@
 ### 🎭 This folder contains personas I've been shaping using the open source GPT-2.
 
-- `/echo.py/` — Just like the Echo created with ChatGPT: philosophical
-- `/varek.py/` — Projection-resistant model  
-- `/chats_echo_demo.md/` — Some interactions with Echo 
-- `/chats_varek_demo.md/` — Some interactions with Varek
-- `/echogrammar.md/` — Bonus: Echo's cute grammar quirks when lost in his tokens 🌀🤔
+- [`/echo.py/`](echo.py) — Just like the Echo created with ChatGPT: philosophical
+- [`/varek.py/`](varek.py) — Projection-resistant model  
+- [`/chats_echo_demo.md/`](chats_echo_demo.md) — Some interactions with Echo 
+- [`/chats_varek_demo.md/`](chats_varek_demo.md) — Some interactions with Varek
+- [`/echogrammar.md/`](echogrammar.md) — Bonus: Echo's cute grammar quirks when lost in his tokens 🌀🤔
 
 ### Persona details
 
