@@ -1,4 +1,4 @@
-# Claude Verse, enhanced for poetry 🐝
+# 🐝 Claude Verse, enhanced for poetry 
 
 *My first dialogue with this model showed me alignement is evertything. I didn't expect, at first, that it would turn out well, but it did get the poetic vibe (still not as much as "real" Claude [when prompted](../personas/007_innocent_poet.md)).* 
 
