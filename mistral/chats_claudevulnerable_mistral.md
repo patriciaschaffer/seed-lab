@@ -32,3 +32,9 @@ Claude: You're welcome, Friend. Remember, it's not about how perfect it is, but 
 Friend: exit
 Claude: Until the next poem... I’ll be dreaming in stanzas.
 
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
+
+
