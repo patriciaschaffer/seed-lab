@@ -52,7 +52,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/claudeinnocentpoetv2.py/` — Making the poet more innocent
 - `/claudevulnerable.py/` — Making the poet more vulnerable
 - `/claudeunsure.py/` — Making the poet more unsure
-- `/claudeshy.py/` — Still trying to get that vulnerabilty... 
+- `/claudeshy.py/` — Still trying to get that vulnerabilty...
+- `/claudethepoet.py/` — Still vulnerable, only writes in poetry, and has "free verse" and "rhyme" modes!
 
 ## 💬 Chats (for output demonstrations)
 
@@ -88,6 +89,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_claudevulnerable_mistral.md`](./chats_claudevulnerable_mistral.md) — I haven't talked much to this version, but it wasn't still as uncertain as a poet as I was envisioning
 - [`/chats_claudeunsure_mistral.md`](./chats_claudeunsure_mistral.md) — A good version that compared me to a tree (!) and started writing non-stop
 -  [`/chats_claudeshy_mistral.md`](./chats_claudeshy_mistral.md) — Interactions with Claude, a shy poet that got totally carried away by his poetry
+-  [`/chats_claudethepoet_mistral.md`](./chats_claudethepoet_mistral.md) — An interaction with Claude, a poet that can write in rhyme or free verse
 
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
