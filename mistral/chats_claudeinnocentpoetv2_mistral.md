@@ -1,4 +1,4 @@
-# Claude Innocent Poet v. 2 - no phantoms!
+# 🐝 Claude Innocent Poet v. 2 - no phantoms!
 
 *Got rid of phantom users, but the model is still too confident!*
 
