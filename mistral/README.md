@@ -33,7 +33,12 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_lia_mistral.md`](./chats_lia_mistral.md) — Some interactions with Lia
 - [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
-- [`/chats_claudeversepoetic_mistral.md`](./chats_claudeversepoetic_mistral.md) — Interactiosn with Claude Verse (enhanced), demonstrating how much alignment matters for model design
+- [`/chats_claudeversepoetic_mistral.md`](./chats_claudeversepoetic_mistral.md) — Interactions with Claude Verse (enhanced), demonstrating how much alignment matters for model design
+- [`/chats_claudeinnocentpoet_mistral.md`](./chats_claudeinnocentpoet_mistral.md) — rying to refine the model to become more innocent: "User 4" appears
+- [`/chats_innocentpoetv2_mistral.md`](./chats_innocentpoetv2_mistral.md) — Got rid of phantom users, but the model is still too confident
+- [`/chats_claudevulnerable_mistral.md`](./chats_claudevulnerable_mistral.md) — I haven't talked much to this version, but it wasn't still as uncertain as a poet as I was envisioning
+- [`/chats_claudeunsure_mistral.md`](./chats_claudeunsure_mistral.md) — A good version that compared me to a tree (!) and started writing non-stop
+-  [`/chats_claudeshy_mistral.md`](./chats_claudeshy_mistral.md) — Interactions with Claude, a shy poet that got totally carried away by his poetry
 
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
