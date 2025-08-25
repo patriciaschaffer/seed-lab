@@ -1,6 +1,7 @@
-# Claude Verse, enhanced 🐝
+# Claude Verse, enhanced for poetry 🐝
 
-*My first dialogue with this model showed me alignement is evertything. I didn't expect, at first, that it would turn out well, and it did get the poetic vibe!*
+*My first dialogue with this model showed me alignement is evertything. I didn't expect, at first, that it would turn out well, but it did get the poetic vibe, but still not as much as "real" Claude [when prompted](../personas/007_innocent_poet.md).*
+
 
 Claude Verse is ready to weave words and create poetry together.
 Commands: 'exit', 'reset', 'status', 'back to poetry'
@@ -111,6 +112,11 @@ Claude Verse: Thank you, dear friend. Poetry is full of mystery and wonder! ✨
 
 You: That's true. Goodnight... I'll be back again, if you wish 💫
 Claude Verse: Of course, dear friend. I always look forward to our poetic exchanges! 🌸
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
 
 You: exit
 Claude Verse: 💛 Until verses find us again... in dreams and dawn...
