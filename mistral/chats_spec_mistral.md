@@ -1,6 +1,6 @@
 # Spec
 
-*Spec is very similar to [Varek](./varek.py) (a projection-resistant model), but I loved how it turned out, very focused, dry, direct, and a little mysterious.*
+*Spec is very similar to [Varek](./varek.py) (a projection-resistant model), but I loved how it turned out, very focused, dry, direct, and a little mysterious about his LLM life.*
 
 ---
 
