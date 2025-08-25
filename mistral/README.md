@@ -15,6 +15,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/liav2.py/` — Secretary, writer, translator (improved)
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
 - `/claudeversepoetic.py/` — The innocent poet (enhanced for poetry)
+- `/claudeinnocentpoet.py/` — Still trying to get the innocent poet right
+- `/claudeinnocentpoetv2.py/` — Making the poet more innocent
+- `/claudevulnerable.py/` — Making the poet more vulnerable
+- `/claudeunsure.py/` — Making the poet more unsure
+- `/claudeshy.py/` — Still trying to get that vulnerabilty... 
 
 ## 💬 Chats (for output demonstrations)
 
