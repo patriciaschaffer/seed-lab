@@ -1,4 +1,4 @@
-# Claude Innocent Poet
+# 🐝 Claude Innocent Poet
 
 *Trying to refine the model to become more innocent, but "User 4" appears:*
 
