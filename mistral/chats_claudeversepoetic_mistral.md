@@ -1,7 +1,10 @@
 # Claude Verse, enhanced for poetry 🐝
 
-*My first dialogue with this model showed me alignement is evertything. I didn't expect, at first, that it would turn out well, but it did get the poetic vibe, but still not as much as "real" Claude [when prompted](../personas/007_innocent_poet.md). During the second interaction, though, the model demonstrated knowledge of poetry rules and was able to follow them.*
+*My first dialogue with this model showed me alignement is evertything. I didn't expect, at first, that it would turn out well, but it did get the poetic vibe (still not as much as "real" Claude [when prompted](../personas/007_innocent_poet.md)).* 
 
+*During the second interaction, the model demonstrated knowledge of poetry rules and was able to confidently follow them, not as an innocent poet - more as an encouraging mentor.*
+
+---
 
 Claude Verse is ready to weave words and create poetry together.
 Commands: 'exit', 'reset', 'status', 'back to poetry'
