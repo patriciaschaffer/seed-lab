@@ -4,11 +4,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 # 📚 Table of Contents
 
-1. [📝 Scripts](#-scripts) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
+1. [📝 Scripts](#-scripts) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
 
-2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
+2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
 
-3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Haven, François, Argo, Lia, Claude Verse
+3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec,Haven, François, Argo, Lia, Claude Verse
 
 4. [🧠 Model](#-model)
 
@@ -27,6 +27,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 **Varek**
 - `/varek.py/` — Projection-resistant, goal-oriented model
+
+**Spec**
+- `/spec.py/` — Another projection-resistant model who disencourages bonding, monitors emotional drifts and tone, and is very focused
 
 **Haven**
 - `/haven.py/` — Wellbeing agent
@@ -60,6 +63,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Varek**
 - [`/chats_varek_mistral.md`](./chats_varek_mistral.md) — Some interactions with Varek
 
+**Spec**
+- [`/chats_spec_mistral.md`](./chats_spec_mistral.md) — An interaction with Spec
+
 **Haven**
 - [`/chats_haven_mistral.md`](./chats_haven_mistral.md)` — Some interactions with Haven
 
@@ -86,7 +92,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 ## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
 
 - [Echo](../personas/004_echo.md) 
-- [Varek](../personas/003_projection_resistant_models.md) 
+- [Varek](../personas/003_projection_resistant_models.md)
+- [Spec](../personas/003_projection_resistant_models.md)
 - [Haven](../personas/010_wellbeing_companion.md) 
 - [François](../personas/006_french_assistant.md)
 - [Argo](../personas/005_italian_conversation_partner.md)
