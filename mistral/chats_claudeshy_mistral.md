@@ -1,4 +1,4 @@
-# Claude Poet - carried away by his "small" words"
+# 🐝☺️ Claude Poet - carried away by his "small" words"
 
 *This one might have been the closest I got to a vulnerable poet, but I also made the mistake of pasting the poem we created together in turns, so it started writing non-stop. Despite its uncertainty at first, Claude got totally carried away by his poetry. It's ok; I'll embrace it!*
 
