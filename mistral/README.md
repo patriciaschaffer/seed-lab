@@ -48,7 +48,6 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Ana**
 - `/ana.py/` — A religious consultant and a Bible expert (in Portuguese)
 - `/anav3.py/` — A religious consultant and a Bible expert (in Portuguese, but prompted in English)
-- `/ana-persona.md/` — Ana's archetype and persona description
 
 **Claude Verse**
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
@@ -91,6 +90,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 **Ana**
 - [`/chats_ana_mistral.md`](./chats_ana_mistral.md) — Two short interactions with Ana (in Portuguese)
+- [`/ana-persona.md/`](./ana-persona.md) — Ana's archetype and persona description
 
 **Claude Verse**
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
