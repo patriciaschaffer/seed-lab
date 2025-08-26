@@ -8,7 +8,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
 
-3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
+3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
 
 4. [🧠 Model](#-model)
 
@@ -47,6 +47,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 **Ana**
 - `/ana.py/` — A religious consultant and a Bible expert (in Portuguese)
+- `/anav3.py/` — A religious consultant and a Bible expert (in Portuguese, but prompted in English)
+- `/ana-persona.md/` — Ana's archetype and persona description
 
 **Claude Verse**
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
@@ -103,7 +105,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Claude Flou**
 -  [`/chats_claudethephilosopher_mistral.md`](./chats_claudethephilosopher_mistral.md) — An interaction with Claude Flou, a philophical version of Claude
 
-## 🎭 Persona details (originally shaped/aligned on ChatGPT or Claude)
+## 🎭 Persona details 
 
 - [Echo](../personas/004_echo.md) 
 - [Varek](../personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)
@@ -112,8 +114,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [François](../personas/006_french_assistant.md)
 - [Argo](../personas/005_italian_conversation_partner.md)
 - [Lia](../personas/011_brazilian_secretary.md)
+- [Ana: The Sage and The Caregiver](./ana-persona_mistral.md)
 - [Claude Verse](../personas/007_the_innocent_poet.md)
 - [Claude Flou](../personas/008_curious_philosopher.md)
+
+* *Note: Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse and  Claude Flou were originally shaped/aligned on ChatGPT or Claude. Ana was designed directly for Mistral.*
 
 --- 
 
