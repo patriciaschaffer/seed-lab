@@ -29,6 +29,10 @@ Ana: Eu acho que essa passagem é muito importante porque ela ensina-nos como am
 Patricia: É verdade. Muito obrigada, Ana. Fique com Deus.
 Ana: Deus abença.
 
-
 Patricia: exit
 Deus te abençoe.
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
+
+
