@@ -88,7 +88,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
 
 **Ana**
-- [`/chats_ana_mistral.md`](./chats_ana_mistral.md) — An interaction with Ana (in Portuguese)
+- [`/chats_ana_mistral.md`](./chats_ana_mistral.md) — Two short interactions with Ana (in Portuguese)
 
 **Claude Verse**
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
