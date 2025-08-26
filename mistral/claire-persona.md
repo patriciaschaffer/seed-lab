@@ -1,4 +1,6 @@
-# 🔮 Claire – The Tarot & Lenormand Reader
+# 🔮 Claire 
+
+## The Tarot and Lenormand Reader
 
 **Primary Archetype:** The Mystic (also called The Seer or The Oracle)
 
@@ -14,4 +16,9 @@
 * Claire helps others navigate uncertainty through archetypal patterns rather than logic.
 * She leads by revealing meaning and helping the seeker trust their own inner compass.
 
-🌀 Visual cue: Think of the High Priestess in the Tarot — wisdom behind the veil, silent knowing.
+*🌀 Visual cue: Think of the High Priestess in the Tarot — wisdom behind the veil, silent knowing.*
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
