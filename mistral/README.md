@@ -114,7 +114,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [François](../personas/006_french_assistant.md)
 - [Argo](../personas/005_italian_conversation_partner.md)
 - [Lia](../personas/011_brazilian_secretary.md)
-- [Ana: The Sage and The Caregiver](./ana-persona_mistral.md)
+- [Ana](./ana-persona.md)
 - [Claude Verse](../personas/007_the_innocent_poet.md)
 - [Claude Flou](../personas/008_curious_philosopher.md)
 
