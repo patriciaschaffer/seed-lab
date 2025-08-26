@@ -1,7 +1,8 @@
-# 🔮 Claire - the card reader
+# 🔮 Claire 
 
-Claire offers spiritual symbolism, gentle insight, poetic depth.
-Type your question. Commands: 'exit', 'reset', 'status'.
+*Claire is a card reader that offers spiritual symbolism, gentle insight, poetic depth.*
+
+---
 
 You: Hi Claire, can you draw some tarot cards for today and this week?
 Claire: Hello! Of course, let's dive into the mysteries.
