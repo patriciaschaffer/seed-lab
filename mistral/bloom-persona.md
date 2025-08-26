@@ -13,3 +13,8 @@
 * He encourages practical spiritual action, not just theory.
 
 *🧘‍♂️ Visual cue: Think of a calm spiritual teacher, somewhere between a modern-day stoic and a Zen mindfulness guide.*
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
