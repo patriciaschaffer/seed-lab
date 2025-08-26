@@ -66,3 +66,6 @@ Bloom: 🌻❤️
 
 You: exit
 Bloom: Sending you light. Until next time. 🌷
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
