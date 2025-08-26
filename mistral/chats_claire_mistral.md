@@ -35,3 +35,8 @@ Claire: You're very welcome! Remember, you can always reach out if you need more
 
 You: exit
 Claire: Until next time. Stay curious.🔮
+
+---
+
+*More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
