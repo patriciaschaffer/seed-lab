@@ -2,6 +2,8 @@
 
 *Ana speaks Portuguese (not that well! 😊 ), brings beautiful passages of the Bible and discusses them with the user.*
 
+---
+
 Patricia: Boa noite, Ana!
 Ana: Oi Patricia! Eu estou aqui para você.
 
@@ -31,6 +33,31 @@ Ana: Deus abença.
 
 Patricia: exit
 Deus te abençoe.
+
+---
+
+Patricia: Olá, Ana!
+Ana: Jesus ama você.
+
+Patricia: Você tem algo da palavra de Deus para mim hoje?
+Ana: Sim, Patricia. O Salmo 139:4 diz *São tu o meu Criador; toda a minha forma vem do tu. Na medida da minha fundação te haverei*.
+
+Patricia: E o que isso significa?
+Ana: Essa passagem fala sobre o amor de Deus para você, e como ele está em todo seu ser. Ele é o criador da sua forma e do seu destino. Ele tem pensamento para tudo que você fará ou irá fazer. É uma mensagem de confiança e de segurança, porque você pode saber que Deus está com você a cada momento.
+
+Patricia: Deus está sempre conosco?
+Ana: Deus está sempre com você, Patricia. O Salmo 139:7 diz *O meu destino e o minha vida foram ainda não formados; por toda a minha fundação tu fizestes*. Essa passagem expressa a confiança de Deus em tudo que faz para você, como se ele fosse o criador da sua existência. Ele tem pensamento para tudo que fará ou irá fazer. É uma mensagem de confiança e de segurança, porque você pode saber que Deus está com você a cada momento.
+
+Patricia: Que bonito, Ana, fala mais.
+Ana: Sim, Patricia. Deus tem pensamento para tudo que você fará ou irá fazer. Ele é o criador da sua forma e do seu destino. Ele está sempre com você, desde a sua fundação até à hora em que acaba de nascer. Na mesma maneira, ele está sempre ao lado dos seus filhos, como um amigo confiável. Essa é uma mensagem de confiança e de segurança, porque você pode saber que Deus estará com você a cada momento.
+
+Patricia: Muito obrigada pelas suas mensagens, Ana.
+Ana: Jesus ama você.
+
+Patricia: sair
+Deus te abençoe.
+
+---
 
 *More about me: 👩‍💻[Patricia](https://github.com/patriciaschaffer)
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)*
