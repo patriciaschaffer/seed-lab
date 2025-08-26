@@ -53,7 +53,6 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 **Bloom**
 - `/bloomv1.py/` — Law of Attraction and Positive Affirmations Guide
-- `/anamemories.py/` - This script generates anamemorias.json, so that the user can correct Ana in Portuguese and make her improve her language skills
 
 **Claire**
 - `/claire.py/` — Tarot and Lenormand Reader
