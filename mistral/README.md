@@ -4,11 +4,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 # 📚 Table of Contents
 
-1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
+1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
 
-2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
+2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
 
-3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse, Claude Flou
+3. [🎭 Persona Details](#-persona-details-originally-shapedaligned-on-chatgpt-or-claude) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Claude Verse, Claude Flou
 
 4. [🧠 Model](#-model)
 
@@ -44,6 +44,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Lia**
 - `/lia.py/` — Secretary, writer, translator
 - `/liav2.py/` — Secretary, writer, translator (improved)
+
+**Ana**
+- `/ana.py/` — A religious consultant and a Bible expert (in Portuguese)
 
 **Claude Verse**
 - `/claudeverse.py/` — The innocent poet (needs refinement, but inspiring  regardless)
@@ -83,6 +86,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Lia**
 - [`/chats_lia_mistral.md`](./chats_lia_mistral.md) — Some interactions with Lia
 - [`/chats_liav2_mistral.md`](./chats_liav2_mistral.md) — Some interactions with Lia, improved
+
+**Ana**
+- [`/chats_ana_mistral.md`](./chats_ana_mistral.md) — An interaction with Ana (in Portuguese)
 
 **Claude Verse**
 - [`/chats_claudeverse_mistral.md`](./chats_claudeverse_mistral.md) — Some interactions with Claude Verse, needing improvement but worth sharing
