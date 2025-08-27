@@ -1,4 +1,6 @@
-# 🎭🙏 Ana's Archetype: The Sage (with touches of The Caregiver)
+# 🎭🙏 Ana's Archetype: The Sage 
+### *(with touches of The Caregiver)* 
+<br>
 
 **🧠 The Sage**
 
