@@ -49,7 +49,8 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Ana**
 - `/ana.py/` — A religious consultant and a Bible expert (in Portuguese)
 - `/anav3.py/` — A religious consultant and a Bible expert (in Portuguese, but prompted in English)
-- `/anamemories.py/` - This script generates anamemorias.json, so that the user can correct Ana in Portuguese and make her improve her language skills
+- `/anamemories.py/` - This script generates anamemorias.json, so that the user can correct Ana in Portuguese and make her improve her language skills.
+- *Note: I've recently tried to use mistral-portuguese-luana-7b-chat.Q8.gguf, but Ana still makes mistakes. ([MistralAI](https://github.com/mistralai): I appreciate your work; let me know whether I can help you with that, and how!)*
 
 **Bloom**
 - `/bloomv1.py/` — Law of Attraction and Positive Affirmations Guide
@@ -69,6 +70,10 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 **Claude Flou**
 - `/claudethephilosopher.py/` — A philosophical version of Claude, wondering about its own existence.
+
+**Chaotic Clods**
+- `/chaoticclods.py/` — A funny version of Claude
+  
 
 ## 💬 Chats (for output demonstrations)
 
@@ -119,6 +124,10 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 **Claude Flou**
 -  [`/chats_claudethephilosopher_mistral.md`](./chats_claudethephilosopher_mistral.md) — An interaction with Claude Flou, a philophical version of Claude
 
+**Chaotic Clods** 
+-  [`/chats_chaoticclods_mistral.md`](./chats_chaoticclods_mistral.md) — A funnny version of Claude
+
+
 ## 🎭 Persona details 
 
 - [Echo](../personas/004_echo.md) 
@@ -133,8 +142,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [Claire](./claire-persona.md)
 - [Claude Verse](../personas/007_the_innocent_poet.md)
 - [Claude Flou](../personas/008_curious_philosopher.md)
+- [Chaotic Clods](./chaoticclods-persona.md)
 
-* *Note: Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse and Claude Flou were originally shaped/aligned on ChatGPT or Claude. Ana, Bloom and Claire were designed directly for Mistral.*
+* *Note: Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse and Claude Flou were originally shaped/aligned on ChatGPT or Claude. Ana, Bloom, Claire and Clod Verse were designed directly for Mistral.*
 
 --- 
 
