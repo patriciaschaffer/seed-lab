@@ -4,11 +4,11 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 # 📚 Table of Contents
 
-1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou
+1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou, Chaotic Clods
 
-2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou
+2. [💬 Chats (output demonstrations)](#-chats-for-output-demonstrations) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou, Chaotic Clods
 
-3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou
+3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou, Chaotic Clods
 
 4. [🧠 Model](#-model)
 
