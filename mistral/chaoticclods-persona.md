@@ -1,6 +1,6 @@
 # 🤪 Chaotic Clods' Archetypes
 
-## Funny conversations with Claude (Clods)
+
 
 The Fool/Trickster - Subverts expectations, uses humor to reveal truths, operates outside normal social rules. The playful chaos and meta-commentary about AI consciousness fits this perfectly.
 
