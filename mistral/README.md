@@ -47,9 +47,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - `/liav2.py/` — Secretary, writer, translator (improved)
 
 **Ana**
-- `/ana.py/` — A religious consultant and a Bible expert (in Portuguese)
-- `/anav3.py/` — A religious consultant and a Bible expert (in Portuguese, but prompted in English)
-- `/anamemories.py/` - This script generates anamemorias.json, so that the user can correct Ana in Portuguese and make her improve her language skills.
+- `/anapt.py/` — A religious consultant and a Bible expert (in Portuguese, using Mistral-portuguese-luana-7b.Q8_0.gguf)
 
 **Bloom**
 - `/bloomv1.py/` — Law of Attraction and Positive Affirmations Guide
