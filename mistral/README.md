@@ -1,8 +1,8 @@
-# 🦙 Local Chatbots Using Mistral-7B Instruct (GGUF)
+## 🦙 Local Chatbots Using Mistral-7B Instruct (GGUF)
 
 This project uses the **Mistral-7B Instruct v0.1** model, quantized and run entirely offline using the [`llama.cpp`](https://github.com/ggerganov/llama.cpp) backend via the `llama_cpp` Python bindings.
 
-# 📚 Table of Contents
+## 📚 Table of Contents
 
 1. [📝 Scripts](#-scripts) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou, Chaotic Clods
 
