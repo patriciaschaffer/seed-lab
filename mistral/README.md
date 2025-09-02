@@ -175,6 +175,7 @@ response = llm(
 )
 print(response["choices"][0]["text"])
 ```
+---
 
 ## 🆕 Models on Gradio
 
