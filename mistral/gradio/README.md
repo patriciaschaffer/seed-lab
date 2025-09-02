@@ -3,9 +3,15 @@
 AI models to interact with using **Gradio**.  
 Currently, it includes **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. Future models will be added here as they are developed.
 
-## 🧠 Available Models
+## Check My Other Models
 
-### 1. **Varek** - (Current Model) 
+* **With [Mistral](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/README.md)** 
+* **With [GPT-2](https://github.com/patriciaschaffer/agent-architect/blob/main/gpt2/README.md)**
+* **With [ChatGPT and Claude (end user)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/README.md)**
+
+## 🧠 Available Models (Gradio)
+
+### 1. **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)** - (Current Model) 
 
 * **Varek sript**: `/varek_gradio.py/`
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
@@ -98,8 +104,8 @@ response = llm(
 
 ## 📝 Notes
 
-* **Model Personas**: Each model may have its own unique tone and purpose.  
-  For instance, **Varek** avoids fluff and emotional support, focusing on direct analysis.
+* [**Model Personas**](https://github.com/patriciaschaffer/agent-architect/blob/main/agent_persona_engineering.md#table-of-contents)): Each model has its own unique tone and purpose.  
+  For instance, [**Varek**](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented) avoids fluff and emotional support, focusing on direct analysis.
 * **Context Length**: Models typically support up to 4096 tokens. Long sessions may require truncation.
 * **Performance**: You may need to adjust settings like GPU layers depending on your hardware.
 
@@ -115,3 +121,5 @@ This version is adaptable for future models, and you can just modify the `Model`
    
    🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
 
+  *Acknowlegement: Thank you #Anthropic for #Claude, my main coding partner in this journey :) Credits to #ChatGPT as well!*
+  
