@@ -176,9 +176,9 @@ response = llm(
 print(response["choices"][0]["text"])
 ```
 
-## 🆕 Models on Gradio (in progress)
+## 🆕 Models on Gradio
 
-To be used locally, on your browser.
+To be used locally, on your browser. ***(Work in progress.)***
 
 - [Here.](gradio)
 
