@@ -146,7 +146,7 @@ def generate_varek_response(talk_to_varek, llm, max_length=100):
         for line in lines:
             line = line.strip()
             # Skip lines that look like phantom conversations
-            if any(phrase in line.lower() for phrase in ["user 1:", "user 2:", "varek:", "user:"]):
+            if any(phrase in line.lower() for phrase in ["user 0:", "user 1", "user 2:", "varek:", "user:"]):
                 continue
             if line:  # Keep non-empty lines
                 clean_lines.append(line)
@@ -224,7 +224,7 @@ def create_interface():
         # Interface components
         chatbot = gr.Chatbot(
             type='messages', 
-            label="Varek Chat",  # This replaces "Chatbot" in the top-left
+            label="Varek Chat",  
             show_label=True,
             height=500
         )
