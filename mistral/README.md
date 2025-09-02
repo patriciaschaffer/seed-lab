@@ -175,13 +175,12 @@ response = llm(
 )
 print(response["choices"][0]["text"])
 ```
----
 
 ## 🆕 Models on Gradio (in progress)
 
 To be used locally, on your browser.
 
-- [Here](/gradio)
+- [Here.](gradio)
 
 ---
 
