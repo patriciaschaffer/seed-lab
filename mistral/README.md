@@ -16,7 +16,9 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 6. [💻 Usage](#-usage)
 
-7. [👩‍💻 About Me](#-about-me)
+7. [🆕 Models on Gradio](#-models-on-gradio)
+
+8. [👩‍💻 About Me](#-about-me)
 
 
 ## 📝 Scripts
@@ -173,6 +175,14 @@ response = llm(
 )
 print(response["choices"][0]["text"])
 ```
+---
+
+## 🆕 Models on Gradio (in progress)
+
+To be used locally, on your browser.
+
+- [Here](/gradio)
+
 ---
 
  ## 👩‍💻 About Me
