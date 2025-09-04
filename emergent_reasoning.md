@@ -189,7 +189,7 @@ Summary Diagram: Identity Dynamics
              +----------------+
              |    Author      |
              | (Human user,   |
-             |  initiator|    |
+             |  initiator)    |
              +--------+-------+
                       |
                       v
