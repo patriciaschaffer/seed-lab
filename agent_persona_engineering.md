@@ -108,7 +108,7 @@ Understanding AI personas requires time, structured testing, and an appreciation
 - Drift tracking, persona consistency checks, and related analyses are maintained separately.  
 - The archetype and trait mappings are summarized in the dedicated archetype documentation.
 - Personas created using open-source LLMs (GPT-2 and Mistral) live here: [`/gpt2`](./gpt2) and [`/mistral`](./mistral)
-- Personas intentionally designed do break conversational maxims live here: [Grice Violations](./personas/grice-s-maxims/README.md)
+- Personas intentionally designed do break conversational maxims live here: [`/Grice Violations`](./personas/grice-s-maxims/README.md)
 
 ---
 
