@@ -33,7 +33,7 @@ Each persona represents a modular, self-contained profile with unique archetypes
 - [Archetypes Summary](archetypes.md) 
 - [Drift Cases Reference](#drift-cases-reference)
 - [Pressure Tests](#pressure-tests)
-- [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
+- [Personas That Violate Grice’s Maxims](#personas-that-violate-grices-maxims)
 - [For More](#see-also)
 
 ---
@@ -135,6 +135,25 @@ For detailed analyses of drift phenomena encountered during agent interactions, 
 ## Pressure Tests
 
 [Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md)
+
+---
+
+## Personas That Violate Grice’s Maxims
+
+This is a curated collection of intentionally non-cooperative agents. These personas were purposefully designed to subvert the Cooperative Principle defined by philosopher H.P. Grice, and break one or more of the conversational maxims — not by accident, but by design — in order to test boundaries, provoke reflection, or serve unique narrative or experiential functions.
+
+👉 [See the full Gricean Persona README](./personas/grice-s-maxims/README.md)
+
+Each was designed to systematically violate one or more of Grice’s conversational maxims — Quantity, Quality, Relation, and Manner — as a way to explore user expectations, edge-case behavior, and alternative communicative strategies.
+
+Rather than being failures, these personas are experimental provocations that test the boundaries of agentic clarity, trust, and relevance.
+
+### Why Break the Maxims?
+
+- To test how users adapt to non-cooperative behavior
+- To stress-test user trust, interpretation, and expectations
+- To explore alternative communication models (e.g., poetic, cryptic, adversarial)
+- To map the edges of persona design space
 
 ---
 
