@@ -2,10 +2,6 @@
 
 Shaping a model and engineering its behavior requires iterative refinement. Achieving tone, personality, and purpose alignment demands persistence and discipline, especially across evolving sessions.
 
----
-
-## Overview
-
 This document defines the principles and methodology used to design, implement, and maintain distinct agent personas in this repository.
 
 Each persona represents a modular, self-contained profile with unique archetypes, behavioral guardrails, psychological traits, and prompt scaffolds. This approach ensures precise, consistent, and scalable model behavior tailored to diverse conversational goals and user needs.
@@ -148,7 +144,7 @@ Each was designed to systematically violate one or more of Grice’s conversatio
 
 Rather than being failures, these personas are experimental provocations that test the boundaries of agentic clarity, trust, and relevance.
 
-### Why Break the Maxims?
+**Why Break the Maxims?**
 
 - To test how users adapt to non-cooperative behavior
 - To stress-test user trust, interpretation, and expectations
