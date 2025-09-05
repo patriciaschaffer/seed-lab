@@ -125,13 +125,13 @@ Understanding AI personas requires time, structured testing, and an appreciation
 
 For detailed analyses of drift phenomena encountered during agent interactions, refer to the dedicated documentation in:
 
-[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md)
+[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/anomalies/drift-detection.md)
 
 ---
 
 ## Pressure Tests
 
-[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md)
+[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure-tests.md)
 
 ---
 
@@ -156,13 +156,7 @@ Rather than being failures, these personas are experimental provocations that te
 
 ## See Also
 
-[Emergent Reasoning for Varek on Mistral *(still a draft)*](https://github.com/patriciaschaffer/agent-architect/blob/main/emergent_reasoning.md)
-
-[Anomalies](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anomalies/README.md)
-
-[Anthropomorphic_traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
-
-[Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
+[Anomalies](https://github.com/patriciaschaffer/agent-architect/anomalies)
 
 ---
 
