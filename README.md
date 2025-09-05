@@ -33,13 +33,16 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 ## Repository Contents
 
 - `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails
+- `/agent-persona-engineering.md/` — Framework for designing and managing agent personas
+- `/archetypes.md/` — Overview of core archetypes, linked to persona files  
 - `/gpt/` — Personas created with GPT-2, running locally
 - `/mistral/` — Personas created with Mistral, running locally
-- `/agent_persona_engineering.md/` — Framework for designing and managing agent personas  
-- `/archetypes.md/` — Overview of core archetypes, linked to persona files  
-- `/drift_detection.md/` — Methods and scripts for detecting and analyzing behavioral shifts  
-- `/pressure_tests.md/` — Matrices and frameworks to stress-test agent stability under varied conditions
 - `/personas/grice-s-maxims/` — Personas that systematicaly violate Grice's conversational maxims (for study and research)
+- `/anomalies/` — Unexpected behaviors and drifts
+- `/prompt-interaction-strategies.md/` - Prompt and alignment examples
+- `/pressure-tests.md/` — Matrices and frameworks to stress-test agent stability under varied conditions
+- `/glossary.md/` — Terminology, definitions
+- `/related-reading.md/` — Recommended readings on sychology, philosophy of mind, philosophy of language, linguistics etc.
 
 The agent-architect repository documents the development of methods, tools, and best practices to architect AI models embodying specific temperaments, interaction roles, and behavioral dynamics.
 
@@ -80,20 +83,18 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
 - [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)
 - [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
-- [Open Source GPT-2 models](gpt2/README.md)
-- [Open Source Mistral models](mistral/README.md)
+- [GPT-2 models](gpt2/README.md)
+- [Mistral models](mistral/README.md)
 
 ### Core Documents  
-- [agent_persona_engineering.md](agent_persona_engineering.md)  
+
+- [agent-persona-engineering.md](agent-persona-engineering.md)  
 - [archetypes.md](archetypes.md)  
-- [drift_detection.md](drift_detection.md)  
-- [pressure_tests.md](pressure_tests.md)
-
-### See Also
-
-- [Anomalies](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anomalies.md)
-- [Anthropomorphic Traps](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/anthropomorphic_traps.md)
-- [Behavior Failures](https://github.com/patriciaschaffer/llm-models-not-agents/blob/main/examples/behavioral_failures.md)
+- [anomalies](anomalies/README.md)
+- [pressure-tests.md](pressure-tests.md)
+- [prompt-interaction-strategies.md]
+- [glossary.md](glossay.md)
+- [related-reading.md](related-reading.md)
 
 ---
 
