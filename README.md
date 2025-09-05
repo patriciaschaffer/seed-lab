@@ -92,7 +92,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [archetypes.md](archetypes.md)  
 - [anomalies](anomalies/README.md)
 - [pressure-tests.md](pressure-tests.md)
-- [prompt-interaction-strategies.md]
+- [prompt-interaction-strategies.md](prompt-interaction-strategies.md)
 - [glossary.md](glossay.md)
 - [related-reading.md](related-reading.md)
 
