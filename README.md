@@ -1,4 +1,4 @@
-# 👩‍🎨 agent-architect 👷‍♀️ 
+# 👩‍🎨 agent-architect
 
 Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
  
@@ -72,7 +72,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - Enables systematic evaluation and iterative refinement of personas  
 - Bridges theoretical AI behavior concepts with practical engineering and testing workflows
 
-🕵️‍♀️🌱[Here's more about me.](https://github.com/patriciaschaffer/)👷‍♀️👩‍🎨
+👷‍♀️👩‍🎨 [Here's more about me.](https://github.com/patriciaschaffer/)
 
 ---
 
