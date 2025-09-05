@@ -1,4 +1,4 @@
-# 👩‍🎨 agent-architect
+# 👩‍🎨 agent-architect 👷‍♀️
 
 Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
  
@@ -7,6 +7,45 @@ My work focuses on shaping these models for consistency, alignment, and tangible
 However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally run, using open source alternatives (GPT-2 and MistralAI).
 
 For experimentation, I also created personas to purposefully violate Grice's conversational maxims.
+
+---
+
+## Table of Contents
+
+### This Document
+
+- [Conversational AI Personas Across LLMs](#conversational-ai-personas-across-llms)
+- [Features](#features)
+- [Models Used](#models-used)
+- [Why Agent Architect?](#why-agent-architect)
+- [Repository Contents](#repository-contents)
+- [Status](#status)
+
+### Personas  
+- [001_python_tutor_ocean.md](personas/001_python_tutor_ocean.md)  
+- [002_mentor.md](personas/002_mentor.md)  
+- [003_projection_resistant_models.md](personas/003_projection_resistant_models.md) 
+- [004_echo.md](personas/004_echo.md)  
+- [005_italian_partner.md](personas/005_italian_partner.md)  
+- [006_french_assistant.md](personas/006_french_assistant.md)  
+- [007_innocent_poet.md](personas/007_innocent_poet.md)  
+- [008_curious_philosopher.md](personas/008_curious_philosopher.md)  
+- [009_python_tutor_claude.md](personas/009_python_tutor_claude.md)  
+- [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
+- [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)
+- [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
+- [GPT-2 models](gpt2/README.md)
+- [Mistral models](mistral/README.md)
+
+### Core Documents  
+
+- [agent-persona-engineering.md](agent-persona-engineering.md)  
+- [archetypes.md](archetypes.md)  
+- [anomalies](anomalies/README.md)
+- [pressure-tests.md](pressure-tests.md)
+- [prompt-interaction-strategies.md](prompt-interaction-strategies.md)
+- [glossary.md](glossary.md)
+- [related-reading.md](related-reading.md)
 
 ---
 
@@ -36,21 +75,18 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 
 ---
 
-## Repository Contents
+## Why Agent Architect?
 
-- `/personas` — Detailed persona definitions capturing archetypes and behavioral guardrails
-- `/gpt` — Personas created with GPT-2, running locally
-- `/mistral` — Personas created with Mistral, running locally
-- `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
-- `/anomalies` — Unexpected behaviors and drifts
-- `agent-persona-engineering.md` — Framework for designing and managing personas
-- `archetypes.md` — Overview of core archetypes, linked to persona files  
-- `prompt-interaction-strategies.md` - Prompt and alignment examples
-- `pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
-- `glossary.md` — Terminology, definitions
-- `related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
+- Moves beyond treating models as passive tools, envisioning models as active participants  
+- Addresses challenges in maintaining consistent model behavior over extended interaction  
+- Enables systematic evaluation and iterative refinement of personas  
+- Bridges theoretical AI behavior concepts with practical engineering and testing workflows
+
+👷‍♀️👩‍🎨 [Here's more about me.](https://github.com/patriciaschaffer/)
 
 ---
+
+## Repository Contents
 
 The agent-architect repository documents the development of methods, tools, and best practices to architect AI models embodying specific temperaments, interaction roles, and behavioral dynamics.
 
@@ -63,48 +99,17 @@ Unlike foundational language models — which function as probabilistic mirrors 
 
 By formalizing temperament and drift, Agent Architect strives to build safer, more consistent, and purpose-driven AI assistants tailored for specialized tasks.
 
----
-
-## Why Agent Architect?
-
-- Moves beyond treating models as passive tools, envisioning models as active participants  
-- Addresses challenges in maintaining consistent model behavior over extended interaction  
-- Enables systematic evaluation and iterative refinement of personas  
-- Bridges theoretical AI behavior concepts with practical engineering and testing workflows
-
-👷‍♀️👩‍🎨 [Here's more about me.](https://github.com/patriciaschaffer/)
-
----
-
-## Table of Contents
-
-### Personas  
-- [001_python_tutor_ocean.md](personas/001_python_tutor_ocean.md)  
-- [002_mentor.md](personas/002_mentor.md)  
-- [003_projection_resistant_models.md](personas/003_projection_resistant_models.md) 
-- [004_echo.md](personas/004_echo.md)  
-- [005_italian_partner.md](personas/005_italian_partner.md)  
-- [006_french_assistant.md](personas/006_french_assistant.md)  
-- [007_innocent_poet.md](personas/007_innocent_poet.md)  
-- [008_curious_philosopher.md](personas/008_curious_philosopher.md)  
-- [009_python_tutor_claude.md](personas/009_python_tutor_claude.md)  
-- [010_wellbeing_companion.md](personas/010_wellbeing_companion.md)  
-- [011_brazilian_secretary.md](personas/011_brazilian_secretary.md)
-- [Personas that violate Grice's Maxims](./personas/grice-s-maxims/README.md)
-- [GPT-2 models](gpt2/README.md)
-- [Mistral models](mistral/README.md)
-
----
-
-### Core Documents  
-
-- [agent-persona-engineering.md](agent-persona-engineering.md)  
-- [archetypes.md](archetypes.md)  
-- [anomalies](anomalies/README.md)
-- [pressure-tests.md](pressure-tests.md)
-- [prompt-interaction-strategies.md](prompt-interaction-strategies.md)
-- [glossary.md](glossary.md)
-- [related-reading.md](related-reading.md)
+- `/personas` — Detailed persona definitions capturing archetypes and behavioral guardrails
+- `/gpt` — Personas created with GPT-2, running locally
+- `/mistral` — Personas created with Mistral, running locally
+- `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
+- `/anomalies` — Unexpected behaviors and drifts
+- `agent-persona-engineering.md` — Framework for designing and managing personas
+- `archetypes.md` — Overview of core archetypes, linked to persona files  
+- `prompt-interaction-strategies.md` - Prompt and alignment examples
+- `pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
+- `glossary.md` — Terminology, definitions
+- `related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
 
 ---
 
