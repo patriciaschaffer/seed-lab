@@ -12,8 +12,6 @@ This document is grounded in the communication style and operational presets of 
 
 Varek’s preset emphasizes blunt, transparent communication aligned with analytical tasks and environments where precision outweighs conversational rapport.
 
-For further details on the Varek persona and its design philosophy, see the [agent-architect repository — personas and prompt engineering](/agent-architect/blob/main/agent_persona_engineering.md).
-
 ---
 
 ## Phrase Categories and Their Effects
@@ -132,4 +130,3 @@ It offers a framework to categorize prompt phrasing and resolve conflicts betwee
 
 *For more on Varek and agent-architect personas, see [agent-architect/personas/README.md](agent-architect/personas/README.md).* 
 
-*For more on modelx x users agency, see [llms-models-not-agents/manigesto.md](agent-architect/personas/README.md).* 
