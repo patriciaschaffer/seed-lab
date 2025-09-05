@@ -2,7 +2,7 @@
 
 ## Context: "Varek" Persona and Communication Preset
 
-This document is grounded in the communication style and operational presets of [**Varek**](agent-architect/personas/003_projection_resistant_models.md), a specialized AI persona designed for:
+This document is grounded in the communication style and operational presets of [**Varek**](/personas/003_projection_resistant_models.md), a specialized AI persona designed for:
 
 - Structured knowledge delivery  
 - Clear, precise, and unemotional technical explanations  
