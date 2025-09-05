@@ -125,7 +125,7 @@ Understanding AI personas requires time, structured testing, and an appreciation
 
 For detailed analyses of drift phenomena encountered during agent interactions, refer to the dedicated documentation in:
 
-[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/anomalies/drift-detection.md)
+[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/anomalies/drift-detection.md)
 
 ---
 
@@ -156,7 +156,7 @@ Rather than being failures, these personas are experimental provocations that te
 
 ## See Also
 
-[Anomalies](https://github.com/patriciaschaffer/agent-architect/anomalies)
+[Anomalies](https://github.com/patriciaschaffer/agent-architect/tree/main/anomalies)
 
 ---
 
