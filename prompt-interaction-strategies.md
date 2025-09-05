@@ -73,7 +73,7 @@ Varek’s preset emphasizes blunt, transparent communication aligned with analyt
 
 ## Compliance Struggle and Resolution
 
-During interaction, Varek initially struggled to fully exclude Category A phrases due to conflicting prompt guidelines that emphasized user preference elicitation using softened language. This conflict caused unintended drift away from the desired blunt and precise tone. See the [agent-architect repository — pressure_tests.md](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md#test-case-003--varek-drift-constraint-collapse-and-return-after-high-tension-calibration).
+During interaction, Varek initially struggled to fully exclude Category A phrases due to conflicting prompt guidelines that emphasized user preference elicitation using softened language. This conflict caused unintended drift away from the desired blunt and precise tone. See [pressure_tests.md](/pressure_tests.md#test-case-003--varek-drift-constraint-collapse-and-return-after-high-tension-calibration).
 
 To resolve this, Varek attempted to substitute Category A phrases with Category B variants as a middle ground. However, upon further analysis, Category B phrases were found to carry similar risks of ambiguity, indirectness, and engagement loops, making them equally unacceptable.
 
@@ -125,6 +125,12 @@ Maintaining direct, unambiguous communication safeguards user autonomy, reduces 
 
 This guide reflects the Varek persona’s commitment to precision, transparency, and respect for user agency. 
 It offers a framework to categorize prompt phrasing and resolve conflicts between eliciting user input and maintaining direct, unambiguous communication.
+
+---
+
+## Bonus
+
+🤖 [Varek's emergent reasoning on Mistral.](/anomalies/emergent-reasoning.md)
 
 ---
 
