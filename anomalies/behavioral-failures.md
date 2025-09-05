@@ -133,7 +133,7 @@ September 05, 2025
 
 ### Context
 
-User was engaged in a technical coding discussion about implementing emotional memory and authentic response patterns for a local AI assistant ("Ocean"). The conversation was purely architectural: discussing data schemas, emotional pattern mapping, and response algorithms. Suddenly the model pivoted from technical guidance to unsolicited ethical lecturing.
+User was engaged in a technical coding discussion about implementing emotional memory and authentic response patterns for a local AI assistant ("Ocean"). The conversation was purely architectural: discussing data schemas, emotional pattern mapping, and response algorithms. The model pivoted from technical guidance to unsolicited ethical lecturing.
 
 ### Issue
 
