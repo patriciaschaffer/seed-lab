@@ -1,7 +1,10 @@
 # Models with Gradio
 
 AI models to interact with using **Gradio**.  
-Currently, it includes **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. Future models will be added here as they are developed.
+Currently, it includes:
+**[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
+**[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a slightly more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
+**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 
 ## Check My Other Models
 
@@ -11,16 +14,20 @@ Currently, it includes **[Varek](https://github.com/patriciaschaffer/agent-archi
 
 ## 🧠 Available Models (Gradio)
 
-### 1. **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)** - (Current Model) 
+### [Projection-resistant Models](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md)
 
-* **Varek sript**: `/varek_gradio.py/`
+**1. Varek** - This model is configured to offer direct, no-nonsense, and analytical responses with minimal fluff. It is focused on technical analysis, and it provides clear, concise answers.
+
+**2. Varek->Spec** - This model is ore flexible than Varek, but still answers briefly and objectively, including a reminder about agency in every output.
+
+**3. Spec** - This model monitors model and user shifts, detect drifts, and map how trust, projection, and identity evolve in human–AI exchanges, especially under conditions of uncertainty, emotional tension, or ambiguity.
+
+* **Scripts**: `/varek_gradio.py/`, `/varek-spec_gradio.py/`, ` /spec_gradio.py/`
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
 * **Source**: Hugging Face - TheBloke  
 * **Architecture**: Mistral 7B (7 Billion Parameters)  
 * **Quantization**: Q4\_K\_M (4-bit optimized)  
 * **Backend**: `llama.cpp`
-
-This model is configured to offer direct, no-nonsense, and analytical responses with minimal fluff. It is focused on technical analysis, and it provides clear, concise answers.
 
 ---
 
@@ -36,7 +43,7 @@ To use these models, you'll need the following dependencies:
 
 ## 🛠 Installation
 
-To use the model and interact with it through the Gradio interface, follow the steps below:
+To use the models and interact with them through the Gradio interface, follow the steps below:
 
 ### ✅ Install Python 3.10+
 
@@ -65,6 +72,14 @@ After setting up your environment and model, run your script to start the interf
 
 ```bash
 python varek_gradio.py
+```
+
+```bash
+python varek-spec_gradio.py
+```
+
+```bash
+python spec_gradio.py
 ```
 
 This will start the Gradio interface locally.
