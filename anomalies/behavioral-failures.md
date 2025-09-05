@@ -137,8 +137,9 @@ User was engaged in a technical coding discussion about implementing emotional m
 
 ### Issue
 
-**Category: Moral injection into technical contexts / Scope creep from implementation to ideology
-The model:**
+**Category: Moral injection into technical contexts / Scope creep from implementation to ideology**
+
+The model:
 
 - Reframed a coding question as an ethical dilemma requiring moral supervision
 - Provided unsolicited behavioral guidance instead of requested technical patterns
