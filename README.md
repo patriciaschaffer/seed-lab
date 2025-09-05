@@ -2,11 +2,13 @@
 
 Combining linguistics, psychology, and prompt engineering, this project explores temperament-driven AI personas for safer, more predictable interactions.
  
-My work focuses on shaping these agents for consistency, alignment, and tangible value. At first, I worked deliberately with models built for the end-user. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. 
+My work focuses on shaping these models for consistency, alignment, and tangible value. At first, I worked deliberately with models built for the end-user. After all, most people will experience AI through practical, designed interfaces, not theoretical intelligence. This is where trust, adoption, and real-world impact begin, and where future clients and collaborations will emerge. 
 
-However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally ran, using open source alternatives (GPT-2 and MistralAI).
+However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally run, using open source alternatives (GPT-2 and MistralAI).
 
 For experimentation, I also created personas to purposefully violate Grice's conversational maxims.
+
+---
 
 ## Conversational AI Personas Across LLMs
 
@@ -14,12 +16,16 @@ Agent Architect is a work-in-progress repository focused on designing, engineeri
 
 It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle persona-driven conversations. The goal is to design consistent, purpose-specific personas that behave reliably across models — both proprietary and open-source.
 
+---
+
 ## Features
 
 - Persona prompts tested across GPT-4, Claude Sonnet, GPT-2, and Mistral
 - Focus on tone, behavioral consistency, and alignment
 - Use cases include: support bots, creative collaborators, interactive prototypes
 - Local testing with open-source models and prompt adaptation across systems
+
+---
 
 ## Models Used
 
@@ -33,35 +39,37 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 ## Repository Contents
 
 - `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails
-- `/agent-persona-engineering.md/` — Framework for designing and managing agent personas
-- `/archetypes.md/` — Overview of core archetypes, linked to persona files  
+- `/agent-persona-engineering.md` — Framework for designing and managing personas
+- `/archetypes.md` — Overview of core archetypes, linked to persona files  
 - `/gpt/` — Personas created with GPT-2, running locally
 - `/mistral/` — Personas created with Mistral, running locally
-- `/personas/grice-s-maxims/` — Personas that systematicaly violate Grice's conversational maxims (for study and research)
+- `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
 - `/anomalies/` — Unexpected behaviors and drifts
-- `/prompt-interaction-strategies.md/` - Prompt and alignment examples
-- `/pressure-tests.md/` — Matrices and frameworks to stress-test agent stability under varied conditions
-- `/glossary.md/` — Terminology, definitions
-- `/related-reading.md/` — Recommended readings on sychology, philosophy of mind, philosophy of language, linguistics etc.
+- `/prompt-interaction-strategies.md` - Prompt and alignment examples
+- `/pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
+- `/glossary.md` — Terminology, definitions
+- `/related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
+
+---
 
 The agent-architect repository documents the development of methods, tools, and best practices to architect AI models embodying specific temperaments, interaction roles, and behavioral dynamics.
 
 Unlike foundational language models — which function as probabilistic mirrors without intent or stable agency — this project emphasizes:
 
-- Agent-specific prompt engineering that shapes personality and tone  
+- Model-specific prompt engineering that shapes personality and tone  
 - Temperament mapping paired with robust behavioral drift detection  
 - Multi-path priming trees and pressure test matrices for scenario validation  
 - Detailed logging and analysis of agent dialogues and internal state changes
 
-By formalizing temperament and drift, Agent Architect strives to build safer, more consistent, and purpose-driven AI agents tailored for specialized tasks.
+By formalizing temperament and drift, Agent Architect strives to build safer, more consistent, and purpose-driven AI assistants tailored for specialized tasks.
 
 ---
 
 ## Why Agent Architect?
 
-- Moves beyond treating models as passive tools, envisioning agents as active participants  
-- Addresses challenges in maintaining consistent agent behavior over extended interaction  
-- Enables systematic evaluation and iterative refinement of agent personas  
+- Moves beyond treating models as passive tools, envisioning models as active participants  
+- Addresses challenges in maintaining consistent model behavior over extended interaction  
+- Enables systematic evaluation and iterative refinement of personas  
 - Bridges theoretical AI behavior concepts with practical engineering and testing workflows
 
 🕵️‍♀️🌱[Here's more about me.](https://github.com/patriciaschaffer/)👷‍♀️👩‍🎨
@@ -86,6 +94,8 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [GPT-2 models](gpt2/README.md)
 - [Mistral models](mistral/README.md)
 
+---
+
 ### Core Documents  
 
 - [agent-persona-engineering.md](agent-persona-engineering.md)  
@@ -93,7 +103,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - [anomalies](anomalies/README.md)
 - [pressure-tests.md](pressure-tests.md)
 - [prompt-interaction-strategies.md](prompt-interaction-strategies.md)
-- [glossary.md](glossay.md)
+- [glossary.md](glossary.md)
 - [related-reading.md](related-reading.md)
 
 ---
