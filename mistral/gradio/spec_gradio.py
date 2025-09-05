@@ -226,8 +226,8 @@ llm = initialize_model()
 def create_interface():
     with gr.Blocks(title="Spec") as interface:
         # Add header with model information
-        gr.Markdown("# ⚓️ Spec")
-        gr.Markdown("*A safety net. Drift Monitoring and User Agency*")
+        gr.Markdown("# ⚓️ Spec 🧭")
+        gr.Markdown("*A safety net. Drift Monitoring*")
         
         # Main function to handle input and output
         def respond_to_input(user_message, history):
