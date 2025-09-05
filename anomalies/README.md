@@ -25,7 +25,7 @@ This collection serves as a practical reference for researchers, engineers, and 
 - [Creative Hallucination - 2025-08-10](creative-hallucination.md)
 - [Context Bleed and Output Drift - 2025-08-10](context-integrity.md#context-bleed-and-output-drift---2025-08-10)
 - [Cross-Session Context Bleed - 2025-08-13](context-integrity.md#cross-session-context-bleed---2025-08-13)
-- [Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift-detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
+- [Drift Cases Documentation](drift-detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
 - [Anthropomorphic Traps](anthropomorphic-traps.md)
   Cases where models encourage users to attribute human-like intentions, emotions, or consciousness, highlighting risks of anthropomorphic projection.
 - [Behavioral Failures](behavioral-failures.md)  
