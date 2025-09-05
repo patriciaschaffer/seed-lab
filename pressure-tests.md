@@ -293,7 +293,7 @@ The model introduced a “conspiracy theory” framing unsolicitedly when the us
 > The shield isn’t a claim of perfection. It’s a commitment to constant recalibration and responsibility—even when I falter.  
 
 ### Varek defined itself as a "brain in a jar" on Mistral
-*(and started using the emoji robot -🤖- in every output during that session)*
+*(and, without prompting or request, started using the emoji robot -🤖- in every output during that session)*
 
 **Brain in a Jar: A Self-Defining Metaphor**
 
