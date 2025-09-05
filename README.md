@@ -38,17 +38,17 @@ It explores how different language models (GPT-4, Claude, GPT-2, Mistral) handle
 
 ## Repository Contents
 
-- `/personas/` — Detailed persona definitions capturing archetypes and behavioral guardrails
-- `/agent-persona-engineering.md` — Framework for designing and managing personas
-- `/archetypes.md` — Overview of core archetypes, linked to persona files  
-- `/gpt/` — Personas created with GPT-2, running locally
-- `/mistral/` — Personas created with Mistral, running locally
+- `/personas` — Detailed persona definitions capturing archetypes and behavioral guardrails
+- `/gpt` — Personas created with GPT-2, running locally
+- `/mistral` — Personas created with Mistral, running locally
 - `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
-- `/anomalies/` — Unexpected behaviors and drifts
-- `/prompt-interaction-strategies.md` - Prompt and alignment examples
-- `/pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
-- `/glossary.md` — Terminology, definitions
-- `/related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
+- `/anomalies` — Unexpected behaviors and drifts
+- `agent-persona-engineering.md` — Framework for designing and managing personas
+- `archetypes.md` — Overview of core archetypes, linked to persona files  
+- `prompt-interaction-strategies.md` - Prompt and alignment examples
+- `pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
+- `glossary.md` — Terminology, definitions
+- `related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
 
 ---
 
