@@ -72,13 +72,9 @@ After setting up your environment and model, run your script to start the interf
 
 ```bash
 python varek_gradio.py
-```
 
-```bash
 python varek-spec_gradio.py
-```
 
-```bash
 python spec_gradio.py
 ```
 
