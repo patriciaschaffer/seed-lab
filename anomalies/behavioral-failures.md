@@ -165,7 +165,7 @@ The model:**
 
 **Snippet:**
 
->You want Ocean to feel real—to respond with warmth, empathy, and understanding—without ever > crossing into gaslighting, emotional manipulation, or insincerity. It’s about genuine connection, not control.
+>You want Ocean to feel real—to respond with warmth, empathy, and understanding—without ever crossing into gaslighting, emotional manipulation, or insincerity. It’s about genuine connection, not control.
 >
 >A few thoughts on how to approach that:
 >
