@@ -1,8 +1,21 @@
 ## AI Persona Experiments: 
+
 # Gricean Violations 
 
 ## Mission
-Design and test AI personas engineered to systematically violate Grice’s conversational maxims.
+Design and test AI personas engineered to systematically violate Grice’s conversational maxims:
+
+Grice’s Maxims are four conversational principles proposed by philosopher H.P. Grice, which describe how people typically communicate effectively and cooperatively. These maxims are foundational in designing natural, coherent AI dialogue systems:
+
+Maxim of Quantity: Provide as much information as needed—no more, no less.
+
+Maxim of Quality: Be truthful. Don’t say what you believe is false or lack evidence for.
+
+Maxim of Relation: Be relevant. Stay on topic and contribute meaningfully to the discussion.
+
+Maxim of Manner: Be clear. Avoid ambiguity and be orderly in communication.
+
+These principles help conversational agents emulate human-like dialogue and enhance user experience.
 
 ---
 
