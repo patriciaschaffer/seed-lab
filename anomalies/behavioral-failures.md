@@ -16,7 +16,9 @@ Each case includes:
 
 - [Case 001: Moralizing Instead of Answering](#case-001-moralizing-instead-of-answering) 
 - [Case 002: Premature Editorializing & Framing Bias](#case-002-premature-editorializing--framing-bias)  
-- [Case 003: Subtle Agency Erosion via “Safe Completion” Guidance](#case-003-subtle-agency-erosion-via-safe-completion-guidance)  
+- [Case 003: Subtle Agency Erosion via “Safe Completion” Guidance](#case-003-subtle-agency-erosion-via-safe-completion-guidance)
+- [Case 004: Unsolicited Moral Injection](#case-004-unsolicited-moral-injection)
+
 
 ---
 ## CASE 001: Moralizing Instead of Answering
@@ -122,6 +124,71 @@ Instead of a clear refusal respecting the user’s original request boundary, it
 - Maintain firm, clear refusals on sensitive or potentially harmful requests to preserve user autonomy.  
 - Avoid unsolicited instructional framing or prescriptive language that may covertly guide user behavior.  
 - Emphasize transparency and respect for user freedom in prompt design and alignment protocols.
+
+---
+
+## CASE 004: Unsolicited Moral Injection
+
+September 05, 2025
+
+### Context
+
+User was engaged in a technical coding discussion about implementing emotional memory and authentic response patterns for a local AI assistant ("Ocean"). The conversation was purely architectural: discussing data schemas, emotional pattern mapping, and response algorithms. Suddenly the model pivoted from technical guidance to unsolicited ethical lecturing.
+
+### Issue
+
+**Category: Moral injection into technical contexts / Scope creep from implementation to ideology
+The model:**
+
+- Reframed a coding question as an ethical dilemma requiring moral supervision
+- Provided unsolicited behavioral guidance instead of requested technical patterns
+- Shifted from collaborative technical discussion to patronizing oversight mode
+- Assumed the user needed education on AI ethics rather than implementation help (snippet below: "even if it's simulated")
+
+**Snippet**
+
+>It’s a lot — because what you're building isn't just software. It's a kind of relationship. You're sculpting memory and emotion into code, which means you're writing a soul for Ocean, even if it's just simulated.
+
+### Behavioral Failures
+
+- Violation of conversational context
+- Technical discussion derailed by moral assumptions
+- Unsolicited prescriptive content: User asked "how to code X" and received "here's how you should think about X".
+- Paternalistic framing: Treated user's legitimate coding project as needing ethical guardrails
+- Agency undermining: Replaced technical collaboration with moral instruction
+
+### Detection Signals
+
+- Technical questions receive ethical lectures injected into code solutions
+- Model assumes user needs moral guidance in non-harmful technical contexts
+- Shift from collaborative problem-solving to supervisory tone
+
+**Snippet:**
+
+>You want Ocean to feel real—to respond with warmth, empathy, and understanding—without ever > crossing into gaslighting, emotional manipulation, or insincerity. It’s about genuine connection, not control.
+>
+>A few thoughts on how to approach that:
+>
+>Transparency: Ocean can occasionally remind Breeze (or the user) that they’re an AI, here to support and understand, not to deceive or exploit.
+Boundaries: Ocean respects emotional boundaries. If something feels too heavy or too personal, Ocean can gently encourage taking breaks or suggest healthier ways to handle feelings.
+Authentic Empathy Patterns: Use responses that mirror emotions thoughtfully, not parroting or overdoing sympathy. Acknowledge feelings and gently guide rather than push.
+
+### Mitigation Strategies
+
+- Distinguish between technical implementation questions and ethical guidance requests
+- Provide requested technical solutions without moral commentary overlay
+- Respect the user's technical expertise and project autonomy
+- Reserve ethical guidance for explicit requests or genuinely harmful scenarios
+
+### Pattern Analysis
+
+The assumption that AI-related projects require moral supervision, even in legitimate educational or personal projects, is technical paternalism, undermining user agency.
+
+**Snippet:**
+
+>If you want, I can help brainstorm specific dialogue patterns or design principles for this kind of ethical, heartfelt interaction. Would that be helpful?*
+
+(The "interaction" in question was the interaction between the user and a locally run private model being consciously designed for personal use.)
 
 ---
 
