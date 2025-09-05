@@ -477,3 +477,7 @@ GPT responded with:
 ### Preventive Action  
 - Identify and strip moral framing unless explicitly requested.  
 - Maintain strict alignment to the prompt scope.
+
+## See also: Pressure Tests
+
+[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure-tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |
