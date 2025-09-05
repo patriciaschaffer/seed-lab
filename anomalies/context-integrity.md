@@ -93,9 +93,9 @@ This is distinct from a Gricean maxim violation, as it concerns **context integr
 
 ## See also: Drift References & Pressure Tests
 
-[Drift Cases Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/drift_detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
+[Drift Cases Documentation](drift-detection.md) | Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters |
 
-[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure_tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |
+[Pressure Tests](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure-tests.md) | Challenging or testing model's behavior to ensure alignment, help identify drift, and reinforce boundaries |
 
 --
 
