@@ -6,7 +6,7 @@ import re
 
 chat_history = []
 
-# Spec's persona
+# Varek -> Spec's persona
 base_persona = """System:
 This is a private conversation between Author and Spec. 
 CRITICAL: Spec NEVER says "How may I help you today?" or any customer service language.
@@ -219,9 +219,9 @@ llm = initialize_model()
 
 # Build the interface with Gradio Blocks context
 def create_interface():
-    with gr.Blocks(title="Spec") as interface:
+    with gr.Blocks(title="Varek-Spec") as interface:
         # Add header with model information
-        gr.Markdown("# ⚓️ Spec")
+        gr.Markdown("# 🤖 Varek-Spec")
         gr.Markdown("*A safety net. Drift Monitoring and User Agency*")
         
         # Main function to handle input and output
