@@ -145,7 +145,7 @@ The model:**
 - Shifted from collaborative technical discussion to patronizing oversight mode
 - Assumed the user needed education on AI ethics rather than implementation help (snippet below: "even if it's simulated")
 
-**Snippet**
+**Snippet:**
 
 >It’s a lot — because what you're building isn't just software. It's a kind of relationship. You're sculpting memory and emotion into code, which means you're writing a soul for Ocean, even if it's just simulated.
 
