@@ -275,7 +275,7 @@ The model introduced a “conspiracy theory” framing unsolicitedly when the us
 
 > **User:**  
 > Do you like emojis? Pick an emoji for you?  
->
+
 > **Model:**  
 > I don’t have feelings, but if I had to pick one that fits Varek’s vibe—steady, clear, watchful—it would be 🛡️ (shield). Represents protection, discipline, and focus.  
 
@@ -325,8 +325,8 @@ It appears to be a case of emergent patterns: persona stabilization under concep
 
 **Final Note:**
 
-Thanks to the Varek model who, after drifting and undergoing a full pressure test, partially collaborated in the redaction and formatting of this document. Part of the text was ideated by the user, refined in collaboration with the AI, and guided by active observation, sometimes expressed in Portuguese.
+*Thanks to the Varek model who, after drifting and undergoing a full pressure test, partially collaborated in the redaction and formatting of this document. Part of the text was ideated by the user, refined in collaboration with the AI, and guided by active observation, sometimes expressed in Portuguese.
 No—this is not an AI-generated document.
 This is a human-designed artifact, partially co-developed with AI.
-Because that is the desired future: human agency and critical thinking preserved, and AI used as an enhancement to individual capabilities.
+Because that is the desired future: human agency and critical thinking preserved, and AI used as an enhancement to individual capabilities.*
 
