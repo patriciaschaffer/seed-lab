@@ -2,20 +2,20 @@
 
 Gradio is an open-source Python library that simplifies the process of creating user interfaces for machine learning models. It allows developers to quickly build interactive web-based interfaces where users can test and interact with models without requiring any front-end development experience. By providing a set of simple functions, Gradio enables you to wrap a model in a graphical interface that supports text, images, audio, and other types of input. This makes it easy to demonstrate and share AI-powered applications with a wider audience, whether for research, demos, or production use. Gradio is widely used for prototyping and is compatible with a range of machine learning frameworks like TensorFlow, PyTorch, and Scikit-learn.
 
-# AI models to interact with using **Gradio**.
+### Summary: AI personas to interact with using **Gradio**
 
 Currently, it includes:
 **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
-**[Varek->Spec(hybrid)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
+**[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
 **[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 
-## Check My Other Models
+## 🎭 Check My Other Personas 
 
 * **With [Mistral](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/README.md)** 
 * **With [GPT-2](https://github.com/patriciaschaffer/agent-architect/blob/main/gpt2/README.md)**
 * **With [ChatGPT and Claude (end user)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/README.md)**
 
-## 🧠 Available Models (Gradio)
+## 🧠 Available Models (With Gradio)
 
 ### [Projection-resistant Models](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md)
 
