@@ -2,9 +2,9 @@
 
 AI models to interact with using **Gradio**.  
 Currently, it includes:
-**[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
-**[Varek->Spec(hybrid)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
-**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
+**[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
+**[Varek->Spec(hybrid)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
+**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 
 ## Check My Other Models
 
