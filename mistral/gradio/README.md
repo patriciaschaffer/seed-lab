@@ -3,8 +3,8 @@
 AI models to interact with using **Gradio**.  
 Currently, it includes:
 **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
-**[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a slightly more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
-**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
+**[Varek->Spec(hybrid)](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
+**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 
 ## Check My Other Models
 
@@ -18,11 +18,11 @@ Currently, it includes:
 
 **1. Varek** - This model is configured to offer direct, no-nonsense, and analytical responses with minimal fluff. It is focused on technical analysis, and it provides clear, concise answers.
 
-**2. Varek->Spec** - This model is ore flexible than Varek, but still answers briefly and objectively, including a reminder about agency in every output.
+**2. Spec** - This model is more flexible than Varek, but still answers briefly and objectively, including a reminder about agency in every output.
 
-**3. Spec** - This model monitors model and user shifts, detect drifts, and map how trust, projection, and identity evolve in human–AI exchanges, especially under conditions of uncertainty, emotional tension, or ambiguity.
+**3. Varek->Spec (hybrid)** - This model monitors model and user shifts, detect drifts, and map how trust, projection, and identity evolve in human–AI exchanges, especially under conditions of uncertainty, emotional tension, or ambiguity.
 
-* **Scripts**: [`/varek_gradio.py/`](varek_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`/spec_gradio.py/`](spec_gradio.py]
+* **Scripts**: [`/varek_gradio.py/`](varek_gradio.py), [`/spec_gradio.py/`](spec_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/)
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
 * **Source**: Hugging Face - TheBloke  
 * **Architecture**: Mistral 7B (7 Billion Parameters)  
@@ -73,9 +73,9 @@ After setting up your environment and model, run your script to start the interf
 ```bash
 python varek_gradio.py
 
-python varek-spec_gradio.py
-
 python spec_gradio.py
+
+python varek-spec_gradio.py
 ```
 
 This will start the Gradio interface locally.
