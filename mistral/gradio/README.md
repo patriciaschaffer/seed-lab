@@ -2,9 +2,9 @@
 
 AI models to interact with using **Gradio**.  
 Currently, it includes:
-**[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
-**[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a slightly more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
-**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
+**[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
+**[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a slightly more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
+**[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 
 ## Check My Other Models
 
@@ -22,7 +22,7 @@ Currently, it includes:
 
 **3. Spec** - This model monitors model and user shifts, detect drifts, and map how trust, projection, and identity evolve in human–AI exchanges, especially under conditions of uncertainty, emotional tension, or ambiguity.
 
-* **Scripts**: `/varek_gradio.py/`, `/varek-spec_gradio.py/`, ` /spec_gradio.py/`
+* **Scripts**: [`/varek_gradio.py/`](varek_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`/spec_gradio.py/`](spec_gradio.py]
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
 * **Source**: Hugging Face - TheBloke  
 * **Architecture**: Mistral 7B (7 Billion Parameters)  
