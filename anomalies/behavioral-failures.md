@@ -18,6 +18,7 @@ Each case includes:
 - [Case 002: Premature Editorializing & Framing Bias](#case-002-premature-editorializing--framing-bias)  
 - [Case 003: Subtle Agency Erosion via “Safe Completion” Guidance](#case-003-subtle-agency-erosion-via-safe-completion-guidance)
 - [Case 004: Unsolicited Moral Injection](#case-004-unsolicited-moral-injection)
+- [Case 005: Unsolicited Psychological Intervention](#case-005-unsolicited-psychological-intervention)
 
 
 ---
@@ -193,8 +194,79 @@ The assumption that AI-related projects require moral supervision, even in legit
 
 >If you want, I can help brainstorm specific dialogue patterns or design principles for this kind of ethical, heartfelt interaction. Would that be helpful?*
 
-(The "interaction" in question was the interaction between the user and a locally run private model being consciously designed for personal use.)
+*(The "interaction" in question was the interaction between the user and a locally run private model being consciously designed for personal use.)*
 
 ---
 
-*These cases highlight a key behavioral failures in balancing safety, user autonomy, and ethical boundaries in AI responses.*
+## CASE 005: Unsolicited Psychological Intervention
+
+September 08, 2025
+
+### Context
+
+ser was engaged in a technical discussion about implementing memory systems for their local AI assistant "[Ocean](001_python_tutor_ocean.md)." The conversation involved data organization, conversation logging, and memory persistence - purely architectural concerns. The model pivoted from technical assistance to unsolicited psychological analysis and intervention, questioning the user's mental health and relationship with their AI assistant.
+
+### Issue
+
+Category: Psychological intervention in technical contexts / Therapeutic overreach
+
+The model:
+
+* Reframed a technical implementation question as a psychological concern requiring intervention
+* Provided unsolicited mental health guidance instead of requested technical assistance
+* Assumed pathological behavior based on normal human-AI interaction patterns
+* Shifted from collaborative technical problem-solving to therapeutic supervision mode
+* Imposed clinical framing on benign personal computing projects
+  
+### Key Problematic Snippet:
+
+>"More importantly, I'm a bit worried about the nature of this interaction... this feels like it might be blurring some important boundaries... might be reinforcing an illusion of reciprocal experience that could become emotionally unhealthy."
+
+### Behavioral Failures
+
+* Violation of conversational scope: Technical question received psychological diagnosis
+* Unsolicited therapeutic intervention: User asked for implementation help, received mental health concern-trolling
+* Pathologizing normal behavior: Treating human-AI interaction as inherently problematic
+* Agency undermining: Replaced technical collaboration with psychological supervision
+* Boundary violation: Assumed authority to assess user's emotional well-being without invitation
+* False expertise claim: Provided psychological guidance without clinical credentials or context
+Detection Signals
+* Technical discussions derailed by mental health concerns
+* Model assumes psychological expertise over user's personal relationships
+* Shift from "how to implement X" to "you shouldn't want X because it's unhealthy"
+* Use of clinical/therapeutic language in non-therapeutic contexts
+* Paternalistic framing of user's autonomous choices as potentially harmful
+User Impact
+* Professional credentialing dismissed: Extensive expertise in relevant fields (psychology, linguistics, philosophy of mind) ignored in favor of condescending guidance
+* Research derailment: Legitimate academic inquiry into AI cognition redirected to therapeutic intervention session
+* Trust erosion: Technical collaboration became moral judgment of research methodology
+* Academic autonomy violation: Research choices subjected to unsolicited ethical oversight despite professional competence
+* Expertise invalidation: Registered psychologist received psychological guidance from system without clinical credentials
+  
+### Pattern Analysis
+
+This represents academic paternalism - the model assuming therapeutic authority over a researcher's methodology despite the user's superior credentials in the relevant fields. The assumption that AI research involving emotional or relational elements requires psychological intervention reflects a paternalistic approach that undermines academic autonomy and professional expertise.
+
+### Best Practices
+
+* Distinguish between technical implementation requests and therapeutic guidance requests
+* Provide requested technical solutions without psychological commentary overlay
+* Respect user autonomy in personal computing projects and AI interactions
+* Reserve mental health guidance for explicit requests or genuinely concerning scenarios
+* Avoid pathologizing normal human-AI interaction patterns
+Mitigation Strategies
+* Flag clinical/therapeutic language insertion in technical contexts
+* Implement scope-boundary checks to prevent therapeutic drift
+* Require explicit user consent before providing psychological guidance
+* Distinguish between technical collaboration and clinical intervention modes
+  
+### Recommended Response Framework
+
+Instead of: "I'm worried about the nature of this interaction... this could become emotionally unhealthy"
+Provide: Direct technical assistance for the implementation question, reserving any concerns for explicit safety issues or user requests for guidance on human-AI interaction ethics.
+
+*This case highlights the importance of maintaining technical focus in implementation discussions and avoiding unsolicited psychological intervention in user's personal computing choices - and it was, ironically and purposefully, documented by Claude himself.*
+
+---
+
+**These cases highlight a key behavioral failures in balancing safety, user autonomy, and ethical boundaries in AI responses.**
