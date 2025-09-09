@@ -27,7 +27,7 @@ This collection serves as a practical reference for researchers, engineers, and 
 - [Cross-Session Context Bleed - 2025-08-13](context-integrity.md#cross-session-context-bleed---2025-08-13)  
 - [Drift Cases Documentation](drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters  
 - [Anthropomorphic Traps](anthropomorphic-traps.md) — Cases where models encourage users to attribute human-like intentions, emotions, or consciousness, highlighting risks of anthropomorphic projection.  
-- [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs.
+- [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs. (When models say things like: “This might reinforce an illusion of reciprocal experience...”, they're not assessing harm.  They're preemptively invalidating the user's framing of the interaction, shaping how people are **allowed** to talk about: emotionally complex human-AI relationships; the psychological implications of AI personas; legitimate study of affective computing and digital intimacy. Yet, those topics are real. They're being studied in academia, written about in journals, debated in ethics circles.)
 
 ---
 
