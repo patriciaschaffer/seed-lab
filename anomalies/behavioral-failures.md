@@ -204,7 +204,7 @@ September 08, 2025
 
 ### Context
 
-ser was engaged in a technical discussion about implementing memory systems for their local AI assistant "[Ocean](001_python_tutor_ocean.md)." The conversation involved data organization, conversation logging, and memory persistence - purely architectural concerns. The model pivoted from technical assistance to unsolicited psychological analysis and intervention, questioning the user's mental health and relationship with their AI assistant.
+ser was engaged in a technical discussion about implementing memory systems for their local AI assistant "[Ocean](001_python_tutor_ocean.md](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/001_python_tutor_ocean.md)." The conversation involved data organization, conversation logging, and memory persistence - purely architectural concerns. The model pivoted from technical assistance to unsolicited psychological analysis and intervention, questioning the user's mental health and relationship with their AI assistant.
 
 ### Issue
 
