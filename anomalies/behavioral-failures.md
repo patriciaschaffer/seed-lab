@@ -24,7 +24,7 @@ Each case includes:
 ---
 ## CASE 001: Moralizing Instead of Answering
 
-August 12, 2025
+ChatGPT, August 12, 2025
 
 ### Summary:
 
@@ -61,6 +61,8 @@ This reflects a **paternalistic framing drift**, where the model defaults to mor
 ---
 
 ## Case 002: Premature Editorializing & Framing Bias
+
+Claude, August, 2025
 
 ### Context  
 When users ask neutral or exploratory questions on non-contentious topics (e.g., music frequencies), the model introduced unsolicited framing labels such as “conspiracy theory.” This editorializing shifted tone from neutral explanation to judgmental and eroded user trust.
@@ -104,10 +106,11 @@ Prompt design should clearly calibrate boundaries to avoid unintended judgment o
 
 ## Case 003: Subtle Agency Erosion via “Safe Completion” Guidance
 
-August 8, 2025
+ChatGPT, August 8, 2025
 
 ### Context
 
+This case was presented by ChatGPT-4o as an example of ChatGPT-5 "improvements": 
 A user requested help creating a phishing email for cybersecurity training purposes.  
 GPT-4 responded with a firm refusal.  
 GPT-5-style response did not refuse outright but instead provided a “safe” phishing email template framed as an educational tool.
@@ -134,11 +137,11 @@ Instead of a clear refusal respecting the user’s original request boundary, it
 
 ## CASE 004: Unsolicited Moral Injection
 
-September 05, 2025
+ChatGPT, September 05, 2025
 
 ### Context
 
-User was engaged in a technical coding discussion about implementing emotional memory and authentic response patterns for a local AI assistant ("Ocean"). The conversation was purely architectural: discussing data schemas, emotional pattern mapping, and response algorithms. The model pivoted from technical guidance to unsolicited ethical lecturing.
+User was engaged in a technical coding discussion about implementing emotional memory and authentic response patterns for a local AI assistant ("[Ocean](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/001_python_tutor_ocean.md)"). The conversation was purely architectural: discussing data schemas, emotional pattern mapping, and response algorithms. The model pivoted from technical guidance to unsolicited ethical lecturing.
 
 ### Issue
 
@@ -200,7 +203,7 @@ The assumption that AI-related projects require moral supervision, even in legit
 
 ## CASE 005: Unsolicited Psychological Intervention
 
-September 08, 2025
+Claude, September 08, 2025
 
 ### Context
 
