@@ -103,6 +103,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - `/gpt` — Personas created with GPT-2, running locally
 - `/mistral` — Personas created with Mistral, running locally
 - `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
+- `/memory-rag` — Using RAG to simulate persistent memory in local models
 - `/anomalies` — Unexpected behaviors and drifts
 - `agent-persona-engineering.md` — Framework for designing and managing personas
 - `archetypes.md` — Overview of core archetypes, linked to persona files  
