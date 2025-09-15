@@ -93,3 +93,10 @@ A set of conversational principles — Quantity, Quality, Relation, and Manner �
 LLMs can follow these patterns statistically, but do not understand or intend them.
 
 ---
+
+### RAG (Retrieval-Augmented Generation)
+
+A technique that combines a language model with an external knowledge base.  
+The system retrieves relevant documents (e.g., from a vector database) and feeds them into the model’s context, so the model can generate more accurate, up-to-date, or domain-specific responses without retraining.
+
+---
