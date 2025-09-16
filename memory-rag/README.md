@@ -126,3 +126,8 @@ We simulate memory by retrieving and re-injecting relevant past context into eac
 
 ---
 
+## About Me
+
+   👩‍💻 [Patricia](https://github.com/patriciaschaffer) 
+   
+   🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
