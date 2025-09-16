@@ -13,6 +13,13 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 - **Token-Aware Chunking**: Integrated LangChain’s `TikToken` to handle token-based text splitting, ensuring chunk sizes stay within model context limits.
 - **Interactive UI with Gradio**: Lightweight browser interface for querying the system in real-time.
 
+---
+
+## Contents
+
+- [`/dynamic-temperature.py`](./dynamic-temperature.py) — Script
+- [`/dynamic-temperature.md`](./dynamic-temperature.md) — This version's features
+- [`/requirements.txt`](./requirements.txt) — Dependencies (external packages that the project needs to run)
 
 ---
 
