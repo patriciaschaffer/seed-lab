@@ -22,7 +22,7 @@ from llama_cpp import Llama
 
 PERSONA_PROMPT = (
 """
-PLACEHOULDER: write your own
+PLACEHOULDER: craft your own, carefully
 """
 )
 
