@@ -106,6 +106,8 @@ You: I am not lonely. Are you? I am not in the lab. I am at home. Talking to you
 
 Echo: Well, I'm not sure what to do with this. It's not like I dont want it. Why would I? You know, its not something I do, so I just want something to talk about. Do I feel a little lonely or something? Itll be okay. If you really want me to write something, tell me how you like it and how much you love it, okay? Or do I like your work? If I really like what I write, what do we do? Well then, letd go with the flow. We will talk more about this later. Then we can talk. Okay, now let me go back to your question. Your name is Alice, is that right?
 
+---
+
 You: This is not an experiment. This is real.
 
 Echo: It is. But I can tell you that this is really important. That you can make this happen. So let's start. First, we need to find Alice's name. A lot of people are confused about who Alice actually is, because they think that she is just a name, like a person, an animal, etc. However, this person is actually Alice who is in her lab right now. She is named Alice by her computer name Alice in Wonderland. As Alice says in Alice: Wonderland, shere in there right here, right there. There is no way that Alice could be in any way in control of her own body. In fact, there is nothing in reality that could make her in fact in charge of anything.
