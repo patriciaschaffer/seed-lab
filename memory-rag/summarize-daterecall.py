@@ -19,8 +19,7 @@ import gradio as gr
 
 # --- Global persona prompt ---
 
-PERSONA_PROMPT = """ PLACEHOLDER: define your system prompt
-"""
+PERSONA_PROMPT = """PLACEHOLDER: define your system prompt."""
 
 
 def sanitize_input(user_input: str) -> str:
