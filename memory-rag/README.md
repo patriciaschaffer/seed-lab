@@ -18,7 +18,13 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 ## Contents
 
 - [`/dynamic-temperature.py`](./dynamic-temperature.py) — Script
-- [`/dynamic-temperature.md`](./dynamic-temperature.md) — This version's features
+- [`/dynamic-temperature.md`](./dynamic-temperature.md) — Version's features
+
+  ---
+- [`/summarize-daterecall.py`](./summarize-daterecall.py) — Script
+- [`/summarize-daterecall.md`](./summarize-daterecall.md) — Version's features
+
+  ---
 - [`/requirements.txt`](./requirements.txt) — Dependencies (external packages that the project needs to run)
 
 ---
