@@ -1,0 +1,6 @@
+gradio
+tiktoken
+langchain
+faiss-cpu
+sentence-transformers
+llama-cpp-python
