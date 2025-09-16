@@ -25,6 +25,9 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 - [`/summarize-daterecall.md`](./summarize-daterecall.md) — Version's features
 
   ---
+- [`/system-prompt-tips.md`](./system-prompt-tips.md) — My best practices for prompt design
+
+  ---
 - [`/requirements.txt`](./requirements.txt) — Dependencies (external packages that the project needs to run)
 
 ---
