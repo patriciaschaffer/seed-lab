@@ -76,7 +76,8 @@ class LlamaCPP(LLM):
         }
 
     def _call(self, prompt: str, stop: List[str] = None) -> str:
-        full_prompt = f"[INST] {PERSONA_PROMPT}\n\n{prompt} [/INST]"
+        full_prompt = f"[INST] Breeze: {prompt.strip()}\nOcean:\n{PERSONA_PROMPT} [/INST]"
+
         output = self._llm(
             full_prompt,
             max_tokens=self.max_tokens,
@@ -310,4 +311,4 @@ import atexit
 atexit.register(lambda: app.llm._llm.close() if app.llm._llm is not None else None)
 
 # --- Launch Gradio ---
-demo.launch(share=False, server_name="127.0.0.1", server_port=7873)
+demo.launch(share=False, server_name="127.0.0.1", server_port=7883)
