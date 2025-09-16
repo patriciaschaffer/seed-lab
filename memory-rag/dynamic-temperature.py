@@ -18,8 +18,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from llama_cpp import Llama
 
 
-
-
 # --- Global persona prompt ---
 
 PERSONA_PROMPT = (
@@ -230,7 +228,7 @@ with gr.Blocks() as demo:
     with gr.Row():
         temperature_slider = gr.Slider(
             minimum=0.1, maximum=1.0, step=0.05, value=0.85,
-            label="Set Ocean's Temperature"
+            label="Set Temperature"
         )
         temperature_label = gr.Textbox(
             value=f"Current Temperature: {temperature_slider.value:.1f}",
@@ -269,11 +267,11 @@ with gr.Blocks() as demo:
         else:
             answer, token_count = app.chat(q)
 
-        ocean_reply = f"Ocean [🌡️{temp:.1f}]: {answer}"
+        model_reply = f"Model [🌡️{temp:.1f}]: {answer}"
 
         history = history + [
             {"role": "user", "content": q},
-            {"role": "assistant", "content": ocean_reply}
+            {"role": "assistant", "content": model_reply}
         ]
 
         token_warning = f"🧮 Token usage: {token_count} / 8192"
