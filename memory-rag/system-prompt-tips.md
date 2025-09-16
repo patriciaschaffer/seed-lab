@@ -1,4 +1,4 @@
-# Prompt Engineering Tips for Local LLMs (Mistral, LLaMA, etc.)
+## Prompt Engineering Tips for Local LLMs (Mistral, LLaMA, etc.)
 
 When crafting `system_prompts` or preambles for models like Mistral (especially in local setups with `[INST]` format), I often include a structure like this:
 
