@@ -179,7 +179,7 @@ print(response["choices"][0]["text"])
 
 ## 🆕 Models on Gradio
 
-To be used locally, on your browser. ***(Work in progress.)***
+To be used locally, on your browser. 
 
 - [Here.](gradio)
 
