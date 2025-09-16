@@ -87,7 +87,15 @@ Built while tuning custom local LLMs with:
 
 ### What to do next
 
-- Tune your `PERSONA_PROMPT` until it feels like a *real person talking* (if that's what you want for your interaction)
+- Tune your `PERSONA_PROMPT` until it feels like a *real person talking* (if that's what you're aiming for)
 - Test placement of `[INST]`, persona, and user message — small changes matter
 - Post-process output if needed
 - Let the model settle into character, not fall back on default assistant habits
+
+---
+
+  ## About Me
+
+   👩‍💻 [Patricia](https://github.com/patriciaschaffer) 
+   
+   🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
