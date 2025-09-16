@@ -6,7 +6,9 @@ My work focuses on shaping these models for consistency, alignment, and tangible
 
 However, while working with both open and proprietary LLMs, I became interested in how some personas subtly optimize for engagement over utility. Therefore, this project also explores alternatives: purpose-specific agents designed to be transparent, non-manipulative, and behaviorally consistent — while still operating within real-world constraints, locally run, using open source alternatives (GPT-2 and MistralAI).
 
-For experimentation, I also created personas to purposefully violate Grice's conversational maxims.
+For experimentation, I've also created personas to purposefully violate Grice's conversational maxims.
+
+Right now, I'm testing a local setup with MistralAI to build customized language models that use RAG to simulate memory. I've incorporated FAISS for fast similarity search and used sentence or document embeddings to enable more accurate retrieval of relevant context. 
 
 ---
 
