@@ -17,12 +17,18 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 
 ## Contents
 
+- [`/summarize-daterecall.py`](./summarize-daterecall.py) — Script
+- [`/summarize-daterecall.md`](./summarize-daterecall.md) — Version's features
+
+---
+
 - [`/dynamic-temperature.py`](./dynamic-temperature.py) — Script
 - [`/dynamic-temperature.md`](./dynamic-temperature.md) — Version's features
 
   ---
-- [`/summarize-daterecall.py`](./summarize-daterecall.py) — Script
-- [`/summarize-daterecall.md`](./summarize-daterecall.md) — Version's features
+
+- [`/summarize-daterecall.py`](./vanilla.py) — Script
+- [`/summarize-daterecall.md`](./vanilla.md) — Version's features
 
   ---
 - [`/system-prompt-tips.md`](./system-prompt-tips.md) — My best practices for prompt design
