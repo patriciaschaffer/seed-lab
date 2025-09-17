@@ -49,7 +49,7 @@
   - Real-time persona-adjusted responses with token tracking.  
   - Automatic update of displayed model temperature.  
 - **Configurable server**  
-  - Runs locally on `127.0.0.1:7873`, no external sharing by default.  
+  - Runs locally on `127.0.0.1:7883`, no external sharing by default.  
 
 ### 🔹 Extra Utilities
 - **Graceful shutdown** with `atexit` hook to close the Llama model cleanly.  
