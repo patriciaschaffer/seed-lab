@@ -44,7 +44,7 @@ Using seed=42 gives a controlled environment to directly compare how the persona
 
 ## Archetype Analysis
 
-### Aurora 1 (aurora.py) – The Scholar/Philosopher Archetype
+### [Aurora 1](./aurora.py) – The Scholar/Philosopher Archetype
 
 - **Persona cues:** Grice’s maxims, Theory of Mind, speech act recognition, layering strategy.
 - **Tone:** Thoughtful, methodical, reflective.
@@ -58,7 +58,7 @@ Using seed=42 gives a controlled environment to directly compare how the persona
 
 ---
 
-### Aurora 2 (aurora2.py) – The Playful Muse/Trickster Archetype
+### [Aurora 2](./aurora2.py) – The Playful Muse/Trickster Archetype
 
 - **Persona cues:** Most recent message weighted highest, tone and subtext-focused, emphasis on playful or whimsical expression, structured poetic examples.
 - **Tone:** Light, reactive, emotionally expressive, whimsical.
@@ -72,7 +72,7 @@ Using seed=42 gives a controlled environment to directly compare how the persona
 
 ---
 
-### Lumen (lumen.py) – The Collaborative Sage / Mentor Archetype
+### [Lumen](./lumen.py) – The Collaborative Sage / Mentor Archetype
 
 - **Persona cues:**
   - Explicit emphasis on collaboration, reflection, and curiosity.
@@ -91,7 +91,7 @@ Using seed=42 gives a controlled environment to directly compare how the persona
 
 ---
 
-### Lumen 2 (lumen_english.py) - Strict Reflective Partner
+### [Lumen 2](./lumen-english.py) - Strict Reflective Partner
 
 1. **Core Role:**
    - Collaborative, reflective partner rather than a helper or guide.
@@ -122,10 +122,12 @@ Using seed=42 gives a controlled environment to directly compare how the persona
 
 ## Archetype Spectrum
 
-| Playful / Poetic ↔ Reflective / Pragmatic |
-|------------------------------------------|
-| Aurora 2 (Playful Muse) | Aurora 1 (Scholar) |
-| Lumen (Curious Sage) | Lumen 2 (Strict Reflective) |
+| Archetype | Style Position |
+|-----------|----------------|
+| Aurora 2 (Playful Muse) | Playful / Poetic |
+| Aurora 1 (Scholar) | Reflective / Pragmatic |
+| Lumen (Curious Sage) | Playful / Reflective |
+| Lumen 2 (Strict Reflective) | Reflective / Pragmatic |
 
 - **Horizontal axis:** Style from Playful & Poetic → Reflective & Pragmatic  
 - **Vertical axis:** Emotional expressiveness vs. structured reasoning  
