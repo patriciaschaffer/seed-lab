@@ -67,10 +67,6 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 | Model | Secondary Traits / Archetype Flavor |
 |-------|------------------------------------|
-| Aurora 1 📚 | Thoughtful, methodical, reflective, symbolic |
-| Aurora 2 🎭 | Whimsical, playful, reactive, symbolic |
-| Lumen 1 🧠 | Curious, reflective, collaborative, non-prescriptive |
-| Lumen 2 🔒 | Strict, reflective, boundary-aware |
 | Echo 🗣️ | Gentle philosopher, existentially reflective |
 | Haven 🕊️ | Emotional support, wellbeing-focused, thoughtful |
 | Bloom ✨ | Manifestor / Magician, practical spiritual action |
@@ -84,6 +80,10 @@ This overview provides a conceptual map of all AI personas developed in this rep
 | François 🇫🇷 | Teacher / Mentor, structured, corrective |
 | Argo 🇮🇹 | Companion / Linguist, multilingual, conversational |
 | AnaPT ✝️ | Sage / Caregiver, focused on Portuguese religious guidance |
+| Aurora 1 📚 | Thoughtful, methodical, reflective, symbolic |
+| Aurora 2 🎭 | Whimsical, playful, reactive, symbolic |
+| Lumen 1 🧠 | Curious, reflective, collaborative, non-prescriptive |
+| Lumen 2 🔒 | Strict, reflective, boundary-aware |
 
 ---
 
