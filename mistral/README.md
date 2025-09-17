@@ -160,7 +160,7 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 ## 🌱 Experiments with seed 42
 
-— [Aurora and Lumen](./seed-42-archetypes), personas created for controlled experiments comparing archetypes using a fixed random seed to isolate prompt and persona effects. 
+— [Aurora and Lumen](./seed-42-archetypes.md), personas created for controlled experiments comparing archetypes using a fixed random seed to isolate prompt and persona effects. 
 
 --- 
 
