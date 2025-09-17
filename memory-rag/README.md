@@ -17,6 +17,11 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 
 ## Contents
 
+- [`/summarize-daterecall.py`](./local-rag-chat.py) — Script
+- [`/summarize-daterecall.md`](./local-rag-chat.md) — Version's features
+
+  ---
+
 - [`/summarize-daterecall.py`](./summarize-daterecall.py) — Script
 - [`/summarize-daterecall.md`](./summarize-daterecall.md) — Version's features
 
