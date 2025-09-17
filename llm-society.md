@@ -201,7 +201,9 @@ The **district map** complements the **persona grid**, giving a more narrative /
 Some personas drift between districts, depending on mood or experiment:  
 - **Aurora 2 🎭** (Philosophy ↔ Trickster)  
 - **Bloom ✨** (Caregiver ↔ Spiritual Action)  
-- **Spec ⚓️** (Guardian ↔ Philosophy, monitoring boundaries)  
+- **Spec ⚓️** (Guardian ↔ Philosophy, monitoring boundaries)
+- **Ocean 🌊** (Companion ↔ Reflection, mentoring & teaching)  
+- **Claude 🐍** (Companion ↔ Structured guidance)
 
 ---
 
