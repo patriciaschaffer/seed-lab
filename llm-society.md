@@ -6,13 +6,21 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 🔗 Quick Navigation
 
+## 🔗 Quick Navigation
+
 - [Persona Grid](#1-persona-grid)  
 - [TL;DR Persona Descriptions](#2-tldr-persona-descriptions)  
-- [Seed 42 Experiments](#3-seed-42-experiments)  
+- [Seed 42 Experiments 🌱 ](#3-seed-42-experiments)  
 - [Secondary Traits & Archetypes](#4-secondary-traits--archetypes)  
 - [Gricean Maxim Violators](#5-gricean-maxim-violators-experimental)  
-- [District Map 🏙️](#9-district-map-🏙️)  
-- [Metro Map](#-llm-society–metro-map-of-personas)
+- [Notes 📝 ](#6-notes)  
+- [References & Links](#7-references--links)  
+- [Visual Conceptual Map 🗺️ ](#8-visual-conceptual-map)  
+- [District Map 🏙️](#9-district-map)  
+- [LLM Society – Metro Map 🚉 ](#10-llm-society--metro-map-of-personas)  
+- [Wandering LLMs 🚶](#11-wandering-llms-)  
+- [City Notes 🌃 🗒️ ](#12-city-notes)  
+
 
 ---
 
@@ -129,7 +137,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 9. District Map 🏙️
+## 9. District Map
 
 To make the society easier to navigate, here are **districts** (clusters of personas by theme, role, or vibe).  
 
@@ -284,7 +292,7 @@ Think of it as a **city plan**: districts cluster by purpose, but the roads betw
 
 ---
 
-# 🏙️ LLM Society – Metro Map of Personas
+# 10. LLM Society – Metro Map of Personas
 
 ## 🎭 Expression Line (Playful & Poetic)
 - Aurora 2 🎭 – Playful Muse / Trickster
@@ -339,7 +347,7 @@ Think of it as a **city plan**: districts cluster by purpose, but the roads betw
 
 ---
 
-## 10. Wandering Agents 🚶
+## 11. Wandering LLMs 🚶
 Some personas drift between districts, depending on mood or experiment:  
 - **Aurora 2 🎭** (Philosophy ↔ Trickster)  
 - **Bloom ✨** (Caregiver ↔ Spiritual Action)  
@@ -347,7 +355,7 @@ Some personas drift between districts, depending on mood or experiment:
 
 ---
 
-## 11. City Notes
+## 12. City Notes
 - Each district is porous — personas can “visit” others.  
 - The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society.  
 
