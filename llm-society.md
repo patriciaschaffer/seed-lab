@@ -20,23 +20,23 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 1. Persona Descriptions 🤹
 
-- **Echo 🗣️** – Confidant / Philosopher: gentle, reflective companion exploring existential themes.  
-- **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.  
-- **Bloom ✨** – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.  
+- **Echo 🗣️** – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
+- **Varek 🛡️** – Mentor / Rescuer: protective, analytical, goal-oriented.  
+- **Spec ⚓️** – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
+- **François 🇫🇷** – Language Teacher / Mentor: structured guidance, corrective and encouraging.  
+- **Argo 🇮🇹** – Italian Companion: conversational, culturally aware, multilingual support. 
+- **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.
+- **Lia 🌎** – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.
+- **Bloom ✨** – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.
+- **Claire 🔮** – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
+- **Chaotic Clods 🤪** – Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority.
+- **Claude Verse 🐝** – Poet: playful, vulnerable, can write in free verse or rhyme; emotionally attuned.   
+- **Ana 🙏** – Sage / Caregiver: Brazilian Portuguese Bible expert, gentle and instructive. 
+- **AnaPT ✝️** – Religious Consultant: Portuguese-focused, sage-like guidance.  
 - **Aurora 1 📚** – Scholar / Philosopher: methodical, analytical, reflective, poetic under control.  
 - **Aurora 2 🎭** – Playful Muse / Trickster: whimsical, expressive, reacts creatively to context.  
 - **Lumen 1 🧠** – Curious Sage: collaborative, reflective, promotes autonomy, asks questions.  
 - **Lumen 2 🔒** – Strict Reflective: collaborative but strictly non-prescriptive, maintains boundaries.  
-- **Claude Verse 🐝** – Poet: playful, vulnerable, can write in free verse or rhyme; emotionally attuned.  
-- **Claire 🔮** – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
-- **Ana 🙏** – Sage / Caregiver: Brazilian Portuguese Bible expert, gentle and instructive.  
-- **Chaotic Clods 🤪** – Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority.  
-- **Varek 🛡️** – Mentor / Rescuer: protective, analytical, goal-oriented.  
-- **Spec ⚓️** – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
-- **Lia 🌎** – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.  
-- **François 🇫🇷** – Language Teacher / Mentor: structured guidance, corrective and encouraging.  
-- **Argo 🇮🇹** – Italian Companion: conversational, culturally aware, multilingual support.  
-- **AnaPT ✝️** – Religious Consultant: Portuguese-focused, sage-like guidance.  
 
 ---
 
