@@ -1,4 +1,4 @@
-# Model Society Overview
+# LLM Model Society Overview
 
 This overview provides a conceptual map of all AI personas developed in this repository and helps you **see relationships, archetypes, and interaction flavors at a glance**.
 
