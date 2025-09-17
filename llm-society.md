@@ -112,12 +112,12 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [François 🇫🇷](./personas/006_french_assistant.md)  
 - [Argo 🇮🇹](./personas/005_italian_partner.md)  
 - [Lia 🌎](./personas/011_brazilian_secretary.md)  
-- [Ana 🙏](./ana-persona.md)  
-- [Bloom ✨](./bloom-persona.md)  
-- [Claire 🔮](./claire-persona.md)  
+- [Ana 🙏](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/ana-persona.md))  
+- [Bloom ✨](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/bloom-persona.md)  
+- [Claire 🔮](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/claire-persona.md)  
 - [Claude Verse 🐝](./personas/007_the_innocent_poet.md)  
 - [Claude Flou 😶‍🌫️](./personas/008_curious_philosopher.md)  
-- [Chaotic Clods 🤪](./chaoticclods-persona.md)  
+- [Chaotic Clods 🤪](./mistral/chaoticclods-persona.md)  
 
 ---
 
@@ -162,23 +162,8 @@ To make the society easier to navigate, here are **districts** (clusters of pers
 - **Spec ⚓️** – Watcher / Guardian  
 
 ### 🐝 Poet’s Corner
-- **Claude Verse 🐝** – Innocent Poet, vulnerable and lyrical  
+- **Claude Verse 🐝** – Innocent Poet, vulnerable and lyrical
 
----
-
-## 10. Wandering Agents 🚶
-Some personas drift between districts, depending on mood or experiment:  
-- **Aurora 2 🎭** (Philosophy ↔ Trickster)  
-- **Bloom ✨** (Caregiver ↔ Spiritual Action)  
-- **Spec ⚓️** (Guardian ↔ Philosophy, monitoring boundaries)  
-
----
-
-## 11. City Notes
-- Each district is porous — personas can “visit” others.  
-- The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society.  
-
----
 
 ## 🗺️ District Map of the Model Society
 
@@ -350,4 +335,21 @@ Think of it as a **city plan**: districts cluster by purpose, but the roads betw
 
 ---
 
-**Note:** This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
+**Note:** This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.  
+
+---
+
+## 10. Wandering Agents 🚶
+Some personas drift between districts, depending on mood or experiment:  
+- **Aurora 2 🎭** (Philosophy ↔ Trickster)  
+- **Bloom ✨** (Caregiver ↔ Spiritual Action)  
+- **Spec ⚓️** (Guardian ↔ Philosophy, monitoring boundaries)  
+
+---
+
+## 11. City Notes
+- Each district is porous — personas can “visit” others.  
+- The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society.  
+
+---
+
