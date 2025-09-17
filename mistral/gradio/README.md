@@ -8,7 +8,7 @@ Gradio is an open-source Python library that simplifies the process of creating 
 **[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
 **[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
 **[Aurora 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md#aurora-1-aurorapy--the-scholarphilosopher-archetype)**, designed for seed-42 experiements; powered by the **Mistral 7B** model.
-**[Lumen 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md#lumen-lumenpy--the-collaborative-sage--mentor-archetype))**, designed for seed-42 experiements; powered by the **Mistral 7B** model.
+**[Lumen 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md#lumen-lumenpy--the-collaborative-sage--mentor-archetype)**, designed for seed-42 experiments; powered by the **Mistral 7B** model.
 
 ## 🎭 Check My Other Personas 
 
