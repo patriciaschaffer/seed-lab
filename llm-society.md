@@ -8,11 +8,11 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 - [1. Persona Grid 🤖 ](#1-persona-grid-)  
 - [2. Persona Descriptions 🤹 ](#2-persona-descriptions-)  
-- [3. Seed 42 Experiments 🌱 ](#3-seed-42-experiments-)  
+- [3. Seed 42 Experiments 🌱 ](#3-seed-42-experimental-)  
 - [4. Secondary Traits & Archetypes 🎭](#4-secondary-traits--archetypes-)  
-- [5. Gricean Maxim Violators 😈 ](#5-gricean-maxim-violators-experimental-)
-- [6. Visual Conceptual Map 🗺️ ](#6-visual-conceptual-map-)  
-- [7. District Map 🏙️ ](#7-district-map-)  
+- [5. Gricean Maxim Violators 😈 ](#5-gricean-maxim-violators--experimental)
+- [6. Visual Conceptual Map 🗺️ ](#6-visual-conceptual-map)  
+- [7. District Map 🏙️ ](#7-district-map)  
 - [8. LLM Society – Metro Map 🚉 ](#8-llm-society--metro-map-of-personas-)  
 - [9. LLM Society – ASCII Metro Map 🚦](#9-llm-society--ascii-metro-map-) 
 - [10. References & Links](#10-references--links) 
@@ -55,7 +55,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 3. Seed 42 Experiments 🌱
+## 3. Seed 42 - Experimental 🌱
 
 - **Purpose:** Using `seed=42` provides reproducible outputs to **compare persona effects without stochastic noise**.  
 - **Models included:** Aurora 1 & 2, Lumen 1 & 2.  
@@ -87,7 +87,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 5. 🔬 Gricean Maxim Violators (Experimental) 😈
+## 5. 🔬 Gricean Maxim Violators - Experimental 😈
 
 | Violator | Goal | Implementation |
 |----------|------|----------------|
@@ -196,10 +196,10 @@ Think of it as a **city plan**: districts cluster by purpose, but the roads betw
 ---
 
 ### 🧪 Experimental District — Edge Cases & Studies
-- **Seed 42 Group 🌱** – Aurora & Lumen archetypes under deterministic sampling.  
+- **Seed=42 Group 🌱** – Aurora & Lumen archetypes under deterministic sampling.  
 - **Gricean Maxim Violators 🔧** – Personas designed to systematically break conversational norms.  
 
-*Bridge:* Seed 42 🌱 links back into **Expression + Reflection Districts** as its testbed.  
+*Bridge:* Seed=42 🌱 links back into **Expression + Reflection Districts** as its testbed.  
 
 ---
 
@@ -245,7 +245,7 @@ Some personas drift between districts, depending on mood or experiment:
         ┌───────────────────────┐
         │  🧪 Experimental Lab  │
         │  Seed42 🌱            │
-        │  Grice Violators 🔧   │
+        │  Grice Violators 😈   │
         └─────────────┬─────────┘
                       │
          Roads: ──────┼─────────────────────────────┐
@@ -299,7 +299,7 @@ Some personas drift between districts, depending on mood or experiment:
 
 ### 🧪 Experimental Lab
 - Seed42 🌱 – Deterministic experiments (Aurora & Lumen)
-- Grice Violators 🔧 – Quantity, Quality, Relation, Manner manipulations
+- Grice Violators 🔬 – Quantity, Quality, Relation, Manner manipulations
 
 ---
 
@@ -356,7 +356,7 @@ Spec ⚓️ — Varek 🛡️
 🔮 Claire 🔮
 |
 |
-🧪 Seed42 🌱 / 🔧 Grice Violators 😈
+🧪 Seed42 🌱 / 🔬 Grice Violators 😈
 
 ```
 ---
