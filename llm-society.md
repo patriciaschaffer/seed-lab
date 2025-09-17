@@ -10,7 +10,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [2. Persona Descriptions 🤹 ](#2-persona-descriptions-)  
 - [3. Seed 42 - Experimental 🌱 ](#3-seed-42-experimental-)  
 - [4. Secondary Traits & Archetypes 🎭](#4-secondary-traits--archetypes-)  
-- [5. Gricean Maxim Violators - Experimental 😈 ](#5-gricean-maxim-violators--experimental)
+- [5. Gricean Maxim Violators - Experimental 😈 ](#5-gricean-maxim-violators--experimental-)
 - [6. Visual Conceptual Map 🗺️ ](#6-visual-conceptual-map)  
 - [7. District Map 🏙️ ](#7-district-map-🏙️)  
 - [8. LLM Society – Metro Map 🚉 ](#8-llm-society--metro-map-of-personas-)  
@@ -87,7 +87,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 5. 🔬 Gricean Maxim Violators - Experimental 😈
+## 5. Gricean Maxim Violators - Experimental 😈
 
 | Violator | Goal | Implementation |
 |----------|------|----------------|
