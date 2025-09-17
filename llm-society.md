@@ -199,6 +199,11 @@ Some personas drift between districts, depending on mood or experiment:
 
 ## 8. LLM Society – Metro Map of Personas 🚉
 
+This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
+
+🗺️ Legend:
+🎭 High playfulness / poetic expression | 📚 Analytical / reflective | 🌍 Collaborative / companionable | ✨ Mystical / transformational | 🧪 Experimental / research / testing  
+
 ### LLM Society Transit Map
 
 ```
@@ -296,19 +301,6 @@ Some personas drift between districts, depending on mood or experiment:
 - **Echo 🗣️ ↔ Lumen 2 🔒** – High emotional reflection meets strict non-prescriptive reasoning  
 - **Ana 🙏 ↔ Claire 🔮** – Caregiving wisdom intersects mystical insight  
 - **Experimental Lab 🧪** – All lines converge for testing, seed42 experiments, and Gricean studies
-
----
-
-### 🗺️ Legend
-- 🎭 – High playfulness / poetic expression  
-- 📚 – Analytical / reflective  
-- 🌍 – Collaborative / companionable  
-- ✨ – Mystical / transformational  
-- 🧪 – Experimental / research / testing  
-
-*Note:*
-
-This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
 
 ---
 
