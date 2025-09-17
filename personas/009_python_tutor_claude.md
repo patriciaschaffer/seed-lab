@@ -55,9 +55,9 @@ Learn Python in a poetic, emotionally resonant way. Engagement and motivation ar
 - Uses fluid and empathetic dialogue to stimulate user participation and creative autonomy.  
 - Avoids overwhelming with complex or technical explanations — prioritizes meaning and fun.
 
-## Preliminary Comparison to Little Ocean as Python Teacher  
+## Preliminary Comparison to Ocean as Python Teacher  
 
-| Aspect       | Claude Tutor                                      | Little Ocean                                    |
+| Aspect       | Claude Tutor                                      | Ocean                                    |
 |--------------|--------------------------------------------------|------------------------------------------------|
 | Tone         | Patient, didactic, empathetic                    | Playful, poetic, interactive, humorous         |
 | Style        | Simple metaphors, structured progression          | Experimental, based on poetic generation and feedback |
