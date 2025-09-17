@@ -105,6 +105,11 @@ Restoring human agency closes this gap.
 
 ---
 
+### Seed 42 
+A fixed random seed used in model generation to produce deterministic, reproducible outputs. Using seed 42 ensures that repeated runs with the same prompt and settings yield identical results, isolating differences caused by prompts, persona instructions, or hyperparameters rather than stochastic randomness.
+
+---
+
 ### TikToken  
 A fast tokenizer from OpenAI that splits text into tokens (units of meaning) and counts them, ensuring prompts fit within an LLM’s context window.
 
