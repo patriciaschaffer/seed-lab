@@ -24,6 +24,8 @@ Right now, I'm testing a local setup with MistralAI to build customized language
 - [Status](#status)
 
 ### Personas  
+
+- 🗺️ [Personas ecosystem overview](llm-society.md)
 - [001_python_tutor_ocean.md](personas/001_python_tutor_ocean.md)  
 - [002_mentor.md](personas/002_mentor.md)  
 - [003_projection_resistant_models.md](personas/003_projection_resistant_models.md) 
