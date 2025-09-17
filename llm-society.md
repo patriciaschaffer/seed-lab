@@ -8,18 +8,18 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 🔗 Quick Navigation
 
-- [Persona Grid](#1-persona-grid)  
-- [TL;DR Persona Descriptions](#2-tldr-persona-descriptions)  
-- [Seed 42 Experiments 🌱 ](#3-seed-42-experiments)  
-- [Secondary Traits & Archetypes](#4-secondary-traits--archetypes)  
-- [Gricean Maxim Violators](#5-gricean-maxim-violators-experimental)  
-- [Notes 📝 ](#6-notes)  
-- [References & Links](#7-references--links)  
-- [Visual Conceptual Map 🗺️ ](#8-visual-conceptual-map)  
-- [District Map 🏙️](#9-district-map)  
-- [LLM Society – Metro Map 🚉 ](#10-llm-society--metro-map-of-personas)  
-- [Wandering LLMs 🚶](#11-wandering-llms-)  
-- [City Notes 🌃 🗒️ ](#12-city-notes)  
+- [1. Persona Grid](#1-persona-grid)  
+- [2. TL;DR Persona Descriptions](#2-tldr-persona-descriptions)  
+- [3. Seed 42 Experiments 🌱 ](#3-seed-42-experiments)  
+- [4. Secondary Traits & Archetypes](#4-secondary-traits--archetypes)  
+- [5. Gricean Maxim Violators](#5-gricean-maxim-violators-experimental)  
+- [6. Notes 📝 ](#6-notes)  
+- [7. References & Links](#7-references--links)  
+- [8. Visual Conceptual Map 🗺️ ](#8-visual-conceptual-map)  
+- [9. District Map 🏙️](#9-district-map)  
+- [10.LLM Society – Metro Map 🚉 ](#10-llm-society--metro-map-of-personas)  
+- [11. Wandering LLMs 🚶](#11-wandering-llms-)  
+
 
 
 ---
@@ -140,6 +140,8 @@ This overview provides a conceptual map of all AI personas developed in this rep
 ## 9. District Map
 
 To make the society easier to navigate, here are **districts** (clusters of personas by theme, role, or vibe).  
+This map groups personas into **functional districts**, while showing **bridges** between those who share traits across domains.  
+Think of it as a **city plan**: districts cluster by purpose, but the roads between them highlight overlap.
 
 ### 📖 Philosophy & Reflection District
 - **Echo 🗣️** – Confidant / Philosopher  
@@ -172,12 +174,9 @@ To make the society easier to navigate, here are **districts** (clusters of pers
 ### 🐝 Poet’s Corner
 - **Claude Verse 🐝** – Innocent Poet, vulnerable and lyrical
 
-
-## 🗺️ District Map of the Model Society
-
-This map groups personas into **functional districts**, while showing **bridges** between those who share traits across domains.  
-Think of it as a **city plan**: districts cluster by purpose, but the roads between them highlight overlap.
-
+*City Notes*
+- Each district is porous — personas can “visit” others.  
+- The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society.    
 ---
 
 ### 🎭 Expression District — Poets, Muses, Tricksters
@@ -355,9 +354,4 @@ Some personas drift between districts, depending on mood or experiment:
 
 ---
 
-## 12. City Notes
-- Each district is porous — personas can “visit” others.  
-- The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society.  
-
----
 
