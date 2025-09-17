@@ -10,15 +10,17 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 
 3. [🎭 Persona Details](#-persona-details) for Echo, Varek, Spec, Haven, François, Argo, Lia, Ana, Bloom, Claire, Claude Verse, Claude Flou, Chaotic Clods
 
-4. [🧠 Model](#-model)
+4. [🌱 Experiments with seed=42](#-experiments-with-seed-42)
 
-5. [📦 Dependencies](#-dependencies)
+5. [🧠 Model](#-model)
 
-6. [💻 Usage](#-usage)
+6. [📦 Dependencies](#-dependencies)
 
-7. [🆕 Models on Gradio](#-models-on-gradio)
+7. [💻 Usage](#-usage)
 
-8. [👩‍💻 About Me](#-about-me)
+8. [🆕 Models on Gradio](#-models-on-gradio)
+
+9. [👩‍💻 About Me](#-about-me)
 
 
 ## 📝 Scripts
@@ -153,6 +155,12 @@ This project uses the **Mistral-7B Instruct v0.1** model, quantized and run enti
 - [Aurora and Lumen](./seed-42-archetypes.md)
 
 * *Note: Echo, Varek, Spec, Haven, François, Argo, Lia, Claude Verse and Claude Flou were originally shaped/aligned on ChatGPT or Claude. Ana, Bloom, Claire and Clod Verse were designed directly for Mistral, as well as Aurora and Lumen (those two developed for experiments with seed=42).*
+
+---
+
+## 🌱 Experiments with seed 42
+
+— [Aurora and Lumen](./seed-42-archetypes), personas created for controlled experiments comparing archetypes using a fixed random seed to isolate prompt and persona effects. 
 
 --- 
 
