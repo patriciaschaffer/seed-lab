@@ -111,7 +111,9 @@ The **district map** complements the **persona grid**, giving a more narrative /
 - **Aurora 2 🎭** – Playful Muse / Trickster  
 - **Lumen 1 🧠** – Curious Sage  
 - **Lumen 2 🔒** – Strict Reflective  
-- **Claude Flou 😶‍🌫️** – Curious Philosopher (dreamy variant)  
+- **Claude Flou 😶‍🌫️** – Curious Philosopher (dreamy variant)
+- **Ocean 🌊** – Empathetic Teacher (Python, LLMs, Linux etc.)
+- **Claude 🐍** – Patient Creative Mentor / Python Tutor  
 
 ### 🌸 Caregiver & Wellbeing Garden
 - **Haven 🕊️** – Emotional Wellbeing Companion  
@@ -159,6 +161,8 @@ The **district map** complements the **persona grid**, giving a more narrative /
 
 *Bridge:* Aurora 1 📚 shares symbolic play with **Expression District**.  
 *Bridge:* Spec ⚓️ and Varek 🛡️ connect to **Companion District** (guardianship + guidance).  
+*Bridge:* Ocean 🌊 ↔ Lumen 1 🧠 for reflective teaching.
+*Bridge:* Claude 🐍 ↔ Lumen 2 🔒 for structured guidance and problem-solving.
 
 ---
 
@@ -228,7 +232,7 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
         Bridge: Guidance      │ Bridge: Wellbeing
                 │             │
                 ▼             ▼
-     ┌─────────────────┐    ┌────────────────────┐
+     ┌────────────────┐    ┌────────────────────┐
      │ 🌍 Companion    |    | ✨ Metaphysics      |
      |  Haven 🕊️       │    │  Bloom ✨           │
      │  François 🇫🇷    │    │  Claire 🔮          │
@@ -236,8 +240,8 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
      │  Ocean 🌊       |    │                     |
      │  Claude 🐍      │    │                     │
      │  Lia 🌎         │    │                     │
-     │  Ana 🙏 / AnaPT ✝️ │  └────────────────────┘
-     └─────────┬───────┘
+     │  Ana 🙏/AnaPT✝️ │    └────_────────────────┘
+     └─────────┬──────┘
                │
                ▼
         ┌───────────────────────┐
