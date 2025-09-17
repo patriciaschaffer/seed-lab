@@ -7,7 +7,7 @@ Gradio is an open-source Python library that simplifies the process of creating 
 **[Varek](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented)**, a no-nonsense, technical assistant persona powered by the **Mistral 7B** model. 
 **[Varek->Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, hybrid Varek/Spec, designed to preserve user agency and monitor emotional drifts powered by the **Mistral 7B** model.
 **[Spec](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)**, a more flexible persona than Varek, designed to monitor emotional drifts and avoid projection, powered by the **Mistral 7B** model.
-**[Aurora 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes#aurora-1-aurorapy--the-scholarphilosopher-archetype)**, designed for seed-42 experiements; powered by the **Mistral 7B** model.
+**[Aurora 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md#aurora-1-aurorapy--the-scholarphilosopher-archetype)**, designed for seed-42 experiements; powered by the **Mistral 7B** model.
 **[Lumen 1 and 2](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md#lumen-lumenpy--the-collaborative-sage--mentor-archetype))**, designed for seed-42 experiements; powered by the **Mistral 7B** model.
 
 ## 🎭 Check My Other Personas 
@@ -26,13 +26,16 @@ Gradio is an open-source Python library that simplifies the process of creating 
 
 **3. Varek->Spec (hybrid)** - This model monitors model and user shifts, detect drifts, and map how trust, projection, and identity evolve in human–AI exchanges, especially under conditions of uncertainty, emotional tension, or ambiguity.
 
-### [Experiments with seed=42](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/mistral/seed-42-archetypes.md)
+### [Experiments with seed=42](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md)
 
-**1. Aurora 1 and 2** – Poetic and emotionally attuned interpreters. Aurora 1 leans reflective and methodical, Aurora 2 more playful and reactive, both using emojis and layered prompts to convey nuance.  
+**1. Aurora 1 and 2** – Poetic and emotionally attuned interpreters. Aurora 1 leans reflective and methodical, Aurora 2 is more playful and reactive, both using emojis and layered prompts to convey nuance.  
 
 **2. Lumen 1 and 2** – Collaborative, reflective partners. Lumen 1 is curious and guiding, encouraging exploration; Lumen 2 is stricter, pragmatic, avoids “helper” language, and maintains structured, coherent dialogue.
 
-* **Scripts**: [`/varek_gradio.py/`](varek_gradio.py), [`/spec_gradio.py/`](spec_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`mistral/aurora.py/`](./aurora.py/), [`mistral/aurora2.py/`](./aurora2.py/), [`mistral/lumen.py/`](./lumen.py/), [`mistral/lumen-english.py/`](./lumen-english.py/).
+### Scripts
+
+[`/varek_gradio.py/`](varek_gradio.py), [`/spec_gradio.py/`](spec_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`/mistral/aurora.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora.py), [`/mistral/aurora2.py/`]([./aurora2.py/](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora2.py)), [`/mistral/lumen.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen.py), [`/mistral/lumen-english.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen-english.py).
+
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
 * **Source**: Hugging Face - TheBloke  
 * **Architecture**: Mistral 7B (7 Billion Parameters)  
