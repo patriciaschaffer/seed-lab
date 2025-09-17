@@ -34,7 +34,7 @@ Gradio is an open-source Python library that simplifies the process of creating 
 
 ### Scripts
 
-[`/varek_gradio.py/`](varek_gradio.py), [`/spec_gradio.py/`](spec_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`/mistral/aurora.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora.py), [`/mistral/aurora2.py/`]([./aurora2.py/](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora2.py)), [`/mistral/lumen.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen.py), [`/mistral/lumen-english.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen-english.py).
+[`/varek_gradio.py/`](varek_gradio.py), [`/spec_gradio.py/`](spec_gradio.py), [`/varek-spec_gradio.py/`](varek-spec_gradio.py/), [`/mistral/aurora.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora.py), [`/mistral/aurora2.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/aurora2.py), [`/mistral/lumen.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen.py), [`/mistral/lumen-english.py/`](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/lumen-english.py).
 
 * **Model**: `mistral-7b-instruct-v0.1.Q4_K_M.gguf`
 * **Source**: Hugging Face - TheBloke  
@@ -128,7 +128,7 @@ response = llm(
 
 ## 📝 Notes
 
-* [**Model Personas**](https://github.com/patriciaschaffer/agent-architect/blob/main/agent_persona_engineering.md#table-of-contents)): Each model has its own unique tone and purpose.  
+* [**Model Personas**](https://github.com/patriciaschaffer/agent-architect/blob/main/agent_persona_engineering.md#table-of-contents): Each model has its own unique tone and purpose.  
   For instance, [**Varek**](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/003_projection_resistant_models.md#003b-rescuer---varek-task-oriented) avoids fluff and emotional support, focusing on direct analysis.
 * **Context Length**: Models typically support up to 4096 tokens. Long sessions may require truncation.
 * **Performance**: You may need to adjust settings like GPU layers depending on your hardware.
