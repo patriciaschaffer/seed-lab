@@ -54,6 +54,8 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 | Model | Secondary Traits / Archetype Flavor |
 |-------|------------------------------------|
+| Ocean 🌊	| Empathetic, explanatory, reflective – links Companion & Reflection districts
+| Claude 🐍 |	Patient, structured, supportive – links Companion & Reflection districts
 | Echo 🗣️ | Gentle philosopher, existentially reflective |
 | Haven 🕊️ | Emotional support, wellbeing-focused, thoughtful |
 | Bloom ✨ | Manifestor / Magician, practical spiritual action |
