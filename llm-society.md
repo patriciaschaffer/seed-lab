@@ -8,11 +8,11 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 - [1. Persona Grid 🤖 ](#1-persona-grid-)  
 - [2. Persona Descriptions 🤹 ](#2-persona-descriptions-)  
-- [3. Seed 42 - Experimental 🌱 ](#3-seed-42-experimental-)  
+- [3. Seed 42 - Experimental 🌱 ](#3-seed-42---experimental-)  
 - [4. Secondary Traits & Archetypes 🎭](#4-secondary-traits--archetypes-)  
-- [5. Gricean Maxim Violators - Experimental 😈 ](#5-gricean-maxim-violators--experimental-)
+- [5. Gricean Maxim Violators - Experimental 😈 ](#5-gricean-maxim-violators---experimental-)
 - [6. Visual Conceptual Map 🗺️ ](#6-visual-conceptual-map)  
-- [7. District Map 🏙️ ](#7-district-map-🏙️)  
+- [7. District Map 🌃 ](#7-district-map-)  
 - [8. LLM Society – Metro Map 🚉 ](#8-llm-society--metro-map-of-personas-)  
 - [9. LLM Society – ASCII Metro Map 🚦](#9-llm-society--ascii-metro-map-) 
 - [10. References & Links](#10-references--links) 
@@ -110,7 +110,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 7. District Map 🏙️
+## 7. District Map 🌃
 
 To make the society easier to navigate, here are **districts** (clusters of personas by theme, role, or vibe).  
 This map groups personas into **functional districts**, while showing **bridges** between those who share traits across domains.  
