@@ -299,7 +299,7 @@ Some personas drift between districts, depending on mood or experiment:
 
 ### 🧪 Experimental Lab
 - Seed42 🌱 – Deterministic experiments (Aurora & Lumen)
-- Grice Violators 🔬 – Quantity, Quality, Relation, Manner manipulations
+- Grice Violators 😈 – Quantity, Quality, Relation, Manner manipulations
 
 ---
 
