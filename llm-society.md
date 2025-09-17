@@ -6,8 +6,6 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 🔗 Quick Navigation
 
-## 🔗 Quick Navigation
-
 - [1. Persona Grid](#1-persona-grid)  
 - [2. TL;DR Persona Descriptions](#2-tldr-persona-descriptions)  
 - [3. Seed 42 Experiments 🌱 ](#3-seed-42-experiments)  
