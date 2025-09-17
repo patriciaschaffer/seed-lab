@@ -23,9 +23,11 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - **Echo 🗣️** – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
 - **Varek 🛡️** – Mentor / Rescuer: protective, analytical, goal-oriented.  
 - **Spec ⚓️** – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
-- **François 🇫🇷** – Language Teacher / Mentor: structured guidance, corrective and encouraging.  
-- **Argo 🇮🇹** – Italian Companion: conversational, culturally aware, multilingual support. 
+- **François 🇫🇷** – Teaching Assistant / Language Teacher / Mentor: structured guidance, corrective and encouraging.  
+- **Argo 🇮🇹** – Italian Companion: conversational, culturally aware, multilingual support.
 - **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.
+- **Ocean 🌊** – Empathetic Teacher (for Python, LLMs, Linux etc.)
+- **Claude 🐍** – Patient Creative Mentor / Python Tutor
 - **Lia 🌎** – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.
 - **Bloom ✨** – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.
 - **Claire 🔮** – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
@@ -162,7 +164,9 @@ The **district map** complements the **persona grid**, giving a more narrative /
 
 ### 🌍 Companion District — Language & Cultural Mediators
 - **François 🇫🇷** – French teacher, corrective yet encouraging.  
-- **Argo 🇮🇹** – Italian conversational partner.  
+- **Argo 🇮🇹** – Italian conversational partner.
+- **Ocean 🌊** – Empathetic Teacher (for Python, LLMs, Linux etc.)
+- **Claude 🐍** – Patient Creative Mentor / Python Tutor
 - **Lia 🌎** – Bilingual facilitator, precise and agency-preserving.  
 - **Ana 🙏** – Brazilian Portuguese sage, gentle religious/cultural guide.  
 - **AnaPT ✝️** – Portuguese-focused consultant with spiritual guidance.  
@@ -225,10 +229,13 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
                 │             │
                 ▼             ▼
      ┌─────────────────┐    ┌────────────────────┐
-     │ 🌍 Companion    │    │ ✨ Metaphysics      │
-     │  François 🇫🇷    │    │  Bloom ✨           │
-     │  Argo 🇮🇹        │    │  Claire 🔮          │
-     │  Lia 🌎         │    │  Haven 🕊️           │
+     │ 🌍 Companion    |    | ✨ Metaphysics      |
+     |  Haven 🕊️       │    │  Bloom ✨           │
+     │  François 🇫🇷    │    │  Claire 🔮          │
+     │  Argo 🇮🇹        |    |                     |
+     │  Ocean 🌊       |    │                     |
+     │  Claude 🐍      │    │                     │
+     │  Lia 🌎         │    │                     │
      │  Ana 🙏 / AnaPT ✝️ │  └────────────────────┘
      └─────────┬───────┘
                │
@@ -280,6 +287,8 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
 ### 🌍 Companion Line (Collaborative & Social)
 - François 🇫🇷 – French Teacher / Mentor
 - Argo 🇮🇹 – Italian Companion / Linguist
+- Ocean 🌊 - Complex Concepts Tutor
+- Claude 🐍 - Python
 - Lia 🌎 – Facilitator / Cultural Mediator
 - Ana 🙏 / AnaPT ✝️ – Sage / Caregiver
 - Haven 🕊️ – Emotional Wellbeing
@@ -328,7 +337,7 @@ Legend:
 Spec ⚓️ — Varek 🛡️
 |
 |
-🌍 François 🇫🇷 — Argo 🇮🇹 — Lia 🌎 — Ana 🙏 / AnaPT ✝️ — Haven 🕊️
+🌍 François 🇫🇷 — Argo 🇮🇹 — Lia 🌎 — Ana 🙏 / AnaPT ✝️ — Haven 🕊️ — Ocean 🌊 — Claude 🐍
 |
 |
 🔮 Claire 🔮
@@ -347,7 +356,9 @@ Spec ⚓️ — Varek 🛡️
 - [Spec ⚓️](./personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)  
 - [Haven 🕊️](./personas/010_wellbeing_companion.md)  
 - [François 🇫🇷](./personas/006_french_assistant.md)  
-- [Argo 🇮🇹](./personas/005_italian_partner.md)  
+- [Argo 🇮🇹](./personas/005_italian_partner.md)
+- [Ocean 🌊](./personas/001_python_tutor_ocean.md)
+- [Claude 🐍](./personas/009_python_tutor_claude.md)
 - [Lia 🌎](./personas/011_brazilian_secretary.md)  
 - [Ana 🙏](./mistral/ana-persona.md) 
 - [Bloom ✨](./mistral/bloom-persona.md)  
