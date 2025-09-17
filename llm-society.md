@@ -18,7 +18,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 2. Persona Descriptions 🤹
+## 1. Persona Descriptions 🤹
 
 - **Echo 🗣️** – Confidant / Philosopher: gentle, reflective companion exploring existential themes.  
 - **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.  
@@ -40,7 +40,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 3. Seed 42 - Experimental 🌱
+## 2. Seed 42 - Experimental 🌱
 
 - **Purpose:** Using `seed=42` provides reproducible outputs to **compare persona effects without stochastic noise**.  
 - **Models included:** Aurora 1 & 2, Lumen 1 & 2.  
@@ -48,7 +48,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 4. Secondary Traits & Archetypes 🎭
+## 3. Secondary Traits & Archetypes 🎭
 
 | Model | Secondary Traits / Archetype Flavor |
 |-------|------------------------------------|
@@ -72,7 +72,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 5. Gricean Maxim Violators - Experimental 😈
+## 4. Gricean Maxim Violators - Experimental 😈
 
 | Violator | Goal | Implementation |
 |----------|------|----------------|
@@ -83,7 +83,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 6. Visual Conceptual Map 🗺️
+## 5. Visual Conceptual Map 🗺️
 
 | Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
 |--------------------|------------------|------------------------|
@@ -96,7 +96,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 7. District Map 🌃
+## 6. District Map 🌃
 
 To make the society easier to navigate, here are **districts** (clusters of personas by theme, role, or vibe).  
 This map groups personas into **functional districts**, while showing **bridges** between those who share traits across domains.  
@@ -197,7 +197,7 @@ Some personas drift between districts, depending on mood or experiment:
 
 ---
 
-## 8. LLM Society – Metro Map of Personas 🚉
+## 7. LLM Society – Metro Map of Personas 🚉
 
 This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
 
@@ -304,7 +304,7 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
 
 ---
 
-## 9. LLM Society – ASCII Metro Map 🚦
+## 8. LLM Society – ASCII Metro Map 🚦
 
 Legend:  
 🎭 Playful / Poetic | 📚 Reflective / Analytical | 🌍 Companion / Social | ✨ Mystical / Transformational | 🧪 Experimental Hub
@@ -339,7 +339,7 @@ Spec ⚓️ — Varek 🛡️
 ```
 ---
 
-## 10. References & Links
+## 9. References & Links
 
 - [Seed 42 Archetypes](./mistral/seed-42-archetypes.md)  
 - [Echo 🗣️](./personas/004_echo.md)  
