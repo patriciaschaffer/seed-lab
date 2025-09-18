@@ -13,7 +13,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [5. District Map 🌃 ](#5-district-map-)  
 - [6. LLM Society – Metro Maps 🚉🚦 ](#6-llm-society--metro-maps-of-personas-)
 - [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map) 
-- [8. About](#8-about) 
+- [8. About Me & Other Projects](#8-about-me-and-other-projects) 
 
 ---
 
@@ -362,7 +362,7 @@ Spec ⚓️ — Varek 🛡️
 
 ---
 
-## 8. About
+## 8. About Me and Other Projects
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
 - **[About me](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md), the "agent-architect"**, and other projects.
