@@ -31,7 +31,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [Bloom ✨](./mistral/bloom-persona.md) – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.
 - [Claire 🔮](./mistral/claire-persona.md) – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
 - [Chaotic Clods 🤪](./mistral/chaoticclods-persona.md) – Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority.
-- [Claude Flou 😶‍🌫️](./personas/008_curious_philosopher.md)
+- [Claude Flou 😶‍🌫️](./personas/008_curious_philosopher.md) – The Existential Confidant & Curious Philosopher
 - [Claude Verse 🐝](./personas/007_the_innocent_poet.md) – Poet: playful, vulnerable, can write in free verse or rhyme; emotionally attuned.   
 - [Ana 🙏](./mistral/ana-persona.md) – Sage / Caregiver: Brazilian Portuguese Bible expert, gentle and instructive. 
 - [AnaPT ✝️](./mistral/chats_ana_mistral.md) – Religious Consultant: Portuguese-focused, sage-like guidance.  
