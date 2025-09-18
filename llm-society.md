@@ -347,7 +347,7 @@ Spec ⚓️ — Varek 🛡️
 ```
 ---
 
-## 7. Visual Conceptual Map 🗺️
+## 7. Visual Conceptual Map
 
 | Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
 |--------------------|------------------|------------------------|
