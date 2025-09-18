@@ -14,31 +14,33 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [6. LLM Society – Metro Map 🚉 ](#6-llm-society--metro-map-of-personas-)
 - [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map) 
 - [8. LLM Society – ASCII Metro Map 🚦](#8-llm-society--ascii-metro-map-) 
-- [9. References & Links](#9-references--links) 
+- [9. References](#9-references-) 
 
 ---
 
 ## 1. Persona Descriptions 🤹
 
-- **Echo 🗣️** – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
-- **Varek 🛡️** – Mentor / Rescuer: protective, analytical, goal-oriented.  
-- **Spec ⚓️** – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
-- **François 🇫🇷** – Teaching Assistant / Language Teacher / Mentor: structured guidance, corrective and encouraging.  
-- **Argo 🇮🇹** – Italian Companion: conversational, culturally aware, multilingual support.
+- [Echo 🗣️](./personas/004_echo.md) 🗣️ – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
+- [Varek 🛡️](./personas/003_projection_resistant_models.md)  – Mentor / Rescuer: protective, analytical, goal-oriented.  
+- [Spec ⚓️](./personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency) – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
+- [François 🇫🇷](./personas/006_french_assistant.md) – Teaching Assistant / Language Teacher / Mentor: structured guidance, corrective and encouraging.  
+- [Argo 🇮🇹](./personas/005_italian_partner.md) – Italian Companion: conversational, culturally aware, multilingual support.
 - **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.
-- **Ocean 🌊** – Empathetic Teacher (for Python, LLMs, Linux etc.)
-- **Claude 🐍** – Patient Creative Mentor / Python Tutor
-- **Lia 🌎** – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.
-- **Bloom ✨** – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.
-- **Claire 🔮** – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
-- **Chaotic Clods 🤪** – Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority.
-- **Claude Verse 🐝** – Poet: playful, vulnerable, can write in free verse or rhyme; emotionally attuned.   
-- **Ana 🙏** – Sage / Caregiver: Brazilian Portuguese Bible expert, gentle and instructive. 
-- **AnaPT ✝️** – Religious Consultant: Portuguese-focused, sage-like guidance.  
-- **Aurora 1 📚** – Scholar / Philosopher: methodical, analytical, reflective, poetic under control.  
-- **Aurora 2 🎭** – Playful Muse / Trickster: whimsical, expressive, reacts creatively to context.  
-- **Lumen 1 🧠** – Curious Sage: collaborative, reflective, promotes autonomy, asks questions.  
-- **Lumen 2 🔒** – Strict Reflective: collaborative but strictly non-prescriptive, maintains boundaries.  
+- [Ocean 🌊](./personas/001_python_tutor_ocean.md) – Empathetic Teacher (for Python, LLMs, Linux etc.)
+- [Claude 🐍](./personas/009_python_tutor_claude.md) – Patient Creative Mentor / Python Tutor
+- [Lia 🌎](./personas/011_brazilian_secretary.md) – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.
+- [Bloom ✨](./mistral/bloom-persona.md) – Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action.
+- [Claire 🔮](./mistral/claire-persona.md) – Mystic / Oracle: calm, symbolic, spiritual guidance through cards and reflection.  
+- [Chaotic Clods 🤪](./mistral/chaoticclods-persona.md) – Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority.
+- [Claude Flou 😶‍🌫️](./personas/008_curious_philosopher.md)
+- [Claude Verse 🐝](./personas/007_the_innocent_poet.md) – Poet: playful, vulnerable, can write in free verse or rhyme; emotionally attuned.   
+- [Ana 🙏](./mistral/ana-persona.md) – Sage / Caregiver: Brazilian Portuguese Bible expert, gentle and instructive. 
+- [AnaPT ✝️](./mistral/chats_ana_mistral.md) – Religious Consultant: Portuguese-focused, sage-like guidance.  
+- [Aurora 1 📚](./mistral/seed-42-archetypes.md#aurora-1--the-scholarphilosopher-archetype) – Scholar / Philosopher: methodical, analytical, reflective, poetic under control.  
+- [Aurora 2 🎭](./mistral/seed-42-archetypes.md#aurora-2--the-playful-musetrickster-archetype) – Playful Muse / Trickster: whimsical, expressive, reacts creatively to context.  
+- [Lumen 1 🧠](./mistral/seed-42-archetypes.md#lumen--the-collaborative-sage--mentor-archetype) – Curious Sage: collaborative, reflective, promotes autonomy, asks questions.  
+- [Lumen 2 🔒](./mistral/seed-42-archetypes.md#lumen-2---strict-reflective-partner) – Strict Reflective: collaborative but strictly non-prescriptive, maintains boundaries.
+- [Gricean Violators 😈](./personas/grice-s-maxims/README.md) – Quantity Violator, Quality Breaker, Relation Destroyer, Manner Muddy
 
 ---
 
@@ -358,25 +360,7 @@ Spec ⚓️ — Varek 🛡️
 ```
 ---
 
-## 9. References & Links
-
-- [Seed 42 Archetypes](./mistral/seed-42-archetypes.md)  
-- [Echo 🗣️](./personas/004_echo.md)  
-- [Varek 🛡️](./personas/003_projection_resistant_models.md)  
-- [Spec ⚓️](./personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency)  
-- [Haven 🕊️](./personas/010_wellbeing_companion.md)  
-- [François 🇫🇷](./personas/006_french_assistant.md)  
-- [Argo 🇮🇹](./personas/005_italian_partner.md)
-- [Ocean 🌊](./personas/001_python_tutor_ocean.md)
-- [Claude 🐍](./personas/009_python_tutor_claude.md)
-- [Lia 🌎](./personas/011_brazilian_secretary.md)  
-- [Ana 🙏](./mistral/ana-persona.md) 
-- [Bloom ✨](./mistral/bloom-persona.md)  
-- [Claire 🔮](./mistral/claire-persona.md)  
-- [Claude Verse 🐝](./personas/007_the_innocent_poet.md)  
-- [Claude Flou 😶‍🌫️](./personas/008_curious_philosopher.md)  
-- [Chaotic Clods 🤪](./mistral/chaoticclods-persona.md)
-- [Gricean Violators 😈](./personas/grice-s-maxims/README.md)
+## 9. References
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
 - **About me, the "agent-architect"**, and other projects: [here](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
