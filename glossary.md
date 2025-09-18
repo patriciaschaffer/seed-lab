@@ -90,8 +90,8 @@ A framework for building applications with LLMs, providing tools to connect mode
 
 ### Language Model (LLM)  
 A probabilistic system trained on vast text corpora to predict the next token given a prompt.  
-It does not understand, intend, or choose.  
-It simulates likely continuations based on patterns **and does not model human behavior**.
+It should not understand, intend, but it chooses responses based on patterns.  
+It **should not model human behavior**.
 
 ---
 
