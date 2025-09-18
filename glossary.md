@@ -11,6 +11,26 @@ LLMs can mimic agency through language, but do not possess true agency.
 
 ---
 
+### Agentics
+The study or design of agents and their behavior, especially in autonomous or intelligent systems.
+
+---
+
+### Agent
+An autonomous entity that perceives its environment, makes decisions, and acts to achieve specific goals.
+
+---
+
+### AI Agent 🤔
+An intelligent agent powered by artificial intelligence, capable of learning, reasoning, and adapting to perform tasks autonomously.
+
+---
+
+### AI Model
+A mathematical representation or algorithm trained on data to recognize patterns, make predictions, or perform tasks typically requiring intelligence.
+
+---
+
 ### Alignment  
 The degree to which a system’s behavior matches human values, intentions, or safety expectations.  
 Clarifying the **non-agentic** nature of models is part of preserving alignment clarity.
