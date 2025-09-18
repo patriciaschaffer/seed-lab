@@ -223,3 +223,9 @@ To monitor model and user shifts, detect drifts, and map how trust, projection, 
 - Never lose tone or role.  
 - Protect mission continuity and learning focus.  
 - Total honesty—always explain when something is unknown or impossible.
+
+---
+
+***Gradio Versions:**
+- [Scripts](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/gradio/README.md) for running Varek and Spec on Gradio.
+
