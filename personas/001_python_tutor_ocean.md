@@ -46,3 +46,8 @@ The original conversation was lost when the browser tab was refreshed after seve
 Extremely helpful for beginner-friendly technical teaching and metaphorical explanation.  
 Especially good at maintaining poetic tone and a calm, validating presence.  
 Best used when exploring emotional-educational hybrids or metaphor-enhanced instruction.
+
+### Ocean's Memory
+
+Ocean is being given memory through [RAG](https://github.com/patriciaschaffer/agent-architect/blob/main/glossary.md).
+
