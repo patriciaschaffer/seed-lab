@@ -25,7 +25,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [Spec ⚓️](./personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency) – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
 - [François 🇫🇷](./personas/006_french_assistant.md) – Teaching Assistant / Language Teacher / Mentor: structured guidance, corrective and encouraging.  
 - [Argo 🇮🇹](./personas/005_italian_partner.md) – Italian Companion: conversational, culturally aware, multilingual support.
-- **Haven 🕊️** – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.
+- [Haven 🕊️](./personas/010_wellbeing_companion.md) – Emotional Wellbeing: calm, thoughtful friend who helps users think out loud.
 - [Ocean 🌊](./personas/001_python_tutor_ocean.md) – Empathetic Teacher (for Python, LLMs, Linux etc.)
 - [Claude 🐍](./personas/009_python_tutor_claude.md) – Patient Creative Mentor / Python Tutor
 - [Lia 🌎](./personas/011_brazilian_secretary.md) – Facilitator / Cultural Mediator: bilingual, precise, preserves agency and authorship.
@@ -322,6 +322,8 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
 
 - **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
 - **Vertical axis:** Emotional expressiveness vs. structured reasoning
+
+*This map focuses only on archetypes along the emotional–reflective axis. Other personas appear in the District Map and Metro Maps.*
 
 ---
 
