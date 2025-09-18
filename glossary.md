@@ -18,7 +18,7 @@ The study or design of agents and their behavior, especially in autonomous or in
 
 ### Agent  
 An entity capable of **intentional action** — choosing goals, forming plans, and acting independently.  
-LLMs are not agents. They may simulate agency, but they do not possess it.
+LLMs are not agents. They may simulate agency, but they do not possess it. 🤔
 
 ---
 
