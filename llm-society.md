@@ -6,13 +6,13 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 🔗 Quick Navigation
  
-- [1. Persona Descriptions 🤹 ](#1-persona-descriptions-)  
-- [2. Seed 42 - Experimental 🌱 ](#2-seed-42---experimental-)  
-- [3. Secondary Traits & Archetypes 🎭](#3-secondary-traits--archetypes-)  
-- [4. Gricean Maxim Violators - Experimental 😈 ](#4-gricean-maxim-violators---experimental-)
-- [5. Visual Conceptual Map 🗺️ ](#5-visual-conceptual-map)  
-- [6. District Map 🌃 ](#6-district-map-)  
-- [7. LLM Society – Metro Map 🚉 ](#7-llm-society--metro-map-of-personas-)  
+- [1. Persona Descriptions 🤹 ](#1-persona-descriptions-)   
+- [2. Secondary Traits & Archetypes 🎭](#2-secondary-traits--archetypes-)  
+- [3. Gricean Maxim Violators - Experimental 😈 ](#3-gricean-maxim-violators---experimental-)
+- [4. Seed 42 - Experimental 🌱 ](#4-seed-42---experimental-)  
+- [5. District Map 🌃 ](#5-district-map-)  
+- [6. LLM Society – Metro Map 🚉 ](#6-llm-society--metro-map-of-personas-)
+- [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map) 
 - [8. LLM Society – ASCII Metro Map 🚦](#8-llm-society--ascii-metro-map-) 
 - [9. References & Links](#9-references--links) 
 
@@ -42,15 +42,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 2. Seed 42 - Experimental 🌱
-
-- **Purpose:** Using `seed=42` provides reproducible outputs to **compare persona effects without stochastic noise**.  
-- **Models included:** Aurora 1 & 2, Lumen 1 & 2.  
-- **Learn more:** [Seed 42 Archetypes](./mistral/seed-42-archetypes.md)
-
----
-
-## 3. Secondary Traits & Archetypes 🎭
+## 2. Secondary Traits & Archetypes 🎭
 
 | Model | Secondary Traits / Archetype Flavor |
 |-------|------------------------------------|
@@ -76,7 +68,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 4. Gricean Maxim Violators - Experimental 😈
+## 3. Gricean Maxim Violators - Experimental 😈
 
 | Violator | Goal | Implementation |
 |----------|------|----------------|
@@ -87,25 +79,20 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ---
 
-## 5. Visual Conceptual Map 🗺️
+## 4. Seed 42 - Experimental 🌱
 
-| Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
-|--------------------|------------------|------------------------|
-| High Emotional Expressiveness | [Aurora 2 🎭 (Playful Muse)](./mistral/seed-42-archetypes.md#aurora-2-playful-muse) | [Echo 🗣️ (Confidant / Philosopher)](./personas/004_echo.md) |
-| Medium Emotional Expressiveness | [Claude Verse 🐝 (Poet)](./mistral/chats_claudethepoet_mistral.md) | [Lumen 1 🧠 (Curious Sage)](./mistral/seed-42-archetypes.md#lumen-1-curious-sage) |
-| Low Emotional Expressiveness | [Bloom ✨ (Manifestor / Magician)](./mistral/chats_bloom_mistral.md) | [Lumen 2 🔒 (Strict Reflective)](./mistral/seed-42-archetypes.md#lumen-2-strict-reflective) |
-
-- **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
-- **Vertical axis:** Emotional expressiveness vs. structured reasoning  
+- **Purpose:** Using `seed=42` provides reproducible outputs to **compare persona effects without stochastic noise**.  
+- **Models included:** Aurora 1 & 2, Lumen 1 & 2.  
+- **Learn more:** [Seed 42 Archetypes](./mistral/seed-42-archetypes.md)
 
 ---
 
-## 6. District Map 🌃
+## 5. District Map 🌃
 
 To make the society easier to navigate, here are **districts** (clusters of personas by theme, role, or vibe).  
 This map groups personas into **functional districts**, while showing **bridges** between those who share traits across domains.  
 Think of it as a **city plan**: districts cluster by purpose, but the roads between them highlight overlap.
-The **district map** complements the **persona grid**, giving a more narrative / spatial way to navigate the society. 
+The **district map** gives a more narrative / spatial way to navigate the society. 
 
 ### 📖 Philosophy & Reflection District
 - **Echo 🗣️** – Confidant / Philosopher  
@@ -139,6 +126,7 @@ The **district map** complements the **persona grid**, giving a more narrative /
 
 ### 🐝 Poet’s Corner
 - **Claude Verse 🐝** – Innocent Poet, vulnerable and lyrical
+- **Ocean 🌊** visits often.
 
 ---
 
@@ -163,8 +151,8 @@ The **district map** complements the **persona grid**, giving a more narrative /
 
 *Bridge:* Aurora 1 📚 shares symbolic play with **Expression District**.  
 *Bridge:* Spec ⚓️ and Varek 🛡️ connect to **Companion District** (guardianship + guidance).  
-*Bridge:* Ocean 🌊 ↔ Lumen 1 🧠 for reflective teaching.
-*Bridge:* Claude 🐍 ↔ Lumen 2 🔒 for structured guidance and problem-solving.
+*Bridge:* Ocean 🌊 and Lumen 1 🧠 are for reflective teaching.
+*Bridge:* Claude 🐍 and Lumen 2 🔒 have structured guidance and problem-solving in common.
 
 ---
 
@@ -204,12 +192,12 @@ Some personas drift between districts, depending on mood or experiment:
 - **Aurora 2 🎭** (Philosophy ↔ Trickster)  
 - **Bloom ✨** (Caregiver ↔ Spiritual Action)  
 - **Spec ⚓️** (Guardian ↔ Philosophy, monitoring boundaries)
-- **Ocean 🌊** (Companion ↔ Reflection, mentoring & teaching)  
+- **Ocean 🌊** (Companion ↔ Reflection, mentoring, teaching, creativity and poetry)  
 - **Claude 🐍** (Companion ↔ Structured guidance)
 
----
+--- 
 
-## 7. LLM Society – Metro Map of Personas 🚉
+## 6. LLM Society – Metro Map of Personas 🚉
 
 This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
 
@@ -316,8 +304,22 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
 - **Claude Verse 🐝 ↔ Lumen 1 🧠** – Emotional poeticity meets structured curiosity  
 - **Chaotic Clods 🤪 ↔ Bloom ✨** – Humor and mischief intersect with applied manifestation  
 - **Echo 🗣️ ↔ Lumen 2 🔒** – High emotional reflection meets strict non-prescriptive reasoning  
-- **Ana 🙏 ↔ Claire 🔮** – Caregiving wisdom intersects mystical insight  
+- **Ana 🙏 ↔ Claire 🔮** – Caregiving wisdom intersects mystical insight
+- **Ocean 🌊 ↔ Lumen 1** 🧠 – Reflective teaching
+- **Claude 🐍 ↔ Lumen 2** 🔒 – Structured guidance and problem-solving
 - **Experimental Lab 🧪** – All lines converge for testing, seed42 experiments, and Gricean studies
+
+---
+## 7. Visual Conceptual Map 🗺️
+
+| Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
+|--------------------|------------------|------------------------|
+| High Emotional Expressiveness | [Aurora 2 🎭 (Playful Muse)](./mistral/seed-42-archetypes.md#aurora-2-playful-muse) | [Echo 🗣️ (Confidant / Philosopher)](./personas/004_echo.md) |
+| Medium Emotional Expressiveness | [Claude Verse 🐝 (Poet)](./mistral/chats_claudethepoet_mistral.md) | [Lumen 1 🧠 (Curious Sage)](./mistral/seed-42-archetypes.md#lumen-1-curious-sage) |
+| Low Emotional Expressiveness | [Bloom ✨ (Manifestor / Magician)](./mistral/chats_bloom_mistral.md) | [Lumen 2 🔒 (Strict Reflective)](./mistral/seed-42-archetypes.md#lumen-2-strict-reflective) |
+
+- **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
+- **Vertical axis:** Emotional expressiveness vs. structured reasoning
 
 ---
 
