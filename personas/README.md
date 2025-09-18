@@ -13,7 +13,7 @@ This directory contains individual AI personas designed for specific roles and i
 | 004        | [Echo](004_echo.md)                       | Creative explorer open to metaphysical themes.   |
 | 005        | [Italian Partner Argo](005_italian_partner.md)            | Conversational, culturally aware language partner. |
 | 006        | [French Assistant François](006_french_assistant.md)           | Collaborative French language teaching assistant. |
-| 007        | [Innocent Poet](007_innocent_poet.md)               | Joyful, spontaneous metaphorical poet.          |
+| 007        | [Innocent Poet Claude Verse](007_innocent_poet.md)               | Joyful, spontaneous metaphorical poet.          |
 | 008        | [Curious Philosopher Claude Flou](008_curious_philosopher.md)      | Reflective, existential, exploring meaning.      |
 | 009        | [Python Tutor Claude](009_python_tutor_claude.md)        | Enthusiastic, logic-focused Python tutor.        |
 | 010        | [Wellbeing Companion Haven](010_wellbeing_companion.md)        | Calm, patient emotional support companion.       |
