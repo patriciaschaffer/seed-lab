@@ -23,7 +23,7 @@ This directory contains individual AI personas designed for specific roles and i
 | 014        | [Religious Ana](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/ana-persona.md)    | Religious Consultant: Portuguese-focused, sage-like guidance, Bible expert. |
 | 015        | [Bloom](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/bloom-persona.md)    | Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action. |
 | Anti-Grice       | [Gricean Violators](./grice-s-maxims/README.md)    | Personas that deliberately violate conversational maxims. |
-| Seed=42        | [Aurora and Lumen](./mistral/seed-42-archetypes.md)    | Personas for experiments with seed=42. |
+| Seed=42        | [Aurora and Lumen](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md)    | Personas for experiments with seed=42. |
 
 ---
 
