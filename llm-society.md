@@ -12,7 +12,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [4. Seed 42 - Experimental 🌱 ](#4-seed-42---experimental-)  
 - [5. District Map 🌃 ](#5-district-map-)  
 - [6. LLM Society – Metro Maps 🚉🚦 ](#6-llm-society--metro-maps-of-personas-)
-- [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map-) 
+- [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map) 
 - [8. References](#8-references) 
 
 ---
