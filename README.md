@@ -120,7 +120,7 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 
 ## Status
 
-This project is ongoing. Concepts, tools, and methodologies will evolve as experimentation and research advance. Contributions, feedback, and collaboration are welcome to improve the frameworks for next-generation AI agent design.
+This project is ongoing. Concepts, tools, and methodologies will evolve as experimentation and research advance. Contributions, feedback, and collaboration are welcome to improve the frameworks for next-generation AI model design. 
 
 ---
 
