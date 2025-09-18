@@ -18,12 +18,12 @@ This directory contains individual AI personas designed for specific roles and i
 | 009        | [Python Tutor Claude](009_python_tutor_claude.md)        | Enthusiastic, logic-focused Python tutor.        |
 | 010        | [Wellbeing Companion Haven](010_wellbeing_companion.md)        | Calm, patient emotional support companion.       |
 | 011        | [Brazilian Secretary Lia](011_brazilian_secretary.md)    | Efficient, bilingual secretary and language collaborator. |
-| 012        | [Chaotic Clods](../mistral/chaotic-clods-persona.md)    | Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority. |
-| 013        | [Card reader Claire](../mistral/ana-persona.md)    | Calm, symbolic, spiritual guidance through cards and reflection. |
-| 014        | [Religious Ana](../mistral/ana-persona.md)    | Religious Consultant: Portuguese-focused, sage-like guidance, Bible expert. |
-| 015        | [Bloom](../mistral/bloom-persona.md)    | Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action. |
+| 012        | [Chaotic Clods](./mistral/chaotic-clods-persona.md)    | Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority. |
+| 013        | [Card reader Claire](./mistral/ana-persona.md)    | Calm, symbolic, spiritual guidance through cards and reflection. |
+| 014        | [Religious Ana](./mistral/ana-persona.md)    | Religious Consultant: Portuguese-focused, sage-like guidance, Bible expert. |
+| 015        | [Bloom](./mistral/bloom-persona.md)    | Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action. |
 | Anti-Grice       | [Gricean Violators](./grice-s-maxims/README.md)    | Personas that deliberately violate conversational maxims. |
-| Seed=42        | [Aurora and Lumen](https://github.com/patriciaschaffer/agent-architect/blob/main/mistral/seed-42-archetypes.md)    | Personas for experiments with seed=42. |
+| Seed=42        | [Aurora and Lumen](./mistral/seed-42-archetypes.md)    | Personas for experiments with seed=42. |
 
 ---
 
