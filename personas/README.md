@@ -6,6 +6,7 @@ This directory contains individual AI personas designed for specific roles and i
 
 | Persona ID | Name                       | Description                                  |
 |------------|----------------------------|----------------------------------------------|
+| Map        | [LLM Society](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) | Visual map of personas.  |
 | 001        | [Python Tutor Ocean](001_python_tutor_ocean.md)          | Empathetic, nurturing Python tutor with warmth.  |
 | 002        | [Mentor](002_mentor.md)                      | Protective, analytical guide and problem solver. |
 | 003        | [Projection Resistant Models](003_projection_resistant_models.md) | Disciplined, clear, and projection-resistant.    |
