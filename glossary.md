@@ -79,7 +79,7 @@ A fictional character that represents a typical user of a product or system, use
 
 ### Grice’s Maxims  
 A set of conversational principles — Quantity, Quality, Relation, and Manner — that describe how humans typically cooperate in communication.  
-LLMs can follow these patterns statistically, but do not understand or intend them.
+LLMs can follow these patterns statistically, but do not understand or intend them. 🤔
 
 ---
 
