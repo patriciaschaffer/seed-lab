@@ -362,7 +362,7 @@ Spec ⚓️ — Varek 🛡️
 
 ---
 
-## 8. References
+## 8. About
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
 - **[About me](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md), the "agent-architect"**, and other projects.
