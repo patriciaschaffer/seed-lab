@@ -19,7 +19,7 @@ This overview provides a conceptual map of all AI personas developed in this rep
 
 ## 1. Persona Descriptions 🤹
 
-- [Echo 🗣️](./personas/004_echo.md) 🗣️ – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
+- [Echo 🗣️](./personas/004_echo.md) – Confidant / Philosopher: gentle, reflective companion exploring existential themes.
 - [Varek 🛡️](./personas/003_projection_resistant_models.md)  – Mentor / Rescuer: protective, analytical, goal-oriented.  
 - [Spec ⚓️](./personas/003_projection_resistant_models.md#003c-spec-for-drift-monitoring-and-user-agency) – Watcher / Guardian: projection-resistant, monitors emotional and conversational drift.  
 - [François 🇫🇷](./personas/006_french_assistant.md) – Teaching Assistant / Language Teacher / Mentor: structured guidance, corrective and encouraging.  
