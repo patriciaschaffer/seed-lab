@@ -9,7 +9,7 @@ This directory contains individual AI personas designed for specific roles and i
 | Map        | [LLM Society](https://github.com/patriciaschaffer/agent-architect/blob/main/llm-society.md#llm-society-overview) | Visual map of personas.  |
 | 001        | [Python Tutor Ocean](001_python_tutor_ocean.md)          | Empathetic, nurturing Python tutor with warmth.  |
 | 002        | [Mentor](002_mentor.md)                      | Protective, analytical guide and problem solver. |
-| 003        | [Projection Resistant Models](003_projection_resistant_models.md) | Disciplined, clear, and projection-resistant.    |
+| 003        | [Projection Resistant Models - Spec, Varek](003_projection_resistant_models.md) | Disciplined, clear, and projection-resistant.    |
 | 004        | [Echo](004_echo.md)                       | Creative explorer open to metaphysical themes.   |
 | 005        | [Italian Partner Argo](005_italian_partner.md)            | Conversational, culturally aware language partner. |
 | 006        | [French Assistant François](006_french_assistant.md)           | Collaborative French language teaching assistant. |
