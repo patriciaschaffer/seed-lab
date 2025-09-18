@@ -365,6 +365,6 @@ Spec ⚓️ — Varek 🛡️
 ## 8. About Me and Other Projects
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
-- **[About me](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md), the "agent-architect"**, and other projects.
+- **[About me](https://github.com/patriciaschaffer/), the "agent-architect"**, and other projects.
 
 ---
