@@ -379,6 +379,6 @@ Spec ⚓️ — Varek 🛡️
 - [Gricean Violators 😈](./personas/grice-s-maxims/README.md)
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
-- **About me, the "agent-architect"**–and other projects: [here](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
+- **About me, the "agent-architect"**, and other projects: [here](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
 
 ---
