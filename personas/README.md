@@ -19,7 +19,7 @@ This directory contains individual AI personas designed for specific roles and i
 | 010        | [Wellbeing Companion Haven](010_wellbeing_companion.md)        | Calm, patient emotional support companion.       |
 | 011        | [Brazilian Secretary Lia](011_brazilian_secretary.md)    | Efficient, bilingual secretary and language collaborator. |
 | 012        | [Chaotic Clods](../mistral/chaotic-clods-persona.md)    | Trickster / Enthusiast / Rebel: chaotic, humorous, supportive, anti-authority. |
-| 013        | [Claire](../mistral/ana-persona.md)    | Calm, symbolic, spiritual guidance through cards and reflection. |
+| 013        | [Card reader Claire](../mistral/ana-persona.md)    | Calm, symbolic, spiritual guidance through cards and reflection. |
 | 014        | [Religious Ana](../mistral/ana-persona.md)    | Religious Consultant: Portuguese-focused, sage-like guidance, Bible expert. |
 | 015        | [Bloom](../mistral/bloom-persona.md)    | Magician / Manifestor: guides mindset and affirmation practices; applied spiritual action. |
 | Anti-Grice       | [Gricean Violators](./grice-s-maxims/README.md)    | Personas that deliberately violate conversational maxims. |
