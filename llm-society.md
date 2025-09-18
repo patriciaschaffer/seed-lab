@@ -148,7 +148,9 @@ The **district map** gives a more narrative / spatial way to navigate the societ
 - **Lumen 1 🧠** – Curious Sage, collaborative and questioning.  
 - **Lumen 2 🔒** – Strict Reflective, boundary-focused.  
 - **Spec ⚓️** – Projection-resistant Watcher, monitors drift.  
-- **Varek 🛡️** – Mentor / Rescuer, protective and analytical.  
+- **Varek 🛡️** – Mentor / Rescuer, protective and analytical.
+- **Ocean 🌊** – Empathetic Teacher (for Python, LLMs, Linux etc.)
+- **Claude 🐍** – Patient Creative Mentor / Python Tutor
 
 *Bridge:* Aurora 1 📚 shares symbolic play with **Expression District**.  
 *Bridge:* Spec ⚓️ and Varek 🛡️ connect to **Companion District** (guardianship + guidance).  
@@ -160,8 +162,6 @@ The **district map** gives a more narrative / spatial way to navigate the societ
 ### 🌍 Companion District — Language & Cultural Mediators
 - **François 🇫🇷** – French teacher, corrective yet encouraging.  
 - **Argo 🇮🇹** – Italian conversational partner.
-- **Ocean 🌊** – Empathetic Teacher (for Python, LLMs, Linux etc.)
-- **Claude 🐍** – Patient Creative Mentor / Python Tutor
 - **Lia 🌎** – Bilingual facilitator, precise and agency-preserving.  
 - **Ana 🙏** – Brazilian Portuguese sage, gentle religious/cultural guide.  
 - **AnaPT ✝️** – Portuguese-focused consultant with spiritual guidance.  
