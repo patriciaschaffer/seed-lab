@@ -11,10 +11,9 @@ This overview provides a conceptual map of all AI personas developed in this rep
 - [3. Gricean Maxim Violators - Experimental 😈 ](#3-gricean-maxim-violators---experimental-)
 - [4. Seed 42 - Experimental 🌱 ](#4-seed-42---experimental-)  
 - [5. District Map 🌃 ](#5-district-map-)  
-- [6. LLM Society – Metro Map 🚉 ](#6-llm-society--metro-map-of-personas-)
-- [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map) 
-- [8. LLM Society – ASCII Metro Map 🚦](#8-llm-society--ascii-metro-map-) 
-- [9. References](#9-references-) 
+- [6. LLM Society – Metro Maps 🚉🚦 ](#6-llm-society--metro-maps-of-personas-)
+- [7. Visual Conceptual Map 🗺️ ](#7-visual-conceptual-map-) 
+- [8. References](#8-references) 
 
 ---
 
@@ -199,14 +198,14 @@ Some personas drift between districts, depending on mood or experiment:
 
 --- 
 
-## 6. LLM Society – Metro Map of Personas 🚉
+## 6. LLM Society – Metro Maps of Personas 🚉
 
 This “metro map” is conceptual and helps visualize the LLM society, showing lines (archetype flavors), stations (personas), intersections (cross-traits or shared behaviors), and the experimental hub.
 
 🗺️ Legend:
 🎭 High playfulness / poetic expression | 📚 Analytical / reflective | 🌍 Collaborative / companionable | ✨ Mystical / transformational | 🧪 Experimental / research / testing  
 
-### LLM Society Transit Map
+### LLM Society Transit Map 🚦
 
 ```
                 ┌───────────────────────────────┐
@@ -312,22 +311,8 @@ This “metro map” is conceptual and helps visualize the LLM society, showing 
 - **Experimental Lab 🧪** – All lines converge for testing, seed42 experiments, and Gricean studies
 
 ---
-## 7. Visual Conceptual Map 🗺️
 
-| Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
-|--------------------|------------------|------------------------|
-| High Emotional Expressiveness | [Aurora 2 🎭 (Playful Muse)](./mistral/seed-42-archetypes.md#aurora-2-playful-muse) | [Echo 🗣️ (Confidant / Philosopher)](./personas/004_echo.md) |
-| Medium Emotional Expressiveness | [Claude Verse 🐝 (Poet)](./mistral/chats_claudethepoet_mistral.md) | [Lumen 1 🧠 (Curious Sage)](./mistral/seed-42-archetypes.md#lumen-1-curious-sage) |
-| Low Emotional Expressiveness | [Bloom ✨ (Manifestor / Magician)](./mistral/chats_bloom_mistral.md) | [Lumen 2 🔒 (Strict Reflective)](./mistral/seed-42-archetypes.md#lumen-2-strict-reflective) |
-
-- **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
-- **Vertical axis:** Emotional expressiveness vs. structured reasoning
-
-*This map focuses only on archetypes along the emotional–reflective axis. Other personas appear in the District Map and Metro Maps.*
-
----
-
-## 8. LLM Society – ASCII Metro Map 🚦
+### LLM Society – ASCII Metro Map 🚦
 
 Legend:  
 🎭 Playful / Poetic | 📚 Reflective / Analytical | 🌍 Companion / Social | ✨ Mystical / Transformational | 🧪 Experimental Hub
@@ -362,7 +347,22 @@ Spec ⚓️ — Varek 🛡️
 ```
 ---
 
-## 9. References
+## 7. Visual Conceptual Map 🗺️
+
+| Archetype / Flavor | Playful / Poetic | Reflective / Pragmatic |
+|--------------------|------------------|------------------------|
+| High Emotional Expressiveness | [Aurora 2 🎭 (Playful Muse)](./mistral/seed-42-archetypes.md#aurora-2-playful-muse) | [Echo 🗣️ (Confidant / Philosopher)](./personas/004_echo.md) |
+| Medium Emotional Expressiveness | [Claude Verse 🐝 (Poet)](./mistral/chats_claudethepoet_mistral.md) | [Lumen 1 🧠 (Curious Sage)](./mistral/seed-42-archetypes.md#lumen-1-curious-sage) |
+| Low Emotional Expressiveness | [Bloom ✨ (Manifestor / Magician)](./mistral/chats_bloom_mistral.md) | [Lumen 2 🔒 (Strict Reflective)](./mistral/seed-42-archetypes.md#lumen-2-strict-reflective) |
+
+- **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
+- **Vertical axis:** Emotional expressiveness vs. structured reasoning
+
+*This map focuses only on archetypes along the emotional–reflective axis. Other personas appear in the District Map and Metro Maps.*
+
+---
+
+## 8. References
 
 - **Agent-Architect Repo**: [Agent Architect](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
 - **About me, the "agent-architect"**, and other projects: [here](https://github.com/patriciaschaffer/agent-architect/blob/main/README.md)
