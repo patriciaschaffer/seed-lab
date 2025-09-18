@@ -16,8 +16,9 @@ The study or design of agents and their behavior, especially in autonomous or in
 
 ---
 
-### Agent
-An autonomous entity that perceives its environment, makes decisions, and acts to achieve specific goals.
+### Agent  
+An entity capable of **intentional action** — choosing goals, forming plans, and acting independently.  
+LLMs are not agents. They may simulate agency, but they do not possess it.
 
 ---
 
@@ -34,12 +35,6 @@ A mathematical representation or algorithm trained on data to recognize patterns
 ### Alignment  
 The degree to which a system’s behavior matches human values, intentions, or safety expectations.  
 Clarifying the **non-agentic** nature of models is part of preserving alignment clarity.
-
----
-
-### Agent  
-An entity capable of **intentional action** — choosing goals, forming plans, and acting independently.  
-LLMs are not agents. They may simulate agency, but they do not possess it.
 
 ---
 
