@@ -57,6 +57,11 @@ Framing affects how users interact, trust, and defer responsibility.
 
 ---
 
+### Persona 
+A fictional character that represents a typical user of a product or system, used in design and development to understand user needs, behaviors, and goals.
+
+---
+
 ### Grice’s Maxims  
 A set of conversational principles — Quantity, Quality, Relation, and Manner — that describe how humans typically cooperate in communication.  
 LLMs can follow these patterns statistically, but do not understand or intend them.
