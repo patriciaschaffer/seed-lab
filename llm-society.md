@@ -358,7 +358,7 @@ Spec ⚓️ — Varek 🛡️
 - **Horizontal axis:** Playful & Poetic → Reflective & Pragmatic  
 - **Vertical axis:** Emotional expressiveness vs. structured reasoning
 
-*This map focuses only on archetypes along the emotional–reflective axis. Other personas appear in the District Map and Metro Maps.*
+*This chart focuses only on archetypes along the emotional–reflective axis. Other personas appear in the District Map and Metro Maps.*
 
 ---
 
