@@ -10,7 +10,7 @@ This project explores how to build a **local Retrieval-Augmented Generation (RAG
 - **Simulated Memory with RAG**: Use RAG to simulate memory by retrieving context relevant to each prompt.
 - **FAISS Integration**: Efficient vector similarity search using Facebook AI Similarity Search (FAISS).
 - **Embeddings**: Use sentence or document embeddings to store and retrieve semantically similar chunks of text.
-- **Token-Aware Chunking**: Integrated LangChain’s `TikToken` to handle token-based text splitting, ensuring chunk sizes stay within model context limits.
+- **Token-Aware Chunking**: Integrated LangChain’s `TikToken` to handle token-based text splitting, ensuring chunk sizes stay within model context limits. (My experience: LangChain adds its own system prompts and safety guidelines that can override the persona.)
 - **Interactive UI with Gradio**: Lightweight browser interface for querying the system in real-time.
 
 ---
