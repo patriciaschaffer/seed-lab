@@ -115,6 +115,9 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - `/pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
 - `/glossary.md` — Terminology, definitions
 - `/related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
+- `/insights` — Some of my writings and insights on LLMs 
+- `/research` — Bias in AI Responses: A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models
+- `/python-projects` — Visualizing a Small Language Model
 
 ---
 
