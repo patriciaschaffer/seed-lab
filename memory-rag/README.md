@@ -1,6 +1,6 @@
 # Local RAG with MistralAI – Simulated Memory via Contextual Retrieval
 
-This project explores how to build a **local Retrieval-Augmented Generation (RAG)** pipeline using **MistralAI** to simulate memory in large language models. The goal is to create customized language model behavior by enriching prompts with **relevant contextual data**, retrieved dynamically from a local vector store.
+This project explores how to build a **local Retrieval-Augmented Generation (RAG)** pipeline using **MistralAI** to simulate memory in large language models. The goal is to create customized language model behavior by enriching prompts with **relevant contextual data**, retrieved dynamically from a local vector store. *Status: Still trying to find the best local and offline system that keeps the persona + retrieves memories naturally and efficiently.*
 
 ---
 
