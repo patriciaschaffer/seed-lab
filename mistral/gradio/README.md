@@ -97,13 +97,6 @@ Open your browser and visit: [http://localhost:7860](http://localhost:7860)
 
 ---
 
-## 🆕 New Models on Gradio
-
-Additional models will be added in the future.  
-Each model will come with its own [persona](https://github.com/patriciaschaffer/agent-architect/blob/main/agent_persona_engineering.md#table-of-contents) or specialized behavior.
-
----
-
 ## 🔧 Customization
 
 You can customize the model's behavior with parameters such as:
@@ -135,7 +128,7 @@ response = llm(
 
 ---
 
-This version is adaptable for future models, and you can just modify the `Model` and `Usage` sections to suit each new addition. The instructions for running and customizing the models are general enough to apply to any future models you add, without needing to rewrite the README each time.
+This version is adaptable for future models, and you can just modify the `Model` and `Usage` sections to suit each new addition. The instructions for running and customizing the models are general enough to apply to any future models you add, without needing to rewrite the README each time. 
 
 ---
 
@@ -145,5 +138,3 @@ This version is adaptable for future models, and you can just modify the `Model`
    
    🔗 Connect on [LinkedIn](https://www.linkedin.com/in/patriciaschaffer)
 
-  *Acknowlegement: Thank you #Anthropic for #Claude, my main coding partner in this journey :) Credits to #ChatGPT as well!*
-  
