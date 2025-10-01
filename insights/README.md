@@ -19,8 +19,10 @@ Please note that the tone and complexity of these writings vary. Some are philos
 
 | Title                                             | Filename                              | Description                                                       |
 | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
+| The multiple layers of AI Safety (October 2025)                 | [multiple-layers-of-ai-safety.md](/insights/multiple-layers-of-ai-safety.md)  | Peeling the onion...          |
+| It's not about the model (September 2025)                 | [its-not-about-the-model.md](/insights/its-not-about-the-model.md)  | What is unsafe by design          |
 | Intermittent Conditioning, Psychosis, "Safety" (September 2025)                 | [ai-hooks.md](/insights/ai-hooks.md)  | Reflections on preserving human creativity alongside AI.          |
-| Maintaining Originality While Writing with AI (August 2025)                 | [maintaining-originality-with-ai.md](/insights/maintaining-originality-with-ai.md)  | Reflections on preserving human creativity alongside AI.          |
+| Maintaining Originality While Writing with AI (August 2025)                 | [maintaining-originality-with-ai.md](/insights/maintaining-originality-with-ai.md)  | AI Psychosis?          |
 | Designing Ethical AI: Interfaces That Inform Without Manipulating (August 2025) | [ethical-interface.md](/insights/ethical-interface.md)                | Principles for AI interfaces that respect users and transparency. |
 | Just a Mirror In the Room? (July 2025)                       | [mirror-in-the-room.md](/insights/mirror-in-the-room.md)                | Reflection on meaning, understanding, and emergence in LLMs.      |
 | Projection: Danger or Opportunity? (August 2025)               | [projection-danger-or-opportunity.md](/insights/projection-danger-or-opportunity.md) | Exploring psychological projection onto AI and its implications.  |
