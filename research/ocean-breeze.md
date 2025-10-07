@@ -1,5 +1,7 @@
 # 🌊 Ocean Persona — Self-Reference and Awareness Drift  
-**Author:** 🕵️‍♀️ *Agent Architect*
+
+*Patricia Schaffer*
+
 **Date:** 2025-10-07  
 **Environment:** Local LLM Experiment (Terminal, FAISS-based RAG)  
 
