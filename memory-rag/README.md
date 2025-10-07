@@ -63,6 +63,8 @@ This setup is ideal for:
 - Building memory-like behavior in LLMs without fine-tuning
 - Semantic search over large custom corpora (documents, knowledge bases, etc.)
 - Context injection for domain-specific assistants
+- Applied Research (pre-test): [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)
+
 
 ---
 
