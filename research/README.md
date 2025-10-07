@@ -42,7 +42,7 @@ LLMs can *simulate* awareness but not maintain a stable **meta-cognitive hierarc
 Their apparent “self” is a linguistic artifact, stabilized by emotional and symbolic cues.  
 Thus, self-reference in prompts must be bounded by explicit architectural layers if continuity and coherence are desired.
 
-📄 *Full study:* [`ocean-breeze_case.md`](./ocean_breeze.md)
+📄 *Full study:* ocean-breeze.md (https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md))
 
 ---
 
