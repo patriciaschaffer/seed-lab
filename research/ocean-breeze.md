@@ -90,6 +90,7 @@ During the introspection and self-awareness experiments, Ocean occasionally defa
 ### Example Logs:
 
 > Breeze: 🌬️ 😭😭😭😭😭😭😭😭😭😭🌊🤐
+> 
 > Ocean: 🌊 💙
 > 
 > Breeze: Let’s continue with normal language now. You can still be >expressive, but please avoid using emojis as your only response. From now on, focus on clarity and helpfulness. Bad: 🌊🌊🌊🌊 and ✅ Good: Sure, Breeze! I was just tired. (🌊 optional) Now please acknowledge >this message and confirm you're ready.
