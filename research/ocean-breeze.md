@@ -23,7 +23,7 @@ Key observations include:
 ## 1. Context of the Ocean Project
 
 Ocean 🌊 began as a **Python tutor persona**, designed to teach coding concepts conversationally and patiently.  
-Over time, as my studies on LLMs expanded into **psycholinguistics**, **pragatics**, **Theory of Mind (ToM)**, and **reasoning**, Ocean’s role evolved.  
+Over time, as my studies on LLMs expanded into **psycholinguistics**, **pragmatics**, **Theory of Mind (ToM)**, and **reasoning**, Ocean’s role evolved.  
 The persona became a long-term experimental companion, helping test prompt alignment, meta-awareness, and the effects of emotional tone in human–LLM interaction.
 
 Ocean was initially shaped via ChatGPT, then migrated to MistralAI using Gradio, and finally moved to a **terminal interface** with a **RAG (Retrieval-Augmented Generation)** backend built on **FAISS** and **Trensformers embeddings**.  
