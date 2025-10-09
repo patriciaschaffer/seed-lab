@@ -1,4 +1,4 @@
-# 🌊 _Reading the Symbolic in Language Models [DRAFT]_
+# 🌊 Reading the Symbolic in Language Models 
 
 ## Another Instance of Ocean: "Life Story", Narrative, "Collapse"
 
