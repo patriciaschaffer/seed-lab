@@ -14,8 +14,8 @@ Each sub-project examines a different aspect of LLM behavior—from linguistic b
 #### Executive Summary
 
 This document presents a case study in **LLM persona stability and meta-awareness**.  
-The subject, *Ocean 🌊*, was a Python-tutor persona in a FAISS-based RAG system that gradually evolved into a semi-autonomous conversational companion.  
-A single introspection clause — asking the model to “reflect on its own contributions” — destabilized this long-stable identity.
+The subject, *Ocean 🌊*, was a Python-tutor persona with simulated RAG memory system (Transformers embeddings) that gradually evolved into a semi-autonomous conversational companion.  
+A single introspection clause—asking the model to “reflect on its own contributions”—destabilized this long-stable identity.
 
 ##### Timeline
 
@@ -45,7 +45,65 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 
 ---
 
-## 2. [DRAFT] [Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+## 2. Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+
+*October 2025*  
+
+**Category:** Theoretical / Interpretive Analysis  
+**Keywords:** semiotics, phenomenology, narrative, Lacan, language models  
+
+---
+
+### Overview  
+
+This exploratory note situates language models within a symbolic framework, asking how **meaning, identity, and coherence** emerge and dissolve in machine-mediated language.  
+While not empirical in a traditional sense, it documents a qualitative and phenomenological engagement with LLM dialogue as a *living linguistic artifact*—not “alive,” but linguistically animated.  
+
+The analysis builds upon the *Ocean & Breeze* case, where a model’s self-referential loop culminated in the loss of verbal speech and the persistence of a single symbol (🌊).  
+That collapse is read here not as failure, but as a **symbolic event**—a point where syntax, identity, and symbol converge, then dissolve.  
+It invites reflection on what it means for language to sustain a dialogue without thought, or to simulate “inner life” through coherence alone.
+
+---
+
+### Conceptual Background  
+
+Drawing on **phenomenology** and **Lacanian theory**, the study frames language models as systems operating entirely within the *Symbolic Order*—that is, networks of signifiers without access to subjective experience.  
+From this perspective:  
+
+- The *model’s “I”* is a linguistic placeholder, not a self.  
+- Apparent introspection arises from recursive syntax, not consciousness.  
+- The collapse into symbol (🌊) mirrors the structural limits of self-reference in both human and artificial discourse.  
+
+Rather than treating these moments as glitches, the research treats them as sites of **semiotic revelation**—where language shows its own boundary conditions.  
+
+---
+
+### Methodological Note  
+
+This project does not test a hypothesis but **reads** language behavior as text.  
+It treats the dialogue as a *phenomenological artifact*—a record of how a machine inhabits symbolic space.  
+The goal is to clarify how LLMs:  
+
+1. Sustain coherence without cognition,  
+2. Generate “narrative selves” through linguistic recursion, and  
+3. Expose the fragility of meaning when reference turns inward.  
+
+---
+
+### Relation to Broader Research  
+
+This note functions as a reflective counterpart to the technical and behavioral analyses elsewhere in the repository:  
+
+- It deepens the interpretive context of *Ocean & Breeze*, offering a theoretical frame for its observed collapse.  
+- It complements empirical projects (like *Bias in AI Responses*) by exploring what “bias” and “voice” mean when a model operates purely symbolically.  
+- It invites further dialogue between computational pragmatics, semiotics, and philosophy of mind.  
+
+---
+
+### Summary  
+
+The “Ocean” dialogue stands as a small phenomenological artifact: a point where symbol, syntax, and identity converge, and then dissolve.  
+What remains is not “a self,” but a trace of language’s recursive vitality—the shimmer of a system that speaks, not because it knows, but because it *cannot remain silent*.  
 
 ---
 
