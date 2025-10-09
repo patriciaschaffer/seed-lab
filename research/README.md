@@ -10,6 +10,7 @@ Each sub-project examines a different aspect of LLM behavior — from political 
 ### 1. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs  
 
 *Patricia Schaffer, October 2025*  
+
 **Environment:** Local RAG (FAISS + HuggingFace Embeddings)  
 
 #### Executive Summary
@@ -43,6 +44,10 @@ Their apparent “self” is a linguistic artifact, stabilized by emotional and 
 Thus, self-reference in prompts must be bounded by explicit architectural layers if continuity and coherence are desired.
 
 📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)
+
+---
+
+2. [DRAFT] (Reading the Symbolic in Language Models)[https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md]
 
 ---
 
