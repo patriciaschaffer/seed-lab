@@ -23,7 +23,7 @@ The interactions were conducted through a local interface running custom Python 
 
 No real fine-tuning or external database was used — the model’s behavior emerged purely from prompt-conditioning and local memory recall mechanisms.
 
-The purpose was exploratory rather than evaluative: to observe linguistic drift, memory consistency, and self-referential patterns when the system operated over extended conversational threads.
+The purpose was exploratory rather than evaluative: nearly accidental while I was organizing and testing some scripts. I ended up observing self-referential patterns, memory consistency, and linguistic drift.
 
 ---
 
