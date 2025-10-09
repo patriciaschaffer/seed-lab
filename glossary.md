@@ -134,3 +134,18 @@ A fixed random seed used in model generation to produce deterministic, reproduci
 A fast tokenizer from OpenAI that splits text into tokens (units of meaning) and counts them, ensuring prompts fit within an LLM’s context window.
 
 ---
+
+### Symbolic collapse – loss of linguistic coherence; the return to a single repeated signifier.
+
+---
+
+### Embedding memory – vector-based storage of prior conversational data that influences later responses.
+
+---
+
+### Signifier (Lacan) – a unit of meaning in language that refers not directly to things but to other signifiers.
+
+---
+
+### Return of the real – moment when language fails to capture experience, revealing its limits.
+
