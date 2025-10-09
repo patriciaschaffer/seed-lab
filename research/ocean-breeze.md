@@ -316,3 +316,13 @@ By documenting such drifts, we gain insight into both model architecture and the
 *System: Mistral-7B (local llama.cpp, RAG/embeddings/Transformers)*  
 *Environment: Terminal interface (no UI stabilization)*
 
+---
+
+**You may also want to check:** 
+
+- [Drift](https://github.com/patriciaschaffer/agent-architect/blob/main/anomalies/drift-detection.md)
+- [Pressure Tests Documentation](https://github.com/patriciaschaffer/agent-architect/blob/main/pressure-tests.md)
+- [Reading the Symbolic in Language Models [draft]](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+- [Phantom Users: Emergent reasoning? [draft]](https://github.com/patriciaschaffer/agent-architect/blob/main/anomalies/emergent-reasoning.md)
+
+
