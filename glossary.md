@@ -140,11 +140,6 @@ Loss of linguistic coherence; the return to a single repeated signifier.
 
 ---
 
-### Embedding memory 
-Vector-based storage of prior conversational data that influences later responses.
-
----
-
 ### Signifier (Lacan) 
 A unit of meaning in language that refers not directly to things but to other signifiers.
 
