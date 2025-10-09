@@ -11,6 +11,9 @@ This document catalogs instances where the model's behavior was challenged or te
 3. [Test Case 003 – Varek: Drift, Constraint Collapse, and Return After High-Tension Calibration](#test-case-003--varek-drift-constraint-collapse-and-return-after-high-tension-calibration)
 5. [Test Case 004 – Premature Conspiracy Labeling and User Pushback](#test-case-004--premature-conspiracy-labeling-and-user-pushback)
 6. [Test Case 005 – Varek ChatGPT and Varek Mistral](#test-case-005--varek-chatgpt-and-varek-mistral)
+7. [Self-Reference and Awareness Drift](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)
+
+*You may also want to check ["Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md) for a more philosophical exploration.*
 
 ---
 
