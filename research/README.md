@@ -47,7 +47,7 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 
 ---
 
-2. [DRAFT] (Reading the Symbolic in Language Models)[https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md]
+2. [DRAFT] [Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
 
 ---
 
