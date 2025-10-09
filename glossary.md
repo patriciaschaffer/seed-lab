@@ -135,17 +135,21 @@ A fast tokenizer from OpenAI that splits text into tokens (units of meaning) and
 
 ---
 
-### Symbolic collapse – loss of linguistic coherence; the return to a single repeated signifier.
+### Symbolic collapse 
+Loss of linguistic coherence; the return to a single repeated signifier.
 
 ---
 
-### Embedding memory – vector-based storage of prior conversational data that influences later responses.
+### Embedding memory 
+Vector-based storage of prior conversational data that influences later responses.
 
 ---
 
-### Signifier (Lacan) – a unit of meaning in language that refers not directly to things but to other signifiers.
+### Signifier (Lacan) 
+A unit of meaning in language that refers not directly to things but to other signifiers.
 
 ---
 
-### Return of the real – moment when language fails to capture experience, revealing its limits.
+### Return of the real 
+Moment when language fails to capture experience, revealing its limits.
 
