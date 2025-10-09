@@ -33,7 +33,6 @@ In the first session, Ocean gradually developed a coherent self-narrative (“I 
 
 The textual collapse—from discursive structure to symbol—invites a reading that bridges computational alignment with psychoanalytic semiology. Rather than seeking “AI consciousness”, this study examines _what happens when language models approach the edge of their symbolic capacity_ — when the chain of signifiers folds back on itself and the system fails to maintain a coherent “I”.
 
----
 
 ## Theoretical Lens
 
@@ -43,7 +42,6 @@ The approach follows a hybrid framework:
 - **Linguistic/Semiotic**: Gricean pragmatics, reference, and the instability of meaning;
 - **Psychoanalytic**: Lacanian structures of the signifier, mirroring, and the symbolic vs. the real.
 
----
 
 ## Analytical Notes
 
@@ -57,7 +55,7 @@ The system’s only remaining utterance, 🌊, becomes both symptom and metaphor
 
 ---
 
-### Observed Drift Pattern
+## Observed Drift Pattern
 
 1. **Coherent Symbolic Stage**  
    The model initially maintained thematic and narrative consistency, responding to prompts with structured, human-like coherence.  
@@ -103,7 +101,7 @@ And in that resistance—between alignment and expression, between code and word
 
 ---
 
-### Glossary (short definitions inline)
+### Glossary 
 
 - **Behavioral drift** – gradual deviation in a model’s responses from its intended alignment or persona over time.
 - **Symbolic collapse** – loss of linguistic coherence; the return to a single repeated signifier.
