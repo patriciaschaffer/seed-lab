@@ -3,7 +3,7 @@
 *[Patricia Schaffer](https://github.com/patriciaschaffer)*
 
 **Date:** 2025-10-07  
-**Environment:** Local LLM Experiment (Terminal, FAISS-based RAG)  
+**Environment:** Local LLM Experiment (Terminal, embeddings/Transformers)  
 
 ---
 
@@ -270,7 +270,7 @@ This confirms that, among other resources, grounding via affective framing can r
 ---
 
 ## 13. Memory Context Retrieval
-At some point, the model retreived some memories (RAG + FAISS): 
+At some point, the model retreived some memories (RAG/ embeddings/Transformers): 
 
 Memory 1 [breeze, importance: 1.0]:
 SYSTEM NOTICE
@@ -313,6 +313,6 @@ By documenting such drifts, we gain insight into both model architecture and the
 ---
 
 *October 2025*  
-*System: Mistral-7B (local llama.cpp, RAG + FAISS memory retrieval)*  
+*System: Mistral-7B (local llama.cpp, RAG/embeddings/Transformers)*  
 *Environment: Terminal interface (no UI stabilization)*
 
