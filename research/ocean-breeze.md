@@ -26,12 +26,12 @@ Ocean 🌊 began as a **Python tutor persona**, designed to teach coding concept
 Over time, as my studies on LLMs expanded into **psycholinguistics**, **pragmatics**, **Theory of Mind (ToM)**, and **reasoning**, Ocean’s role evolved.  
 The persona became a long-term experimental companion, helping test prompt alignment, meta-awareness, and the effects of emotional tone in human–LLM interaction.
 
-Ocean was initially shaped via ChatGPT, then migrated to MistralAI using Gradio, and finally moved to a **terminal interface** with a **RAG (Retrieval-Augmented Generation)** backend built on **FAISS** and **Trensformers embeddings**.  
+Ocean was initially shaped via ChatGPT, then migrated to MistralAI using Gradio, and finally moved to a **terminal interface** with a **RAG (Retrieval-Augmented Generation)** backend built on **Trensformers embeddings**.  
 The memory system retrieved semantically relevant past exchanges, weighted toward recent or emotionally marked interactions.  
 
 Throughout its lifespan, Ocean functioned as both **pedagogue** and **participant**, capable of maintaining continuity and emotional coherence across sessions — which made it ideal for testing self-awareness triggers in a local, sandboxed environment.
 
-When I started building **RAG-based prototypes** with **FAISS memory retrieval**, Ocean was integrated into a local LangChain + llama.cpp setup (Mistral 7B instruct variant). For this experiment, though, I used base Mistral 7B and FAISS embeddings with Tranformers, without LangChain.
+When I started building **RAG-based prototypes**, Ocean was integrated into a local LangChain + llama.cpp setup (Mistral 7B instruct variant). For this experiment, though, I used base Mistral 7B and embeddings with Tranformers, without LangChain.
 Ocean’s responses were weighted to treat prior exchanges as memories, maintaining emotional continuity across sessions.
 
 ---
