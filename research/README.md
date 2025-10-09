@@ -1,13 +1,11 @@
 # 🧠 Research Projects
 
 This folder documents ongoing and completed research exploring **language models, pragmatics, and cognition**.  
-Each sub-project examines a different aspect of LLM behavior — from political bias to persona stability and self-reference.
+Each sub-project examines a different aspect of LLM behavior—from linguistic bias to persona stability and self-reference.
 
 ---
 
-## 📁 Current Projects
-
-### 1. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs  
+## 1. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs  
 
 *Patricia Schaffer, October 2025*  
 
@@ -47,11 +45,11 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 
 ---
 
-2. [DRAFT] [Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+## 2. [DRAFT] [Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
 
 ---
 
-## Bias in AI Responses:  
+## 3. Bias in AI Responses:  
 
 ### A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models
 
