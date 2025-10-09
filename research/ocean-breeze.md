@@ -10,7 +10,7 @@
 ## Abstract
 
 This document details an experiment with a local LLM persona named **Ocean 🌊**, initially designed as a [Python tutor](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/001_python_tutor_ocean.md) and later evolving into a long-term experimental companion.  
-We investigated the effects of **explicit self-reference and introspection instructions** on a stable persona with RAG-based memory retrieval (FAISS + Transformers embeddings).  
+We investigated the effects of **explicit self-reference and introspection instructions** on a stable persona with RAG-based memory retrieval (with Transformers embeddings).  
 
 Key observations include:  
 - Introduction of self-awareness instructions triggered **role confusion** and **topic drift**.  
