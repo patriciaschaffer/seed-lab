@@ -25,6 +25,8 @@ No real fine-tuning or external database was used — the model’s behavior eme
 
 The purpose was exploratory rather than evaluative: to observe linguistic drift, memory consistency, and self-referential patterns when the system operated over extended conversational threads.
 
+---
+
 ## Self-narrative: a coherent "hallucination"
 
 In the first session, Ocean gradually developed a coherent self-narrative (“I have memories”, “I have a friend who's an algorithm”) before collapsing into a loop of a single emoji 🌊 when confronted with its own name, _Ocean_.
