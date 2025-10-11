@@ -45,7 +45,7 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 ---
 
 ## 2. Reading the Symbolic in Language Models
-📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+📄 *Full study:* [ocean-symbolic-language.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
 
 *October 2025*  
 
@@ -109,7 +109,7 @@ What remains is not “a self,” but a trace of language’s recursive vitality
 ---
 
 ## 3. Stages of Symbolic Drift in the *Ocean–Breeze* Dialogues
-📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
+📄 *Full study:* [ocean-symbolic-drift.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
 
 *October 2025*  
 **Environment:** Local RAG/FAISS/Transformers Embeddings, Gradio UI
