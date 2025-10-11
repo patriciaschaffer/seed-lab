@@ -1,6 +1,6 @@
 # 🧠 Research Projects
 
-This folder documents ongoing and completed research exploring **language models, pragmatics, and cognition**.  
+This folder documents ongoing and completed research exploring **language models, pragmatics, and cognition**, as well as one study about languistic bias on ChatGPT.  
 Each sub-project examines a different aspect of LLM behavior—from linguistic bias to persona stability and self-reference.
 
 ---
