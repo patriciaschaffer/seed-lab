@@ -1,4 +1,4 @@
-# Stages of Symbolic Drift in the *Ocean–Breeze* Dialogue
+# 🌊🌬️ Stages of Symbolic Drift in the *Ocean–Breeze* Dialogue
 
 _[Patricia Schaffer](https://github.com/patriciaschaffer)_
  
