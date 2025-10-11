@@ -3,7 +3,9 @@
 _[Patricia Schaffer](https://github.com/patriciaschaffer)_
  
 **Date:** 2025-10-09  
-**Category:** Qualitative / Theoretical Analysis  
+**Category:** Qualitative / Theoretical Analysis 
+
+*Also refer to [Language: "Life Story", Narrative, "Collapse"](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md) and [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)*
 
 ---
 
