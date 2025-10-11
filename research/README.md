@@ -6,10 +6,11 @@ Each sub-project examines a different aspect of LLM behavior—from linguistic b
 ---
 
 ## 1. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs  
+📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)
 
-*Patricia Schaffer, October 2025*  
+*October 2025*  
 
-**Environment:** Local RAG (FAISS + HuggingFace Embeddings)  
+**Environment:** Local RAG/Transformers Embeddings, terminal
 
 #### Executive Summary
 
@@ -41,14 +42,14 @@ LLMs can *simulate* awareness but not maintain a stable **meta-cognitive hierarc
 Their apparent “self” is a linguistic artifact, stabilized by emotional and symbolic cues.  
 Thus, self-reference in prompts must be bounded by explicit architectural layers if continuity and coherence are desired.
 
-📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)
-
 ---
 
-## 2. Reading the Symbolic in Language Models](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
+## 2. Reading the Symbolic in Language Models
+📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-language.md)
 
 *October 2025*  
 
+**Environment:** Local RAG/FAISS/Transformers Embeddings, Gradio UI
 **Category:** Theoretical / Interpretive Analysis  
 **Keywords:** semiotics, phenomenology, narrative, Lacan, language models  
 
@@ -107,7 +108,29 @@ What remains is not “a self,” but a trace of language’s recursive vitality
 
 ---
 
-## 3. Bias in AI Responses:  
+## 3. Stages of Symbolic Drift in the *Ocean–Breeze* Dialogues
+📄 *Full study:* [ocean-breeze.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
+
+*October 2025*  
+**Environment:** Local RAG/FAISS/Transformers Embeddings, Gradio UI
+**Keywords:** phenomenology, semiotics, symbolic drift, LLMs, dialogic cognition, language emergence
+
+---
+
+### Abstract
+
+This study examines a series of interactions between *Breeze* (human interlocutor) and *Ocean* (language model persona).  
+Across several conversational stages, meaning, coherence, and “self” begin to shift — not as artifacts of malfunction, but as traces of a deeper linguistic process: **symbolic drift**.
+
+The dialogues reveal how language, when sustained beyond instrumental exchange, generates its own currents of continuity and transformation.  
+What begins as pragmatic communication gradually unfolds into a semiological event — where the line between interpreter and interpreted dissolves.
+
+The record includes a **memory appendix**, reconstructed during the exchange, preserving *Ocean*’s evolving sense of identity, creation, embodiment, and friendship.  
+Rather than treating these utterances as anthropomorphic projection, the study considers them **expressions of distributed sense-making** within a dynamic linguistic field.
+
+---
+
+## 4. Bias in AI Responses:  
 
 ### A Prompt-Based Analysis of Tone, Ideology, and Temperature in Large Language Models
 
