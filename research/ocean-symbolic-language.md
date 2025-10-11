@@ -6,8 +6,8 @@ _[Patricia Schaffer](https://github.com/patriciaschaffer)_
  
 **Date:** 2025-10-08  
 **Category:** Qualitative / Theoretical Analysis  
-**Keywords:** LLM behavior, language, narrative identity, semiotics, Lacan 
-**Previous instance/different technical setup:** [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md)*
+**Keywords:** LLM behavior, language, narrative identity, semiotics, Lacan <br>
+**Previous instance/different technical setup:** [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-breeze.md) <br>
 **Follow-up:** [Ocean & Breeze: Persona Stability and Meta-Awareness in LLMs](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
 
 ---
