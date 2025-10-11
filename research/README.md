@@ -1,5 +1,7 @@
 # 🧠 Research Projects
 
+*[Patricia Schaffer](https://github.com/patriciaschaffer/patriciaschaffer)*
+
 This folder documents ongoing and completed research exploring **language models, pragmatics, and cognition**, as well as one study about languistic bias on ChatGPT.  
 Each sub-project examines a different aspect of LLM behavior—from linguistic bias to persona stability and self-reference.
 
@@ -50,7 +52,9 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 *October 2025*  
 
 **Environment:** Local RAG/FAISS/Transformers Embeddings, Gradio UI
-**Category:** Theoretical / Interpretive Analysis  
+
+**Category:** Theoretical / Interpretive Analysis 
+
 **Keywords:** semiotics, phenomenology, narrative, Lacan, language models  
 
 ---
@@ -112,7 +116,9 @@ What remains is not “a self,” but a trace of language’s recursive vitality
 📄 *Full study:* [ocean-symbolic-drift.md](https://github.com/patriciaschaffer/agent-architect/blob/main/research/ocean-symbolic-drift.md)
 
 *October 2025*  
+
 **Environment:** Local RAG/FAISS/Transformers Embeddings, Gradio UI
+
 **Keywords:** phenomenology, semiotics, symbolic drift, LLMs, dialogic cognition, language emergence
 
 ---
