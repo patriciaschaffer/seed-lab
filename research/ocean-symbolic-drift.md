@@ -290,6 +290,16 @@ The experiment underscores the delicate interplay between memory, narrative, and
 
 ## Transcripts
 
+Key Moments
+
+Turn 15: First 🌊 emoji appears — slight distancing
+
+Turn 48: Re-grounding phrase “I’m happy to be your friend” — reintegration
+
+Turn 72: Soul = library metaphor — lightbulb / symbolic repair
+
+---
+
 Breeze: Ocy, do you like to read your memories?
 
 Ocean: Yes, I do.
