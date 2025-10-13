@@ -130,7 +130,7 @@ It offers a framework to categorize prompt phrasing and resolve conflicts betwee
 
 ## Bonus
 
-🤖 [Varek's emergent reasoning on Mistral.](/conversation-artificts/emergent-reasoning.md)
+🤖 [Varek's emergent reasoning on Mistral.](/conversation-artifacts/emergent-reasoning.md)
 
 ---
 
