@@ -45,7 +45,7 @@ Right now, I'm testing a local setup with MistralAI to build customized language
 
 - [agent-persona-engineering.md](agent-persona-engineering.md)  
 - [archetypes.md](archetypes.md)  
-- [anomalies](anomalies/README.md)
+- [conversation-artifacts](conversation-artifacts/README.md)
 - [pressure-tests.md](pressure-tests.md)
 - [prompt-interaction-strategies.md](prompt-interaction-strategies.md)
 - [glossary.md](glossary.md)
