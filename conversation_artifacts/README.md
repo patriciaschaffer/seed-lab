@@ -21,6 +21,7 @@ This collection serves as a reference for researchers, engineers, and language t
 
 ## Table of Contents
 
+- [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes itself and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
 A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
 - [Semantic Association - 2025-10-11](semantic-association.md) - Ontological Drift via Semantic Association — Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
