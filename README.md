@@ -108,10 +108,9 @@ By formalizing temperament and drift, Agent Architect strives to build safer, mo
 - `/mistral` — Personas created with Mistral, running locally
 - `/personas/grice-s-maxims/` — Personas that systematically violate Grice's conversational maxims (for study and research)
 - `/memory-rag` — Using RAG to simulate persistent memory in local models
-- `/anomalies` — Unexpected behaviors and drifts
+- `/conversation-artifacts` — Unexpected behaviors and drifts; documents for interpretability and XAI
 - `/agent-persona-engineering.md` — Framework for designing and managing personas
 - `/archetypes.md` — Overview of core archetypes, linked to persona files  
-- `/prompt-interaction-strategies.md` - Prompt and alignment examples
 - `/pressure-tests.md` — Matrices and frameworks to stress-test model stability under varied conditions
 - `/glossary.md` — Terminology, definitions
 - `/related-reading.md` — Recommended readings on psychology, philosophy of mind, philosophy of language, linguistics etc.
