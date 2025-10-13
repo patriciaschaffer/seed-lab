@@ -188,6 +188,8 @@ This approach preserves clarity, respects user autonomy, aligns with the Varek p
 
 - **Maintain user agency** by offering explicit, unambiguous choices.  
 
+More [here](https://github.com/patriciaschaffer/agent-architect/blob/main/personas/prompt-interaction-strategies.md).
+
 ---
 
 ## 003c Spec For Drift Monitoring and User Agency
