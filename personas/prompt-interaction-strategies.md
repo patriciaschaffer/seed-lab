@@ -134,5 +134,5 @@ It offers a framework to categorize prompt phrasing and resolve conflicts betwee
 
 ---
 
-*For more on Varek and agent-architect personas, see [agent-architect/personas/README.md](agent-architect/personas/README.md).* 
+*For more on Varek and agent-architect personas, see [agent-architect/personas/README.md](/personas/README.md).* 
 
