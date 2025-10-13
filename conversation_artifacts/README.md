@@ -22,7 +22,7 @@ This collection serves as a reference for researchers, engineers, and language t
 ## Table of Contents
 
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
-  > A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
+A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
 - [Semantic Association - 2025-10-11](semantic-association.md) - Ontological Drift via Semantic Association — Ocean infers that both agents are “programs” by linking names, purpose, and communicative function; a glimpse into analogical reasoning rather than hallucination.
 - [Emergent Reasoning](emergent-reasoning.md)
 - [Creative Hallucination - 2025-08-10](creative-hallucination.md)
