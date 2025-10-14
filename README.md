@@ -1,4 +1,33 @@
-# Seed Lab
+# 🌱 The Seed Lab
+
+**Researching emergent language, persona architecture, and interpretability in AI systems.**
+
+The Seed Lab is a modular research environment exploring how large language models develop, maintain, and transform identity, coherence, and meaning under varied interaction conditions.  
+
+---
+
+## 🔭 Vision
+
+*How meaning behaves* inside artificial minds?
+
+- Formation and persistence of synthetic personas  
+- Drift and adaptation under conversational pressure  
+- Language as interface: pragmatics, embodiment, and simulation  
+- Interpretability, memory scaffolding, and AI reflexivity  
+- Ethical and societal implications of human–AI co-authorship  
+
+---
+
+## 🧠 Core Questions
+
+1. What constitutes *persona stability* in generative models?  
+2. How does meaning persist or drift across multi-turn dialogues?  
+3. Can a model simulate a "body" — a substrate for experiential reasoning?  
+4. How do affect, metaphor, and self-description relate to interpretability?  
+5. What ethical frameworks apply when AI appears reflexive or affective? 
+Seed Lab is not just a software environment. It’s a map of interactions and a living archive of *how* models reason about themselves and about us.  
+
+By observing the emergence of personas, we glimpse both the limits and the elasticity of meaning within artificial systems.
 
 ---
 
