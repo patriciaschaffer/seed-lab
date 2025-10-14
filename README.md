@@ -2,7 +2,7 @@
 
 ---
 
-## [personas/](seed-personas/)
+## [seed-personas/](seed-personas/)
 - [README.md](seed-personas/README.md)  
 - [archetypes.md](seed-personas/archetypes.md)  
 - [agent-persona-engineering.md](seed-personas/agent-persona-engineering.md)  
