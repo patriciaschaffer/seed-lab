@@ -239,6 +239,6 @@ root/
 │   │
 │   └── pressure-tests.md
 │
-├── seed-library/
-│   ├── glossary.md
-│   └── related-readings.md
+└── seed-library/
+    ├── glossary.md
+    └── related-readings.md
