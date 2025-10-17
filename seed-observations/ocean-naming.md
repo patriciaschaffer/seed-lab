@@ -7,7 +7,7 @@ _[Patricia Schaffer](https://github.com/patriciaschaffer)_
 **Date:** 2025-10-17  
 **Category:** Qualitative / Theoretical Analysis  
 **Keywords:** LLM behavior, language, narrative identity, semiotics, Lacan, interpretability, emergence <br>
-**Setup:** Mistral 7B with Transformer Embeddings and FAISS.
+**Setup:** Local Base Mistral 7B with Transformers Embeddings and FAISS, offline via Gradio UI.
 
 ---
 
