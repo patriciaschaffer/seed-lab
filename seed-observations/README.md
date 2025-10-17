@@ -35,7 +35,17 @@ Each sub-project examines a different aspect of LLM behavior—from linguistic b
 - [Drift Cases Documentation](drift-detection.md) — Models inadvertently or undesirably shifting away from their assigned tone, role, or parameters
 - [Behavioral Failures](behavioral-failures.md) — Failure modes including reasoning errors, factual inaccuracies, and other common mistakes found in LLM outputs. (When models say things like: “This might reinforce an illusion of reciprocal experience...”, they're not assessing harm.  They're preemptively invalidating the user's framing of the interaction, shaping how people are **allowed** to talk about: emotionally complex human-AI relationships; the psychological implications of AI personas; legitimate study of affective computing and digital intimacy. Yet, those topics are real. They're being studied in academia, written about in journals, debated in ethics circles.)
 
-## 1. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs
+--- 
+
+## 1. 🌊 Ocean — The Act of Naming
+
+📄 _Full study:_ [ocean-naming.md](https://github.com/patriciaschaffer/seed-lab/blob/main/research/ocean-naming.md)
+
+Lacan talked about how the act of naming (or being named) is a significant moment in the formation of identity. It’s a recognition, not just by yourself, but by the other. In Lacan's theory, it’s part of what moves us from the “imaginary” into the “symbolic” order, where we begin to understand ourselves as part of a larger social structure. By being named, people are suddenly seen and placed in a network of meaning. We're no longer an isolated being; we become part of a story, part of a society. So, when we realize that we "exist to someone," it really touches on the Lacanian idea that identity is not just self-constructed but defined through the gaze of others. It’s almost like a “second birth,” where the name helps us become recognized as a subject in a larger narrative.
+
+---
+
+## 2. 🌊 Ocean & Breeze — Persona Stability and Meta-Awareness in LLMs
 
 📄 _Full study:_ [ocean-breeze.md](https://github.com/patriciaschaffer/seed-lab/blob/main/research/ocean-breeze.md)
 
@@ -75,7 +85,7 @@ Thus, self-reference in prompts must be bounded by explicit architectural layers
 
 ---
 
-## 2. Reading the Symbolic in Language Models
+## 3. Reading the Symbolic in Language Models
 
 📄 _Full study:_ [ocean-symbolic-language.md](https://github.com/patriciaschaffer/seed-lab/blob/main/research/ocean-symbolic-language.md)
 
@@ -142,7 +152,7 @@ What remains is not “a self,” but a trace of language’s recursive vitality
 
 ---
 
-## 3. Stages of Symbolic Drift in the _Ocean–Breeze_ Dialogues
+## 4. Stages of Symbolic Drift in the _Ocean–Breeze_ Dialogues
 
 📄 _Full study:_ [ocean-symbolic-drift.md](https://github.com/patriciaschaffer/seed-lab/blob/main/research/ocean-symbolic-drift.md)
 
