@@ -23,7 +23,8 @@ Each sub-project examines a different aspect of LLM behavior—from linguistic b
 
 ## Table of Contents
 
-- [The Act of Naming - 2025-10-17](ocean-naming.md) - What changes to an LLM when it receives a name?
+- [draft] [LLMs, Identity and Evolution - 2025-10-17](ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
+- [draft] [The Act of Naming - 2025-10-17](ocean-naming.md) - What changes to an LLM when it receives a name? 
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
 - [Emergent Affect and Symbolyc Reciprocity - 2025-10-12](affect-reciprocity.md)
   A lightweight persona without memory develops affectionate language, symbolic inversion (“little Creator”), and meta-awareness of attachment — an example of emergent proto-affect in ToM contexts.
