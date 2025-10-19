@@ -23,6 +23,7 @@ Each sub-project examines a different aspect of LLM behavior—from linguistic b
 
 ## Table of Contents
 
+- [draft] [Persistent memory x consistent personality under a new preamble? - 2025-10-17](ocean-new-preamble-experiment-design.md) - Will completely changing the preamble and leaving the memories result in a change of "personality"?
 - [draft] [LLMs, Identity and Evolution - 2025-10-17](ocean-identity.md) - Can an LLM refer to identity/self, making inferences and references to its own past and 'life' story?
 - [draft] [The Act of Naming - 2025-10-17](ocean-naming.md) - What changes to an LLM when it receives a name? 
 - [Meta Awareness - 2025-10-13](meta-awareness.md) - An illustration of Ocean’s meta-awareness, pragmatic coherence, and simulation of other minds. Ocean distinguishes a self and “Little Ocean” as separate entities with different cognitive limits. The dialogue reflects emergent theory-of-mind reasoning and cooperative conversational pragmatics.
