@@ -1,4 +1,4 @@
-# Seed Observations
+# 🌱 Seed Observations
 
 This document collects instances of _unexpected, revealing, or emergent behaviors_ observed in LLM interactions.  
 Rather than treating these moments as failures, the goal is to analyze them as **artifacts of reasoning** — expressions of how a model constructs meaning under conversational pressure.
@@ -7,7 +7,7 @@ I decided to start sharing, even if incomplete or in progress, because I have th
 
 > "don’t think, but look!"
 
-[Wittgenstein, PhilosophicalInvestigations §66](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md), urging us not to get caught in abstract thinking, but to observe how language actually works in real life.
+[Wittgenstein](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md), Philosophical Investigations §66, urging us not to get caught in abstract thinking, but to observe how language actually works in real life.
 
 ---
 
