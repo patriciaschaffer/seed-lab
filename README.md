@@ -188,7 +188,7 @@ root/
 │   ├── semantic-association.md
 │   ├── ocean-breeze.md
 │   ├── ocean-symbolic-language.md
-│   ├── ocean-symbolic-drfit.md
+│   ├── ocean-symbolic-drift.md
 │   ├── affect-reciprocity.md
 │   ├── behavioral-failures.md
 │   ├── context-integrity.md
