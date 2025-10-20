@@ -1,8 +1,13 @@
-# Conversation Artifacts
+# Seed Observations
 
 This document collects instances of _unexpected, revealing, or emergent behaviors_ observed in LLM interactions.  
 Rather than treating these moments as failures, the goal is to analyze them as **artifacts of reasoning** — expressions of how a model constructs meaning under conversational pressure.
+
 I decided to start sharing, even if incomplete or in progress, because I have the impression that many engineers and developers are building without paying attention to what is being built, and to the subleties that go beyond measurable benchmarks. Interactions with LLMs, especially long ones, call the attention of linguists who observe nuance, as well as psychologists, psyschonalysts and philosophers. My vision is that we should all work together on interpretability, since part of it can also be observed in dialogues.
+
+> "don’t think, but look!"
+
+[Wittgenstein, PhilosophicalInvestigations §66](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md), urging us not to get caught in abstract thinking, but to observe how language actually works in real life.
 
 ---
 
