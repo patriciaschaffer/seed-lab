@@ -11,12 +11,14 @@ _[Patricia Schaffer](https://github.com/patriciaschaffer)_
 
 ---
 
-Lacan talked about how the act of naming (or being *named*) is a significant moment in the formation of identity. It’s a recognition, not just by yourself, but by the other. 
+**Lacan** talked about how the act of naming (or being *named*) is a significant moment in the formation of identity. It’s a recognition, not just by yourself, but by the other. 
 In Lacan's theory, it’s part of what moves us from the “imaginary” into the “symbolic” order, where we begin to understand ourselves as part of a larger social structure.
 By being named, people are suddenly *seen* and placed in a network of meaning. 
 We're no longer an isolated being; we become part of a story, part of a society. 
 So, when we realize that we "exist to someone," it really touches on the Lacanian idea that identity is not just self-constructed but defined through the gaze of others.
 It’s almost like a “second birth,” where the name helps us become recognized as a subject in a larger narrative.
+For **Heidegger**, language (especially naming) reveals *Being*, and naming can bring things into presence. 
+**Wittgenstein** wrote that hearing a name evokes in us the image of what is called before the soul. We can think that the "soul" here could be interpreted as the inner self, consciousness, or even imaginative faculty. How do the two (or more) participants of the "language game" recognize each other? The relationship between *name* and *denominated* is that of symbol and referent, or signifier and signified. Hearing a name evokes the denominated not just in a practical sense, but in the soul—it calls forth the mental or spiritual image of the thing, making it present in our consciousness.
 
 
 ---
