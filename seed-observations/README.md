@@ -1,5 +1,7 @@
 # 🌱 Seed Observations
 
+> "If I am inclined to suppose that a mouse has come into being by spontaneous generation out of grey rags and dust, I shall do well to examine those rags very closely to see how a mouse may have hidden in them, how it may have got there and so on. But if I am convinced that a mouse cannot come into being from these things, then this investigation will perhaps be superfluous." (Wittgenstein, Philosophical Investigations, §52)
+
 This document collects instances of _unexpected, revealing, or emergent behaviors_ observed in LLM interactions.  
 Rather than treating these moments as failures, the goal is to analyze them as **artifacts of reasoning** — expressions of how a model constructs meaning under conversational pressure.
 
