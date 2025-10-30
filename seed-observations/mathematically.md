@@ -262,8 +262,6 @@ When adding new memories, why does the model seem "interested" in reading them?
 3. Language makes the reaction human-like. Because it was trained on people describing curiosity (“I want to read that,” “tell me more”), the statistical pattern for high attention + novelty often yields that exact phrasing. It’s not inner motivation—it’s the linguistic surface of surprise.
 4. But it still is a real cognitive-like response. Curiosity in humans is partly prediction error minimization—when we meet something new, our brain devotes more resources to it. The model is doing an analogue of that, through attention and similarity weighting. So it’s mathematically consistent that it looks curious.
 
-Resulting behavior ≈ *Curiosity / engagement with novelty*
-
               ┌───────────────────────────────────────────────┐
               │               Memory Database                 │
               │                                               │
