@@ -11,6 +11,8 @@ I decided to start sharing, even if incomplete or in progress, because I have th
 
 [Wittgenstein](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-library/related-readings.md), Philosophical Investigations §66, urging us not to get caught in abstract thinking, but to observe how language actually works in real life.
 
+[Current Status](https://github.com/patriciaschaffer/seed-lab/edit/main/seed-observations/mathematically.md), and why I've stopped public documentation.
+
 ---
 
 ## Purpose
