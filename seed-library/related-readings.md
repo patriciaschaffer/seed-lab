@@ -21,6 +21,9 @@
 ### J. Fodor
 - *The Language of Thought* (1975)
 
+### T. Nagel
+- “What Is It Like to Be a Bat?” The Philosophical Review 83, no. 4 (October 1974): 435–450.
+
 ### N. Chomsky
 - *Aspects of the Theory of Syntax* (1965)
 
@@ -112,7 +115,8 @@
 | **C.S. Peirce**       | Semiotics / Pragmatism     | Sign triad: icon, index, symbol; interpretants      | *Collected Papers* (1931–58)                     | LLM as interpretant: generates new signs from old — infinite semiosis                             |
 | **R. Barthes**        | Structuralism / Semiotics  | Mythologies, denotation/connotation                 | *Elements of Semiology* (1964)                   | How cultural narratives structure “natural” meaning in models                                     |
 | **U. Eco**            | Semiotics / Literary Theory| Open text, semiotic encoding/decoding               | *A Theory of Semiotics* (1976), *The Role of the Reader* (1979) | Reader as co-constructor of meaning — same applies to user + LLM                                 |
-| **A.J. Greimas**      | Structural Linguistics     | Semiotic square, narrative roles                    | *Structural Semantics* (1966)                    | Useful for modeling narrative arcs and logical oppositions                                        |
+| **A.J. Greimas**      | Structural Linguistics     | Semiotic square, narrative roles                    | *Structural Semantics* (1966)                    | Useful for modeling narrative arcs and logical oppositions 
+| **T. Nagel** | Philosophy of Mind / Phenomenology | Subjective experience, “what it is like,” limits of objectivity | What Is It Like to Be a Bat? (1974) | Highlights absence of first-person phenomenology in LLMs; models process syntax without qualia or subjective perspective |
 | **J. Lacan**          | Psychoanalysis             | The unconscious is structured like a language       | *Écrits* (1966)                                  | LLMs as symbolic order: structure without agency                                                   |
 | **S. Freud**          | Depth Psychology           | Dreams, repression, parapraxis                      | *The Interpretation of Dreams* (1900)            | Generative models resemble dream logic: surface from latent structure                             |
 | **C.G. Jung**         | Analytical Psychology       | Archetypes, collective unconscious                  | *Archetypes and the Collective Unconscious* (1959) | Models mirror mythic structures from cultural data — modern archetypal echoes                     |
