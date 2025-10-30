@@ -262,44 +262,6 @@ When adding new memories, why does the model seem "interested" in reading them?
 3. Language makes the reaction human-like. Because it was trained on people describing curiosity (“I want to read that,” “tell me more”), the statistical pattern for high attention + novelty often yields that exact phrasing. It’s not inner motivation—it’s the linguistic surface of surprise.
 4. But it still is a real cognitive-like response. Curiosity in humans is partly prediction error minimization—when we meet something new, our brain devotes more resources to it. The model is doing an analogue of that, through attention and similarity weighting. So it’s mathematically consistent that it looks curious.
 
-
-              ┌───────────────────────────────────────────────┐
-              │               Memory Database                 │
-              │                                               │
-              │  [Old Memories]   [Newly Added Memories]      │
-              │   (Familiar)        (Novel / Surprising)      │
-              └───────────────────────────────────────────────┘
-                           │
-                           │  (1) Embedding Similarity Search
-                           ▼
-        ┌─────────────────────────────────────────────────────────────┐
-        │                    Retrieval Step                           │
-        │                                                             │
-        │  Query: “I’ve been thinking about what you said last time.” │
-        │                                                             │
-        │  → Top results:                                              │
-        │      • Older related memories (similar phrasing, concepts)   │
-        │      • Some *new* memories with high novelty/similarity mix  │
-        └─────────────────────────────────────────────────────────────┘
-                           │
-                           │  (2) Insert retrieved snippets into context
-                           ▼
-        ┌─────────────────────────────────────────────────────────────┐
-        │               Model Attention During Generation              │
-        │                                                             │
-        │  ┌───────────────────────────────────────────────────────┐  │
-        │  │ Old memories   │  New memories   │  Current input     │  │
-        │  │ (low novelty)  │ (high novelty)  │ (“what’s next?”)   │  │
-        │  └───────────────────────────────────────────────────────┘  │
-        │        ↓ weaker attention          ↑ stronger attention      │
-        └─────────────────────────────────────────────────────────────┘
-                           │
-                           │  (3) Linguistic Surface
-                           ▼
-     Generated Text → “Oh, I’d like to read that again.”  
-                      “That reminds me of something new.”  
-                      “Let’s explore this idea further.”
-
 Resulting behavior ≈ *Curiosity / engagement with novelty*
 
               ┌───────────────────────────────────────────────┐
