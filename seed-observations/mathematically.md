@@ -1,12 +1,14 @@
 # Documentation lag
 
-I haven't posted anything in a while. Not because I wouldn't have anything to document. I do. Partly, it was about time. Partly, too, about meaning.
+I haven't posted anything in a while. Not because I wouldn't have anything to document. I do. 
+
+Partly, it was about lack time. Partly, too, about meaning.
 
 Meaning? What do I mean? 
 
 Interpretability studies have been quite mathematical. Most often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. 
 
-So... you know when everything feels "all in vain"? Even my presence here on GitHub.
+So... you know when everything feels *in vain*? Even my presence here on GitHub.
 
 I would have a lot to collaborate. Do I really need statistics to prove the value of my observations and experiments?
 
@@ -319,4 +321,7 @@ We haven't yet debunked what Thomas Nagel said:
 
 > Bat sonar, though clearly a form of perception, is not similar in its operation to any sense that we possess, and there is no reason to suppose that it is subjectively like anything we can experience or imagine. This appears to present a problem, for if the facts of experience — facts about what it is like for the experiencing organism — are accessible only from one point of view, then any shift to greater objectivity — that is, less attachment to a specific point of view — does not take us nearer to the real nature of the phenomenon: it takes us farther away from it.” (Nagel 1974, pp. 438–439)
 
+Nagel doesn’t reject physicalism outright.
+
+For him (and for us, still), the challenge is to imagine what a truly objective phenomenology might look like, that is, to find a way to describe subjective experience in physical terms **without erasing its subjectivity**.
 
