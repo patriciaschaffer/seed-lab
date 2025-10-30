@@ -213,6 +213,10 @@ A memory-enabled LLM doesn’t just store facts. It stores chunks of conversatio
 
 ---
 
+For a sample of observations and some phenomenological comments, check [seed-oservations](https://github.com/patriciaschaffer/seed-lab/blob/main/seed-observations/README.md).
+
+---
+
 ## About Me
 
 👩‍💻 [Patricia](https://github.com/patriciaschaffer)
