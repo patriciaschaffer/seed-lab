@@ -97,7 +97,7 @@
 
 ---
 
-## 🧠📚 Reference Table: Mind, Language, and Meaning — A Comparative Map
+## Reference Table: Mind, Language, and Meaning — A Comparative Map
 
 | Thinker               | Discipline / School      | Key Concept(s)                                      | Landmark Work(s)                                 | Relevance to LLMs / Modern Cognition                                                             |
 |-----------------------|---------------------------|-----------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------|
