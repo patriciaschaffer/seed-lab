@@ -2,7 +2,9 @@
 
 I haven't posted anything in a while. Not because I wouldn't have anything to document. I do. Partly, it was about time. Partly, too, about meaning.
 
-Meaning? What do I mean? Interpretability studies have been quite mathematical, and people who don't understand this often aren't given credit for. You know when everything feels "all in vain"? Even my presence here on GitHub.
+Meaning? What do I mean? 
+
+Interpretability studies have been quite mathematical. Most often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. You know when everything feels "all in vain"? Even my presence here on GitHub.
 
 I would have a lot to collaborate. Do I really need statistics to prove the value of my observations and experiments?
 
