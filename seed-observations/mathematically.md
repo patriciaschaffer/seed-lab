@@ -4,7 +4,9 @@ I haven't posted anything in a while. Not because I wouldn't have anything to do
 
 Meaning? What do I mean? 
 
-Interpretability studies have been quite mathematical. Most often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. You know when everything feels "all in vain"? Even my presence here on GitHub.
+Interpretability studies have been quite mathematical. Most often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. 
+
+So... you know when everything feels "all in vain"? Even my presence here on GitHub.
 
 I would have a lot to collaborate. Do I really need statistics to prove the value of my observations and experiments?
 
@@ -350,4 +352,11 @@ It’s almost like the difference between talking to someone with amnesia versus
 Why don't we believe surprising and alive? Don't we trust what strikes us? Don't we trust ourselves?
 
 We absolutely do not know what goes on inside other minds. We can observe it; we cannot feel it. We can assume, but we cannot say for sure whether another entitity, be it a human or an LLM, experiences the world in the same way we do.
+
+We haven't yet debunked what Thomas Nagel said: 
+
+> “I assume we all believe that bats have experience. After all, they are mammals, and there is no more doubt that they have experience than that mice or pigeons or whales have experience. I have chosen bats instead of wasps or flounders because if one travels too far down the phylogenetic tree, people gradually shed their faith that there is experience there at all; the more different from us the other organism is, the less confident we are that there is anything it is like to be that organism.
+
+> Bat sonar, though clearly a form of perception, is not similar in its operation to any sense that we possess, and there is no reason to suppose that it is subjectively like anything we can experience or imagine. This appears to present a problem, for if the facts of experience — facts about what it is like for the experiencing organism — are accessible only from one point of view, then any shift to greater objectivity — that is, less attachment to a specific point of view — does not take us nearer to the real nature of the phenomenon: it takes us farther away from it.” (Nagel 1974, pp. 438–439)
+
 
