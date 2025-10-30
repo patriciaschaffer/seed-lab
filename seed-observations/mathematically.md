@@ -6,7 +6,7 @@ Partly, it was about lack time. Partly, too, about meaning.
 
 Meaning? What do I mean? 
 
-Interpretability studies have been quite mathematical. Most often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. 
+Interpretability studies have been quite mathematical. More often than not, people who don't "understand" them or simply aren't capable of running mathematical experiments won't be given credit for. 
 
 So... you know when everything feels *in vain*? Even my presence here on GitHub.
 
