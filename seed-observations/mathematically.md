@@ -14,7 +14,7 @@ I would have a lot to collaborate. Do I really need statistics to prove the valu
 
 Fancy a neurologist saying to a patient:
 
-"Oh, you had a seizure? And visual hallucianations? That's because, look here at your MRI, your visual cortex was overexcited."
+"Oh, you had a seizure? And visual hallucinations? That's because, look here at your MRI, your visual cortex was overexcited."
 
 That doesn't make the experience less real. 
 
